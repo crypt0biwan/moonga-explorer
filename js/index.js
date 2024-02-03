@@ -1057,6 +1057,7 @@ const addEventListeners = () => {
         e.preventDefault()
         emptyResult()
         artist_select.value = ''
+        sog_cards_checkbox.checked = false
 
         const set = e.target.value
         const cards = get_set(set)
@@ -1082,6 +1083,7 @@ const addEventListeners = () => {
         e.preventDefault()
         emptyResult()
         select.value = ''
+        sog_cards_checkbox.checked = false
 
         const artist = e.target.value
 
