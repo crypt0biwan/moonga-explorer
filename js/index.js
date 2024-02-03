@@ -972,11 +972,13 @@ const setup_modal = () => {
 
                     const sog_card = get_sog_card(card_id)
 
+                    console.log(sog_card)
+
                     const modalTitle = moongaModal.querySelector('.modal-title')
                     const modalBody = moongaModal.querySelector('.modal-body')
 
                     let html = '<div class="row">'
-                    html += '<div class="col-4">'
+                    html += '<div class="col-12 col-md-4 mb-4 mb-md-0">'
 
                     if(sog_card) {
                         html += `<h4>Moonga card</h4>`
@@ -993,9 +995,9 @@ const setup_modal = () => {
                     html += '</div>'
 
                     if(sog_card) {
-                        html += '<div class="col-4">'
+                        html += '<div class="col-12 col-md-4 mb-4 mb-md-0">'
                     } else {
-                        html += '<div class="col-8">'
+                        html += '<div class="col-12 col-md-8">'
                     }
 
                     if(sog_card) {
@@ -1021,12 +1023,13 @@ const setup_modal = () => {
                     html += '</div>'
 
                     if(sog_card) {
-                        html += '<div class="col-4">'
+                        html += '<div class="col-12 col-md-4">'
                         html += `<h4>Spells of Genesis card</h4>`
 
                         html += `<img src="./img/spells_of_genesis/${sog_card.contracts.counterparty.id}.jpg" style="width: 100%" />`
 
                         html += '<div class="d-grid gap-2 pt-3">'
+                        html += `<a href="https://spellsofgenesis.com/cards/${sog_card.unid}" target="_blank" class="btn btn-primary">View on SoG.com</a>`
                         html += `<a href="https://xchain.io/asset/${sog_card.contracts.counterparty.id}" target="_blank" class="btn btn-primary">View on Xchain</a>`
                         html += '</div>'
                         html += '</div>'
