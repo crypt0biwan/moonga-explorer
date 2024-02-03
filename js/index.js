@@ -1060,9 +1060,13 @@ const addEventListeners = () => {
         sog_cards_checkbox.checked = false
 
         const set = e.target.value
-        const cards = get_set(set)
 
-        render_set(set, cards)        
+        if(set !== '') {
+            const cards = get_set(set)
+            render_set(set, cards)        
+        } else {
+            render_all_sets()
+        }
     })
 
     sog_cards_checkbox.addEventListener('change', e => {
