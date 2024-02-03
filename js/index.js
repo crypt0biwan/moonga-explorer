@@ -972,8 +972,6 @@ const setup_modal = () => {
 
                     const sog_card = get_sog_card(card_id)
 
-                    console.log(sog_card)
-
                     const modalTitle = moongaModal.querySelector('.modal-title')
                     const modalBody = moongaModal.querySelector('.modal-body')
 
