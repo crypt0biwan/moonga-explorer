@@ -2964,7 +2964,7 @@
     "name": "Reckless Footsoldier",
     "rarity": "Common",
     "slug": "412_reckless_footsoldier",
-    "sog_card": "https://xchain.io/asset/FOOTSOLDIER",
+    "sog_card": "FOOTSOLDIER",
     "title": "Noras"
   },
   {
@@ -4224,7 +4224,7 @@
     "name": "Flying Blaze",
     "rarity": "Common",
     "slug": "502_flying_blaze",
-    "sog_card": "https://xchain.io/asset/FLYINGBLAZE",
+    "sog_card": "FLYINGBLAZE",
     "title": "Luminatis"
   },
   {
@@ -4238,7 +4238,7 @@
     "name": "Centaur Archer",
     "rarity": "Uncommon",
     "slug": "503_centaur_archer",
-    "sog_card": "https://xchain.io/asset/CENTAURARCHE",
+    "sog_card": "CENTAURARCHE",
     "title": "Luminatis"
   },
   {
@@ -4252,7 +4252,7 @@
     "name": "Black Shaman",
     "rarity": "Rare",
     "slug": "504_black_shaman",
-    "sog_card": "https://xchain.io/asset/YELLOWSHAMAN",
+    "sog_card": "YELLOWSHAMAN",
     "title": "Obscuras"
   },
   {
@@ -4280,7 +4280,7 @@
     "name": "Aodh the Dark",
     "rarity": "Mythical",
     "slug": "506_aodh_the_dark",
-    "sog_card": "https://xchain.io/asset/DARKAODH",
+    "sog_card": "DARKAODH",
     "title": "Obscuras"
   },
   {
@@ -4378,7 +4378,7 @@
     "name": "Harbinger of Death",
     "rarity": "Rare",
     "slug": "513_harbinger_of_death",
-    "sog_card": "https://xchain.io/asset/HARBINGERDEA",
+    "sog_card": "HARBINGERDEA",
     "title": "Obscuras"
   },
   {
@@ -4392,7 +4392,7 @@
     "name": "Heavenly Shepherd",
     "rarity": "Uncommon",
     "slug": "514_heavenly_shepherd",
-    "sog_card": "https://xchain.io/asset/HEAVENLYSHEP",
+    "sog_card": "HEAVENLYSHEP",
     "title": "Luminatis"
   },
   {
@@ -4476,7 +4476,7 @@
     "name": "Lightning Rider",
     "rarity": "Uncommon",
     "slug": "520_lightning_rider",
-    "sog_card": "https://xchain.io/asset/REINFORCEMEN",
+    "sog_card": "REINFORCEMEN",
     "title": "Luminatis"
   },
   {
@@ -4686,7 +4686,7 @@
     "name": "Colossus of the Desert",
     "rarity": "Common",
     "slug": "535_colossus_of_the_desert",
-    "sog_card": "https://xchain.io/asset/FROZENCOLOSS",
+    "sog_card": "FROZENCOLOSS",
     "title": "Obscuras"
   },
   {
@@ -4896,7 +4896,7 @@
     "name": "Devastating Minotaur",
     "rarity": "Uncommon",
     "slug": "550_devastating_minotaur",
-    "sog_card": "https://xchain.io/asset/DEVASTATINGM",
+    "sog_card": "DEVASTATINGM",
     "title": "Obscuras"
   },
   {
@@ -4994,7 +4994,7 @@
     "name": "Warrior Angel",
     "rarity": "Rare",
     "slug": "557_warrior_angel",
-    "sog_card": "https://xchain.io/asset/WARRIORLUMIN",
+    "sog_card": "WARRIORLUMIN",
     "title": "Luminatis"
   },
   {
@@ -5316,7 +5316,7 @@
     "name": "Demon Warrior",
     "rarity": "Rare",
     "slug": "580_demon_warrior",
-    "sog_card": "https://xchain.io/asset/WARRIOROBSCU",
+    "sog_card": "WARRIOROBSCU",
     "title": "Obscuras"
   },
   {
@@ -5596,7 +5596,7 @@
     "name": "Mylena, Queen of the Kingdom of Waters",
     "rarity": "Mythical",
     "slug": "1200_mylena,_queen_of_the_kingdom_of_waters",
-    "sog_card": "https://xchain.io/asset/TRIDENTQUEEN",
+    "sog_card": "TRIDENTQUEEN",
     "title": "Kingdom of Waters"
   },
   {
@@ -5624,7 +5624,7 @@
     "name": "Vigilant Water Elf",
     "rarity": "Uncommon",
     "slug": "1202_vigilant_water_elf",
-    "sog_card": "https://xchain.io/asset/VIGILANTWATE",
+    "sog_card": "VIGILANTWATE",
     "title": "Kingdom of Waters"
   },
   {
@@ -5680,7 +5680,7 @@
     "name": "Water Elf Life Healer",
     "rarity": "Rare",
     "slug": "1206_water_elf_life_healer",
-    "sog_card": "https://xchain.io/asset/QUEENSHEALER",
+    "sog_card": "QUEENSHEALER",
     "title": "Kingdom of Waters"
   },
   {
@@ -5820,7 +5820,7 @@
     "name": "Reinforced Orcandos",
     "rarity": "Uncommon",
     "slug": "1216_reinforced_orcandos",
-    "sog_card": "https://xchain.io/asset/REINFORCEDOC",
+    "sog_card": "REINFORCEDOC",
     "title": "Kingdom of Waters"
   },
   {
@@ -5904,7 +5904,7 @@
     "name": "Infected Sormal",
     "rarity": "Rare",
     "slug": "1222_infected_sormal",
-    "sog_card": "https://xchain.io/asset/INFECTEDSORM",
+    "sog_card": "INFECTEDSORM",
     "title": "Loner"
   },
   {
@@ -5932,7 +5932,7 @@
     "name": "Transcendental Knight of Shadows",
     "rarity": "Rare",
     "slug": "1224_transcendental_knight_of_shadows",
-    "sog_card": "https://xchain.io/asset/TRANSCENDEN",
+    "sog_card": "TRANSCENDEN",
     "title": "Knight of Shadows"
   },
   {
@@ -5988,7 +5988,7 @@
     "name": "Earth Elf Monsters Killer",
     "rarity": "Rare",
     "slug": "1228_earth_elf_monsters_killer",
-    "sog_card": "https://xchain.io/asset/ELFMONSTERKI",
+    "sog_card": "ELFMONSTERKI",
     "title": "Alliance of Marnordir"
   },
   {
@@ -6016,7 +6016,7 @@
     "name": "Crystal Processor",
     "rarity": "Rare",
     "slug": "1230_crystal_processor",
-    "sog_card": "https://xchain.io/asset/CRYSTALREFIN",
+    "sog_card": "CRYSTALREFIN",
     "title": "Alliance of Marnordir"
   },
   {
@@ -6310,7 +6310,7 @@
     "name": "Hungry Amphibious Dragon",
     "rarity": "Rare",
     "slug": "1251_hungry_amphibious_dragon",
-    "sog_card": "https://xchain.io/asset/HUNGRYAMPHIB",
+    "sog_card": "HUNGRYAMPHIB",
     "title": "Loner"
   },
   {
@@ -6324,7 +6324,7 @@
     "name": "Ice Dragon",
     "rarity": "Common",
     "slug": "1252_ice_dragon",
-    "sog_card": "https://xchain.io/asset/ICEGOLEM",
+    "sog_card": "ICEGOLEM",
     "title": "Loner"
   },
   {
@@ -6464,7 +6464,7 @@
     "name": "Water Elf General",
     "rarity": "Rare",
     "slug": "1262_water_elf_general",
-    "sog_card": "https://xchain.io/asset/WATERELFADMI",
+    "sog_card": "WATERELFADMI",
     "title": "Kingdom of Waters"
   },
   {
@@ -6506,7 +6506,7 @@
     "name": "Ultimate War Dog",
     "rarity": "Rare",
     "slug": "1265_ultimate_war_dog",
-    "sog_card": "https://xchain.io/asset/OUTRAGIOUSWA",
+    "sog_card": "OUTRAGIOUSWA",
     "title": "Alliance of Marnordir"
   },
   {
@@ -6534,7 +6534,7 @@
     "name": "Itlan Expert Dog Handler",
     "rarity": "Rare",
     "slug": "1267_itlan_expert_dog_handler",
-    "sog_card": "https://xchain.io/asset/ITLANEXPERTD",
+    "sog_card": "ITLANEXPERTD",
     "title": "Alliance of Marnordir"
   },
   {
@@ -6604,7 +6604,7 @@
     "name": "Dogs Enhancer",
     "rarity": "Uncommon",
     "slug": "1272_dogs_enhancer",
-    "sog_card": "https://xchain.io/asset/DOGENHANCER",
+    "sog_card": "DOGENHANCER",
     "title": "Alliance of Marnordir"
   },
   {
@@ -6828,7 +6828,7 @@
     "name": "Earth Elf Sage",
     "rarity": "Uncommon",
     "slug": "1288_earth_elf_sage",
-    "sog_card": "https://xchain.io/asset/ELFSAGE",
+    "sog_card": "ELFSAGE",
     "title": "Alliance of Marnordir "
   },
   {
@@ -6842,7 +6842,7 @@
     "name": "Eraol",
     "rarity": "Common",
     "slug": "1289_eraol",
-    "sog_card": "https://xchain.io/asset/ERAOL",
+    "sog_card": "ERAOL",
     "title": "Kingdom of Waters"
   },
   {
@@ -6856,7 +6856,7 @@
     "name": "Fighting Water Elf",
     "rarity": "Common",
     "slug": "1290_fighting_water_elf",
-    "sog_card": "https://xchain.io/asset/WATERSPEARFI",
+    "sog_card": "WATERSPEARFI",
     "title": "Kingdom of Waters"
   },
   {
@@ -6898,7 +6898,7 @@
     "name": "Hordes of Piranha Manipulator",
     "rarity": "Rare",
     "slug": "1293_hordes_of_piranha_manipulator",
-    "sog_card": "https://xchain.io/asset/PIRANHAMANIP",
+    "sog_card": "PIRANHAMANIP",
     "title": "Kingdom of Waters"
   },
   {
@@ -6982,7 +6982,7 @@
     "name": "King Gar'Awall, Protector of Itlan",
     "rarity": "Mythical",
     "slug": "1299_king_gar_awall,_protector_of_itlan",
-    "sog_card": "https://xchain.io/asset/ITLANKINGGAR",
+    "sog_card": "ITLANKINGGAR",
     "title": "Alliance of Marnordir"
   },
   {
@@ -6996,7 +6996,7 @@
     "name": "Carniath Creator of Fire",
     "rarity": "Rare",
     "slug": "700_carniath_creator_of_fire",
-    "sog_card": "https://xchain.io/asset/CARNIATHCREA",
+    "sog_card": "CARNIATHCREA",
     "title": "County of Summer"
   },
   {
@@ -7346,7 +7346,7 @@
     "name": "Slashing Crirawin",
     "rarity": "Uncommon",
     "slug": "725_slashing_crirawin",
-    "sog_card": "https://xchain.io/asset/SLASHINGCRIR",
+    "sog_card": "SLASHINGCRIR",
     "title": "County of Winter"
   },
   {
@@ -7682,7 +7682,7 @@
     "name": "Mayal Queen of Lymronia",
     "rarity": "Mythical",
     "slug": "749_mayal_queen_of_lymronia",
-    "sog_card": "https://xchain.io/asset/MAYALCARD",
+    "sog_card": "MAYALCARD",
     "title": "Lymronia"
   },
   {
@@ -7738,7 +7738,7 @@
     "name": "Mayli, Princess of Summer",
     "rarity": "Rare",
     "slug": "753_mayli,_princess_of_summer",
-    "sog_card": "https://xchain.io/asset/PRINCESSSUMM",
+    "sog_card": "PRINCESSSUMM",
     "title": "County of Summer"
   },
   {
@@ -7822,7 +7822,7 @@
     "name": "Feodora, Princess of Spring",
     "rarity": "Rare",
     "slug": "759_feodora,_princess_of_spring",
-    "sog_card": "https://xchain.io/asset/PRINCESSSPRI",
+    "sog_card": "PRINCESSSPRI",
     "title": "County of Spring"
   },
   {
@@ -7864,7 +7864,7 @@
     "name": "Guardian of Winter",
     "rarity": "Common",
     "slug": "762_guardian_of_winter",
-    "sog_card": "https://xchain.io/asset/PRINCEOFWINT",
+    "sog_card": "PRINCEOFWINT",
     "title": "County of Winter"
   },
   {
@@ -7976,7 +7976,7 @@
     "name": "Elementalist of Autumn",
     "rarity": "Uncommon",
     "slug": "770_elementalist_of_autumn",
-    "sog_card": "https://xchain.io/asset/PRINCEAUTUMN",
+    "sog_card": "PRINCEAUTUMN",
     "title": "County of Autumn"
   },
   {
@@ -8046,7 +8046,7 @@
     "name": "Rulvar, Possessor of the Flame",
     "rarity": "",
     "slug": "775_rulvar,_possessor_of_the_flame",
-    "sog_card": "https://xchain.io/asset/PROSSESSORFL",
+    "sog_card": "PROSSESSORFL",
     "title": "County of Summer"
   },
   {
@@ -8130,7 +8130,7 @@
     "name": "Griffin, Master of Water",
     "rarity": "Rare",
     "slug": "781_griffin,_master_of_water",
-    "sog_card": "https://xchain.io/asset/GRIFFINMASTE",
+    "sog_card": "GRIFFINMASTE",
     "title": "County of Spring"
   },
   {
@@ -8144,7 +8144,7 @@
     "name": "Guardian of the Source of Life",
     "rarity": "Uncommon",
     "slug": "782_guardian_of_the_source_of_life",
-    "sog_card": "https://xchain.io/asset/GUARDIANSOUR",
+    "sog_card": "GUARDIANSOUR",
     "title": "County of Spring"
   },
   {
@@ -8186,7 +8186,7 @@
     "name": "Wise Thral",
     "rarity": "Common",
     "slug": "785_wise_thral",
-    "sog_card": "https://xchain.io/asset/WISETHRAL",
+    "sog_card": "WISETHRAL",
     "title": "County of Spring"
   },
   {
@@ -8214,7 +8214,7 @@
     "name": "Unicorn, Creator of Ice",
     "rarity": "Rare",
     "slug": "787_unicorn,_creator_of_ice",
-    "sog_card": "https://xchain.io/asset/ICEUNICORN",
+    "sog_card": "ICEUNICORN",
     "title": "County of Winter"
   },
   {
@@ -8298,7 +8298,7 @@
     "name": "Royal Deer, Master of Earth",
     "rarity": "Rare",
     "slug": "793_royal_deer,_master_of_earth",
-    "sog_card": "https://xchain.io/asset/ROYALDEER",
+    "sog_card": "ROYALDEER",
     "title": "County of Autumn"
   },
   {
@@ -8354,7 +8354,7 @@
     "name": "Assassin Weanara",
     "rarity": "Common",
     "slug": "797_assassin_weanara",
-    "sog_card": "https://xchain.io/asset/WEANARAASSAS",
+    "sog_card": "WEANARAASSAS",
     "title": "County of Autumn"
   },
   {
@@ -9502,7 +9502,7 @@
     "name": "Slashing Crirawin",
     "rarity": "Uncommon",
     "slug": "1079_slashing_crirawin",
-    "sog_card": "https://xchain.io/asset/SLASHINGCRIR",
+    "sog_card": "SLASHINGCRIR",
     "title": "County of Winter"
   },
   {
@@ -9936,7 +9936,7 @@
     "name": "Overarmed Dwarf",
     "rarity": "Rare",
     "slug": "1110_overarmed_dwarf",
-    "sog_card": "https://xchain.io/asset/OVERARMEDDWA",
+    "sog_card": "OVERARMEDDWA",
     "title": "Kingdom of Askarh"
   },
   {
@@ -10454,7 +10454,7 @@
     "name": "Boouus egg",
     "rarity": "",
     "slug": null,
-    "sog_card": "https://xchain.io/asset/BOOUUSEGG",
+    "sog_card": "BOOUUSEGG",
     "title": "card by boouus"
   },
   {

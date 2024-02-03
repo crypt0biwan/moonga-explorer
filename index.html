@@ -83,7 +83,9 @@
             </p>
 
             <form>
-                <select id="set" class="form-select form-select-lg mt-3 mb-3">
+                <h4>Filter by set</h4>
+                <select id="set" class="form-select form-select-lg mt-3">
+                    <option value="">Show all</option>
                     <optgroup label="Core Sets">
                         <option value="Rebirth">Rebirth (99 cards)</option>
                         <option value="Revolt">Revolt (120 cards)</option>
@@ -98,6 +100,21 @@
                         <option value="Victory">Victory (32 cards)</option>
                     </optgroup>
                 </select>
+
+                <div class="text-center mt-4 mb-4"><em>-- or --</em></div>
+
+                <h4>Filter by artist</h4>
+                <select id="artists" class="form-select form-select-lg mt-3 mb-5">
+                    <option value="">Show all</option>
+                </select>
+
+
+                <div class="form-check">
+                    <input class="form-check-input" type="checkbox" value="" id="sog_cards_only">
+                    <label class="form-check-label" for="sog_cards_only">
+                      Show only cards with SoG variants
+                    </label>
+                </div>
             </form>
 
             <footer id="footer">
@@ -107,9 +124,27 @@
             </footer>
         </div>
 
-        <main id="result" class="p-2 p-lg-5"></main>
+        <main id="result" class="container-fluid p-2 p-lg-5"></main>
+
+        <div class="modal modal-xl fade" id="moongaModal" tabindex="-1" aria-labelledby="moongaModalLabel" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                <div class="modal-header">
+                    <h1 class="modal-title fs-5" id="moongaModalLabel">New message</h1>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                   
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                </div>
+                </div>
+            </div>
+        </div>
 
         <script src="./js/lodash.min.js"></script>
+        <script src="./js/bootstrap.bundle.min.js"></script>
         <script src="./js/index.js"></script>
     </body>
 </html>

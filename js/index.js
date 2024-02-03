@@ -1,13 +1,22 @@
-const form = document.querySelector('form')
-const select = document.querySelector('#set')
+const artist_select = document.querySelector('#artists')
 
 let data = null
+let sog_data = null
 let core_sets = []
 let extensions = []
 
 const get_data = async () => {
     const resp = await fetch('./moonga.json')
     data = await resp.json()
+
+    const resp_sog = await fetch('./sog.json')
+    sog_data = (await resp_sog.json()).data
+
+    _.orderBy(_.uniqBy(data, 'artist'), [entry => entry.artist.toLowerCase()], ['asc']).forEach(entry => {
+        if(entry.artist !== '') {
+            artist_select.innerHTML += `<option value="${entry.artist}">${entry.artist}</option>`
+        }
+    })
 
     return data
 }
@@ -860,10 +869,20 @@ const get_set = set => {
     return cards
 }
 
-const render_set = set => {
-    let html = '<div class="row">'
+const get_sog_card = moongaId => {
+    return sog_data.find(s => parseInt(s.moongaId, 10) === moongaId && s.contracts && s.contracts.counterparty.id !== '')
+}
 
-    const cards = get_set(set)
+const render_set = (set, cards = [], render_set_name = true) => {
+    let html = ''
+    
+    if(render_set_name) {
+        html += `<div class="alert alert-dark text-center mb-5">
+            <h2 class="mb-0">${set}</h2>
+        </div>`
+    }
+
+    html += '<div class="row">'
 
     cards.forEach(card => {
         const {
@@ -871,28 +890,29 @@ const render_set = set => {
             core_set,
             extension,
             rarity,
-            sog_card,
             design_link,
             design_date,
             artist,
             card_id
         } = card
 
-        html += `<div class="col-12 col-sm-6 col-md-4 col-xl-3">
+        let sog_card = get_sog_card(card_id)
+
+        html += `<div class="col-12 col-sm-6 col-md-4 col-xl-3 card-col ${sog_card ? 'has-sog-card': ''}">
             <div class="card mb-5">
                 <img src="${get_img_src(set, name)}" class="card-img-top" alt="${name}">
 
                 
                 <div class="card-body text-center">
-                    <h5 class="card-title">${card_id}: ${name}</h5>
+                    <h5 class="card-title">${name}</h5>
                     
                     <div class="mb-2">${rarity ? `(${rarity})` : ''}</div>
                     <div class="mb-2">${artist ? `Artist: ${artist}` : ''}</div>
 
                     <div class="d-grid gap-2">
-                        ${design_link ? `<a href="${design_link}" target="_blank" class="btn btn-primary">View design on DeviantArt</a>` : ``}
+                        <button class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#moongaModal" data-card-id="${card_id}">INFO</button>
 
-                        ${sog_card ? `<a href="${sog_card}" target="_blank" class="btn btn-light">View SoG card on Xchain</a>` : ''}
+                        ${sog_card ? `<a href="https://xchain.io/asset/${sog_card.contracts.counterparty.id}" target="_blank" class="btn btn-light">View SoG card on Xchain</a>` : ''}
                     </div>
                 </div>
             </div>
@@ -901,7 +921,180 @@ const render_set = set => {
 
     html += '</div>'
 
-    document.querySelector('#result').innerHTML = html
+    document.querySelector('#result').innerHTML += html
+}
+
+const render_all_sets = () => {
+    [...core_sets, ...extensions].forEach(set => {
+        const cards = get_set(set)
+        render_set(set, cards)        
+    })
+}
+
+const get_rarity_color = rarity => {
+    switch(rarity) {
+        case 'Common':
+            return 'silver'
+        case 'Uncommon':
+            return 'red'
+        case 'Rare':
+            return 'green'
+        case 'Mythical':
+            return 'gold'
+    }
+}
+
+const setup_modal = () => {
+    try {
+        const moongaModal = document.getElementById('moongaModal')
+        if (moongaModal) {
+            moongaModal.addEventListener('show.bs.modal', event => {
+                const button = event.relatedTarget
+
+                const card_id = parseInt(button.getAttribute('data-card-id'), 10)
+
+                const card = data.find(d => d.card_id === card_id)
+
+                if(card) {
+                    const {
+                        artist,
+                        card_id,
+                        core_set,
+                        description,
+                        design_date,
+                        design_link,
+                        extension,
+                        name,
+                        rarity,
+                        slug,
+                        title,
+                    } = card
+
+                    const sog_card = get_sog_card(card_id)
+
+                    const modalTitle = moongaModal.querySelector('.modal-title')
+                    const modalBody = moongaModal.querySelector('.modal-body')
+
+                    let html = '<div class="row">'
+                    html += '<div class="col-4">'
+
+                    if(sog_card) {
+                        html += `<h4>Moonga card</h4>`
+                    }
+
+                    html += `<img src="${get_img_src(core_set ? core_set : extension, name)}" style="width: 100%" />`
+
+                    if(design_link) {
+                        html += '<div class="d-grid gap-2 pt-3">'
+                        html += `<a href="${design_link}" target="_blank" class="btn btn-primary">View design on DeviantArt</a>`
+                        html += '</div>'
+                    }
+
+                    html += '</div>'
+
+                    if(sog_card) {
+                        html += '<div class="col-4">'
+                    } else {
+                        html += '<div class="col-8">'
+                    }
+
+                    if(sog_card) {
+                        html += `<h4>&nbsp;</h4>`
+                    }
+
+                    html += `<table class="table table-striped"><tbody>`
+
+                    html += `<tr><td>Set</td><td>${core_set ? core_set : extension}</td></tr>`
+                    html += `<tr><td>Card Id</td><td>${card_id}</td></tr>`
+                    html += `<tr><td>Name</td><td>${name}</td></tr>`
+                    html += `<tr><td>Artist</td><td>${artist}</td></tr>`
+                    html += `<tr><td>Title</td><td>${title ? title : 'n/a'}</td></tr>`
+                    html += `<tr><td>Description</td><td>${description ? description : 'n/a'}</td></tr>`
+                    html += `<tr><td>Rarity</td><td>${rarity} (${get_rarity_color(rarity)}, see logo top right)</td></tr>`
+                    
+                    if(sog_card) {
+                        html += `<tr><td>SoG Rarity</td><td>${sog_card.rarity}</td></tr>`
+                    }
+
+                    html += '</tbody></table>'
+
+                    html += '</div>'
+
+                    if(sog_card) {
+                        html += '<div class="col-4">'
+                        html += `<h4>Spells of Genesis card</h4>`
+
+                        html += `<img src="./img/spells_of_genesis/${sog_card.contracts.counterparty.id}.jpg" style="width: 100%" />`
+
+                        html += '<div class="d-grid gap-2 pt-3">'
+                        html += `<a href="https://xchain.io/asset/${sog_card.contracts.counterparty.id}" target="_blank" class="btn btn-primary">View on Xchain</a>`
+                        html += '</div>'
+                        html += '</div>'
+                    }
+
+                    html += '</div>'
+                    modalTitle.textContent = `${name}`
+                    modalBody.innerHTML = html
+                }
+            })
+        }                
+    } catch(e) {
+        console.log(e)
+    }
+}
+
+const emptyResult = () => {
+    document.querySelector('#result').innerHTML = ''
+}
+
+const addEventListeners = () => {
+    const form = document.querySelector('form')
+    const select = document.querySelector('#set')
+    const sog_cards_checkbox = document.querySelector('#sog_cards_only')
+    
+    select.addEventListener('change', e => {
+        e.preventDefault()
+        emptyResult()
+        artist_select.value = ''
+
+        const set = e.target.value
+        const cards = get_set(set)
+
+        render_set(set, cards)        
+    })
+
+    sog_cards_checkbox.addEventListener('change', e => {
+        if(e.target.checked) {
+            document.querySelectorAll('.card-col').forEach(col => {
+                if(!col.classList.contains('has-sog-card')) {
+                    col.classList.add('d-none')
+                }
+            })
+        } else {
+            document.querySelectorAll('.card-col').forEach(col => {
+                col.classList.remove('d-none')
+            })
+        }
+    })
+
+    artist_select.addEventListener('change', e => {
+        e.preventDefault()
+        emptyResult()
+        select.value = ''
+
+        const artist = e.target.value
+
+        if(artist !== '') {
+            const all_sets = core_sets.concat(extensions)
+
+            all_sets.forEach(set => {
+                const cards = get_set(set).filter(c => c.artist === artist)
+                render_set(set, cards)        
+            })
+        } else {
+            render_all_sets()
+        }
+    })
 }
 
 const init = async () => {
@@ -910,15 +1103,10 @@ const init = async () => {
     core_sets = _.uniqBy(json, 'core_set').map(i => i.core_set).filter(i => i !== '')
     extensions = _.uniqBy(json, 'extension').map(i => i.extension).filter(i => i !== '')
 
-    select.addEventListener('change', e => {
-        e.preventDefault();
+    addEventListeners()
+    setup_modal()
 
-        const selected_set = e.target.value
-
-        render_set(selected_set)        
-    })
-
-    render_set('Rebirth')
+    render_all_sets()
 }
 
 init()
