@@ -944,6 +944,42 @@ const get_rarity_color = rarity => {
     }
 }
 
+const render_description = description => {
+    let html = '<div class="description">'
+    
+    html += description
+    
+    html = html.replace(/[ ]?(\d)pp[ ]?/g, `<span class="icon_text" title="$1 power point(s)"><img class="icon" src="./icons/pp.png" /><span class="text">$1</span></span>`)
+    html = html.replace(/[ ]?(\d)pv[ ]?/g, `<span class="icon_text" title="$1 health point(s)"><img class="icon" src="./icons/pv.png" /><span class="text">$1</span></span>`)
+    
+    html = html.replace(/:earth:/g, `<span class="icon_text" title="Earth element"><img class="icon" src="./icons/earth.png" /></span>`)
+    html = html.replace(/:fire:/g, `<span class="icon_text" title="Fire element"><img class="icon" src="./icons/fire.png" /></span>`)
+    html = html.replace(/:ice:/g, `<span class="icon_text" title="Ice element"><img class="icon" src="./icons/ice.png" /></span>`)
+    html = html.replace(/:light:/g, `<span class="icon_text" title="Light element"><img class="icon" src="./icons/light.png" /></span>`)
+    html = html.replace(/:water:/g, `<span class="icon_text" title="Water element"><img class="icon" src="./icons/water.png" /></span>`)
+
+    html = html.replace(/:ly.ee:/g, `<span class="icon_text" title="Ether-Earth affinity"><img class="icon" src="./icons/ether-earth.png" /></span>`)
+    html = html.replace(/:ly.ef:/g, `<span class="icon_text" title="Ether-Fire affinity"><img class="icon" src="./icons/ether-fire.png" /></span>`)
+    html = html.replace(/:ly.ei:/g, `<span class="icon_text" title="Ether-Ice affinity"><img class="icon" src="./icons/ether-ice.png" /></span>`)
+    html = html.replace(/:ly.ew:/g, `<span class="icon_text" title="Ether-Water affinity"><img class="icon" src="./icons/ether-water.png" /></span>`)
+
+    html = html.replace(/[ ]?patk(.\d+)?[ ]?/g, `<span class="icon_text" title="$1 attack point(s)"><img class="icon" src="./icons/atk.png" /><span class="text">$1</span></span>`)
+    html = html.replace(/[ ]?pdef(.\d+)?[ ]?/g, `<span class="icon_text" title="$1 defense point(s)"><img class="icon" src="./icons/def.png" /><span class="text">$1</span></span>`)
+    html = html.replace(/[ ]?pdd(.\d+)?[ ]?/g, `<span class="icon_text" title="$1 damage point(s)"><img class="icon" src="./icons/dmg.png" /><span class="text">$1</span></span>`)
+
+    html = html.replace(/[ ]?patk[ ]?/g, `<span class="icon_text" title="attack point(s)"><img class="icon" src="./icons/atk.png" /></span>`)
+    html = html.replace(/[ ]?pdef[ ]?/g, `<span class="icon_text" title="defense point(s)"><img class="icon" src="./icons/def.png" /></span>`)
+    html = html.replace(/[ ]?pdd[ ]?/g, `<span class="icon_text" title="damage point(s)"><img class="icon" src="./icons/dmg.png" /></span>`)
+    html = html.replace(/[ ]pv[ ]?/g, `<span class="icon_text" title="health point(s)"><img class="icon" src="./icons/pv.png" /></span>`)
+    html = html.replace(/[ ]pp[ ]?/g, `<span class="icon_text" title="power point(s)"><img class="icon" src="./icons/pp.png" /></span>`)
+
+    html = html.replace(/\n/g, '<br />')
+
+    html += '</div>'
+
+    return html
+}
+
 const setup_modal = () => {
     try {
         const moongaModal = document.getElementById('moongaModal')
@@ -1009,7 +1045,7 @@ const setup_modal = () => {
                     html += `<tr><td>Name</td><td>${name}</td></tr>`
                     html += `<tr><td>Artist</td><td>${artist}</td></tr>`
                     html += `<tr><td>Title</td><td>${title ? title : 'n/a'}</td></tr>`
-                    html += `<tr><td>Description</td><td>${description ? description : 'n/a'}</td></tr>`
+                    html += `<tr><td>Description</td><td>${description ? render_description(description) : 'n/a'}</td></tr>`
                     html += `<tr><td>Rarity</td><td>${rarity} (${get_rarity_color(rarity)}, see logo top right)</td></tr>`
                     
                     if(sog_card) {

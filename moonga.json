@@ -9,8 +9,6 @@
     "extension": "",
     "name": "Master of Mountains",
     "rarity": "Common",
-    "slug": "201_master_of_mountains",
-    "sog_card": "",
     "title": "Kingdom of Askarh"
   },
   {
@@ -23,8 +21,6 @@
     "extension": "",
     "name": "Phantom Dragons",
     "rarity": "Common",
-    "slug": "202_phantom_dragons",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -37,8 +33,6 @@
     "extension": "",
     "name": "Watchful Guardian",
     "rarity": "Common",
-    "slug": "203_watchful_guardian",
-    "sog_card": "",
     "title": "Knight of Shadows"
   },
   {
@@ -51,8 +45,6 @@
     "extension": "",
     "name": "Juzil Rider",
     "rarity": "Common",
-    "slug": "204_juzil_rider",
-    "sog_card": "",
     "title": "Alliance of Marnordir"
   },
   {
@@ -65,8 +57,6 @@
     "extension": "",
     "name": "Rite of Regeneration",
     "rarity": "Common",
-    "slug": "205_rite_of_regeneration",
-    "sog_card": "",
     "title": "Kingdom of Waters"
   },
   {
@@ -79,8 +69,6 @@
     "extension": "",
     "name": "Summits Dragons",
     "rarity": "Common",
-    "slug": "206_summits_dragons",
-    "sog_card": "",
     "title": "Kingdom of Askarh"
   },
   {
@@ -93,8 +81,6 @@
     "extension": "",
     "name": "Lurker of the Depths",
     "rarity": "Uncommon",
-    "slug": "207_lurker_of_the_depths",
-    "sog_card": "",
     "title": "Kingdom of Waters"
   },
   {
@@ -107,8 +93,6 @@
     "extension": "",
     "name": "Infernal Dragon",
     "rarity": "Common",
-    "slug": "208_infernal_dragon",
-    "sog_card": "",
     "title": "Tanabria"
   },
   {
@@ -121,8 +105,6 @@
     "extension": "",
     "name": "Devastating Dragon",
     "rarity": "Rare",
-    "slug": "209_devastating_dragon",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -135,8 +117,6 @@
     "extension": "",
     "name": "Ardent Rage",
     "rarity": "Uncommon",
-    "slug": "210_ardent_rage",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -149,8 +129,6 @@
     "extension": "",
     "name": "Peacekeeper Angel",
     "rarity": "Uncommon",
-    "slug": "211_peacekeeper_angel",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -163,8 +141,6 @@
     "extension": "",
     "name": "Eternal Peace",
     "rarity": "Rare",
-    "slug": "212_eternal_peace",
-    "sog_card": "",
     "title": "Clan of the Enchanted Lake"
   },
   {
@@ -177,8 +153,6 @@
     "extension": "",
     "name": "Xul'noc King",
     "rarity": "Rare",
-    "slug": "213_xul'noc_king",
-    "sog_card": "",
     "title": "Xul'noc Kingdom"
   },
   {
@@ -191,8 +165,6 @@
     "extension": "",
     "name": "Xul'noc Sentry",
     "rarity": "Uncommon",
-    "slug": "214_xul'noc_sentry",
-    "sog_card": "",
     "title": "Xul'noc Kingdom"
   },
   {
@@ -205,8 +177,6 @@
     "extension": "",
     "name": "Xul'noc Fighter",
     "rarity": "Common",
-    "slug": "215_xul'noc_fighter",
-    "sog_card": "",
     "title": "Xul'noc Kingdom"
   },
   {
@@ -219,8 +189,6 @@
     "extension": "",
     "name": "Xul'noc Archer",
     "rarity": "Common",
-    "slug": "216_xul'noc_archer",
-    "sog_card": "",
     "title": "Xul'noc Kingdom"
   },
   {
@@ -233,8 +201,6 @@
     "extension": "",
     "name": "Xul'noc Firework Manufacturer",
     "rarity": "Uncommon",
-    "slug": "217_xul'noc_firework_manufacturer",
-    "sog_card": "",
     "title": "Xul'noc Kingdom"
   },
   {
@@ -247,8 +213,6 @@
     "extension": "",
     "name": "Twilight Griffon",
     "rarity": "Common",
-    "slug": "218_twilight_griffon",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -261,8 +225,6 @@
     "extension": "",
     "name": "Reckless Knight",
     "rarity": "Common",
-    "slug": "219_reckless_knight",
-    "sog_card": "",
     "title": "Alliance of Marnordir"
   },
   {
@@ -275,8 +237,6 @@
     "extension": "",
     "name": "Chilling Sky",
     "rarity": "Common",
-    "slug": "220_chilling_sky",
-    "sog_card": "",
     "title": "Kingdom of Askarh"
   },
   {
@@ -289,8 +249,6 @@
     "extension": "",
     "name": "Abyssal Devourer",
     "rarity": "Common",
-    "slug": "221_abyssal_devourer",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -303,8 +261,6 @@
     "extension": "",
     "name": "Blue Magic Orb",
     "rarity": "Common",
-    "slug": "222_blue_magic_orb",
-    "sog_card": "",
     "title": "Gold Council"
   },
   {
@@ -317,8 +273,6 @@
     "extension": "",
     "name": "Dark Dominance",
     "rarity": "Rare",
-    "slug": "223_dark_dominance",
-    "sog_card": "",
     "title": "Tanabria"
   },
   {
@@ -331,8 +285,6 @@
     "extension": "",
     "name": "Elowan, Merchant of Souls",
     "rarity": "Common",
-    "slug": "224_elowan,_merchant_of_souls",
-    "sog_card": "",
     "title": "Tanabria"
   },
   {
@@ -345,8 +297,6 @@
     "extension": "",
     "name": "Fairy World",
     "rarity": "Rare",
-    "slug": "225_fairy_world",
-    "sog_card": "",
     "title": "Gold Council"
   },
   {
@@ -359,8 +309,6 @@
     "extension": "",
     "name": "Fire Breath",
     "rarity": "Common",
-    "slug": "226_fire_breath",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -373,8 +321,6 @@
     "extension": "",
     "name": "Icy Cry of the Dragon",
     "rarity": "Uncommon",
-    "slug": "227_icy_cry_of_the_dragon",
-    "sog_card": "",
     "title": "Kingdom of Kilam-Jûl"
   },
   {
@@ -387,8 +333,6 @@
     "extension": "",
     "name": "Ardent Cry of the Dragon",
     "rarity": "Uncommon",
-    "slug": "228_ardent_cry_of_the_dragon",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -401,8 +345,6 @@
     "extension": "",
     "name": "Fireball",
     "rarity": "Common",
-    "slug": "229_fireball",
-    "sog_card": "",
     "title": ""
   },
   {
@@ -415,8 +357,6 @@
     "extension": "",
     "name": "Untamed Beast",
     "rarity": "Rare",
-    "slug": "230_untamed_beast",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -429,8 +369,6 @@
     "extension": "",
     "name": "Dragon Gliders",
     "rarity": "Common",
-    "slug": "231_dragon_gliders",
-    "sog_card": "",
     "title": "Kingdom of Askarh"
   },
   {
@@ -443,8 +381,6 @@
     "extension": "",
     "name": "Dragonman",
     "rarity": "Common",
-    "slug": "232_dragonman",
-    "sog_card": "",
     "title": "Empire of Sayosia"
   },
   {
@@ -457,8 +393,6 @@
     "extension": "",
     "name": "Solitary Dragon of the Skies",
     "rarity": "Uncommon",
-    "slug": "233_solitary_dragon_of_the_skies",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -471,8 +405,6 @@
     "extension": "",
     "name": "Lord of the Depths",
     "rarity": "Common",
-    "slug": "234_lord_of_the_depths",
-    "sog_card": "",
     "title": "Kingdom of Waters"
   },
   {
@@ -485,8 +417,6 @@
     "extension": "",
     "name": "Kilam-Jûl Gatekeeper",
     "rarity": "Common",
-    "slug": "235_kilam-jûl_gatekeeper",
-    "sog_card": "",
     "title": "Kingdom of Kilam-Jûl"
   },
   {
@@ -499,8 +429,6 @@
     "extension": "",
     "name": "Absorb Oceanic Energy",
     "rarity": "Common",
-    "slug": "236_absorb_oceanic_energy",
-    "sog_card": "",
     "title": "Kingdom of Waters"
   },
   {
@@ -513,8 +441,6 @@
     "extension": "",
     "name": "Swan of the Enchanted Lake",
     "rarity": "Uncommon",
-    "slug": "237_swan_of_the_enchanted_lake",
-    "sog_card": "",
     "title": "Clan of the Enchanted Lake"
   },
   {
@@ -527,8 +453,6 @@
     "extension": "",
     "name": "Abyssal Demon",
     "rarity": "Rare",
-    "slug": "238_abyssal_demon",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -541,8 +465,6 @@
     "extension": "",
     "name": "Snowy Crests Rider",
     "rarity": "Rare",
-    "slug": "239_snowy_crests_rider",
-    "sog_card": "",
     "title": "Knight of Ices"
   },
   {
@@ -555,8 +477,6 @@
     "extension": "",
     "name": "Spectral Troll",
     "rarity": "Uncommon",
-    "slug": "240_spectral_troll",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -569,8 +489,6 @@
     "extension": "",
     "name": "Unicorn's Tears",
     "rarity": "Rare",
-    "slug": "241_unicorn_s_tears",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -583,8 +501,6 @@
     "extension": "",
     "name": "Knight of Kilam-Jûl",
     "rarity": "Rare",
-    "slug": "242_knight_of_kilam-jûl",
-    "sog_card": "",
     "title": "Kingdom of Kilam-Jûl"
   },
   {
@@ -597,8 +513,6 @@
     "extension": "",
     "name": "Escape Way",
     "rarity": "Uncommon",
-    "slug": "243_escape_way",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -611,8 +525,6 @@
     "extension": "",
     "name": "Astegard the Slayer",
     "rarity": "Uncommon",
-    "slug": "244_astegard_the_slayer",
-    "sog_card": "",
     "title": "Knight of Shadows"
   },
   {
@@ -625,8 +537,6 @@
     "extension": "",
     "name": "Ice-Runed Dragon",
     "rarity": "Rare",
-    "slug": "245_ice_runed_dragon",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -639,8 +549,6 @@
     "extension": "",
     "name": "Plains Wildcat",
     "rarity": "Uncommon",
-    "slug": "246_plains_wildcat",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -653,8 +561,6 @@
     "extension": "",
     "name": "Possessed Golem",
     "rarity": "Rare",
-    "slug": "247_possessed_golem",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -667,8 +573,6 @@
     "extension": "",
     "name": "Ogre Berserker",
     "rarity": "Common",
-    "slug": "248_ogre_berserker",
-    "sog_card": "",
     "title": "Kingdom of Kilam-Jûl"
   },
   {
@@ -681,8 +585,6 @@
     "extension": "",
     "name": "Mutant Dragonfly",
     "rarity": "Common",
-    "slug": "249_mutant_dragonfly",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -695,8 +597,6 @@
     "extension": "",
     "name": "Force from Nature",
     "rarity": "Common",
-    "slug": "250_force_from_nature",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -709,8 +609,6 @@
     "extension": "",
     "name": "Regained Strength",
     "rarity": "Uncommon",
-    "slug": "251_regained_strength",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -723,8 +621,6 @@
     "extension": "",
     "name": "Psychic Extraction",
     "rarity": "Rare",
-    "slug": "252_psychic_extraction",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -737,8 +633,6 @@
     "extension": "",
     "name": "Explosion of Light",
     "rarity": "Uncommon",
-    "slug": "253_explosion_of_light",
-    "sog_card": "",
     "title": ""
   },
   {
@@ -751,8 +645,6 @@
     "extension": "",
     "name": "Roaring",
     "rarity": "Rare",
-    "slug": "254_roaring",
-    "sog_card": "",
     "title": "Alliance of Marnordir"
   },
   {
@@ -765,8 +657,6 @@
     "extension": "",
     "name": "Fanatical Spirit",
     "rarity": "Uncommon",
-    "slug": "255_fanatical_spirit",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -779,8 +669,6 @@
     "extension": "",
     "name": "Fugitive Angel of DursTor",
     "rarity": "Mythical",
-    "slug": "256_fugitive_angel_of_durstor",
-    "sog_card": "",
     "title": "Luminatis"
   },
   {
@@ -793,8 +681,6 @@
     "extension": "",
     "name": "Sayosian Assassin",
     "rarity": "Rare",
-    "slug": "257_sayosian_assassin",
-    "sog_card": "",
     "title": "Empire of Sayosia"
   },
   {
@@ -807,8 +693,6 @@
     "extension": "",
     "name": "Al'zadorr, El-Sendan Sorcerer",
     "rarity": "Common",
-    "slug": "258_al_zadorr,_el-sendan_sorcerer",
-    "sog_card": "",
     "title": "Gold Council"
   },
   {
@@ -821,8 +705,6 @@
     "extension": "",
     "name": "Juzil Genius",
     "rarity": "Common",
-    "slug": "259_juzil_genius",
-    "sog_card": "",
     "title": "Alliance of Marnordir"
   },
   {
@@ -835,8 +717,6 @@
     "extension": "",
     "name": "Elvish Huntress",
     "rarity": "Common",
-    "slug": "260_elvish_huntress",
-    "sog_card": "",
     "title": "Gold Council"
   },
   {
@@ -849,8 +729,6 @@
     "extension": "",
     "name": "Marsh Demon",
     "rarity": "Common",
-    "slug": "261_marsh_demon",
-    "sog_card": "",
     "title": "Tanabria"
   },
   {
@@ -863,8 +741,6 @@
     "extension": "",
     "name": "Gaarhzad the Terrible",
     "rarity": "Common",
-    "slug": "262_gaarhzad_the_terrible",
-    "sog_card": "",
     "title": "Empire of Sayosia"
   },
   {
@@ -877,8 +753,6 @@
     "extension": "",
     "name": "Infernal Guardian",
     "rarity": "Common",
-    "slug": "263_infernal_guardian",
-    "sog_card": "",
     "title": "Tanabria"
   },
   {
@@ -891,8 +765,6 @@
     "extension": "",
     "name": "Spreading Vegetation",
     "rarity": "Common",
-    "slug": "264_spreading_vegetation",
-    "sog_card": "",
     "title": ""
   },
   {
@@ -905,8 +777,6 @@
     "extension": "",
     "name": "Kha-Valdorian Warrior",
     "rarity": "Common",
-    "slug": "265_kha-valdorian_warrior",
-    "sog_card": "",
     "title": "Silver Council"
   },
   {
@@ -919,8 +789,6 @@
     "extension": "",
     "name": "Kal'Hadden Rockbreaker",
     "rarity": "Uncommon",
-    "slug": "266_kal_hadden_rockbreaker",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -933,8 +801,6 @@
     "extension": "",
     "name": "Cavern Dragon",
     "rarity": "Uncommon",
-    "slug": "267_cavern_dragon",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -947,8 +813,6 @@
     "extension": "",
     "name": "Gar'Awall, Young King of Itlan",
     "rarity": "Uncommon",
-    "slug": "268_gar_awall,_young_king_of_itlan",
-    "sog_card": "",
     "title": "Alliance of Marnordir"
   },
   {
@@ -961,8 +825,6 @@
     "extension": "",
     "name": "Mischievous Fairy",
     "rarity": "Rare",
-    "slug": "269_mischievous_fairy",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -975,8 +837,6 @@
     "extension": "",
     "name": "Gift of the Spirits of the Lake",
     "rarity": "Common",
-    "slug": "270_gift_of_the_spirits_of_the_lake",
-    "sog_card": "",
     "title": "Clan of the Enchanted Lake"
   },
   {
@@ -989,8 +849,6 @@
     "extension": "",
     "name": "Juzil Dragon",
     "rarity": "Common",
-    "slug": "271_juzil_dragon",
-    "sog_card": "",
     "title": "Alliance of Marnordir"
   },
   {
@@ -1003,8 +861,6 @@
     "extension": "",
     "name": "Kilam-Jûl Whelp",
     "rarity": "Common",
-    "slug": "272_kilam-jûl_whelp",
-    "sog_card": "",
     "title": "Kingdom of Kilam-Jûl"
   },
   {
@@ -1017,8 +873,6 @@
     "extension": "",
     "name": "Valley Runed Dragons",
     "rarity": "Uncommon",
-    "slug": "273_valley_runed_dragons",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -1031,8 +885,6 @@
     "extension": "",
     "name": "Ocean Dragon",
     "rarity": "Common",
-    "slug": "274_ocean_dragon",
-    "sog_card": "",
     "title": "Kingdom of Waters"
   },
   {
@@ -1045,8 +897,6 @@
     "extension": "",
     "name": "Ardent Maw",
     "rarity": "Common",
-    "slug": "275_ardent_maw",
-    "sog_card": "",
     "title": "Kingdom of Askarh"
   },
   {
@@ -1059,8 +909,6 @@
     "extension": "",
     "name": "Ice Troll",
     "rarity": "Common",
-    "slug": "276_ice_troll",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -1073,8 +921,6 @@
     "extension": "",
     "name": "Juzil Shadowdragon",
     "rarity": "Common",
-    "slug": "277_juzil_shadowdragon",
-    "sog_card": "",
     "title": "Alliance of Marnordir"
   },
   {
@@ -1087,8 +933,6 @@
     "extension": "",
     "name": "Kilam-Jul Sovereign",
     "rarity": "Uncommon",
-    "slug": "278_kilam-jul_sovereign",
-    "sog_card": "",
     "title": "Kingdom of Kilam-Jûl"
   },
   {
@@ -1101,8 +945,6 @@
     "extension": "",
     "name": "Monsterhunter Knight",
     "rarity": "Common",
-    "slug": "279_monsterhunter_knight",
-    "sog_card": "",
     "title": "Silver Council"
   },
   {
@@ -1115,8 +957,6 @@
     "extension": "",
     "name": "Energy Modulation",
     "rarity": "Common",
-    "slug": "280_energy_modulation",
-    "sog_card": "",
     "title": "Empire of Sayosia"
   },
   {
@@ -1129,8 +969,6 @@
     "extension": "",
     "name": "Subterranean Beast",
     "rarity": "Common",
-    "slug": "281_subterranean_beast",
-    "sog_card": "",
     "title": "Kingdom of Askarh"
   },
   {
@@ -1143,8 +981,6 @@
     "extension": "",
     "name": "Oceandisorder Leviathan",
     "rarity": "Uncommon",
-    "slug": "282_oceandisorder_leviathan",
-    "sog_card": "",
     "title": "Kingdom of Waters"
   },
   {
@@ -1157,8 +993,6 @@
     "extension": "",
     "name": "Spirit of the Enchanted Lake",
     "rarity": "Rare",
-    "slug": "283_spirit_of_the_enchanted_lake",
-    "sog_card": "",
     "title": "Clan of the Enchanted Lake"
   },
   {
@@ -1171,8 +1005,6 @@
     "extension": "",
     "name": "Snowy Crests Dragon",
     "rarity": "Common",
-    "slug": "284_snowy_crests_dragon",
-    "sog_card": "",
     "title": "Kingdom of Kilam-Jûl"
   },
   {
@@ -1185,8 +1017,6 @@
     "extension": "",
     "name": "Absorb Vital Energy",
     "rarity": "Rare",
-    "slug": "285_absorb_vital_energy",
-    "sog_card": "",
     "title": "Kingdom of Askarh"
   },
   {
@@ -1199,8 +1029,6 @@
     "extension": "",
     "name": "Celestial Patrols",
     "rarity": "Rare",
-    "slug": "286_celestial_patrols",
-    "sog_card": "",
     "title": "Silver Council"
   },
   {
@@ -1213,8 +1041,6 @@
     "extension": "",
     "name": "Raging Centaur",
     "rarity": "Uncommon",
-    "slug": "287_raging_centaur",
-    "sog_card": "",
     "title": "Knight of Shadows"
   },
   {
@@ -1227,8 +1053,6 @@
     "extension": "",
     "name": "Lord of the Darkfire",
     "rarity": "Uncommon",
-    "slug": "288_lord_of_the_darkfire",
-    "sog_card": "",
     "title": "Tanabria"
   },
   {
@@ -1241,8 +1065,6 @@
     "extension": "",
     "name": "Evil Aura",
     "rarity": "Rare",
-    "slug": "290_evil_aura",
-    "sog_card": "",
     "title": "Tanabria"
   },
   {
@@ -1255,8 +1077,6 @@
     "extension": "",
     "name": "El-Senda Renegade",
     "rarity": "Uncommon",
-    "slug": "291_el-senda_renegade",
-    "sog_card": "",
     "title": "Knight of Shadows"
   },
   {
@@ -1269,8 +1089,6 @@
     "extension": "",
     "name": "Corrupted Knight",
     "rarity": "Common",
-    "slug": "292_corrupted_knight",
-    "sog_card": "",
     "title": "Empire of Sayosia"
   },
   {
@@ -1283,8 +1101,6 @@
     "extension": "",
     "name": "El-Mataq Shadowdragon",
     "rarity": "Uncommon",
-    "slug": "293_el-mataq_shadowdragon",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -1297,8 +1113,6 @@
     "extension": "",
     "name": "Firemanipulator Magician",
     "rarity": "Common",
-    "slug": "294_firemanipulator_magician",
-    "sog_card": "",
     "title": "Gold Council"
   },
   {
@@ -1311,8 +1125,6 @@
     "extension": "",
     "name": "Legionnaire of the Hell",
     "rarity": "Uncommon",
-    "slug": "295_legionnaire_of_the_hell",
-    "sog_card": "",
     "title": "Tanabria"
   },
   {
@@ -1325,8 +1137,6 @@
     "extension": "",
     "name": "Harp Player",
     "rarity": "Uncommon",
-    "slug": "296_harp_player",
-    "sog_card": "",
     "title": "Gold Council"
   },
   {
@@ -1339,8 +1149,6 @@
     "extension": "",
     "name": "Orli Sacrificer",
     "rarity": "Common",
-    "slug": "297_orli_sacrificer",
-    "sog_card": "",
     "title": "Empire of Sayosia"
   },
   {
@@ -1353,8 +1161,6 @@
     "extension": "",
     "name": "Communion with the Darkness",
     "rarity": "Common",
-    "slug": "298_communion_with_the_darkness",
-    "sog_card": "",
     "title": "Tanabria"
   },
   {
@@ -1367,8 +1173,6 @@
     "extension": "",
     "name": "Dragons of the Ether",
     "rarity": "Rare",
-    "slug": "299_dragons_of_the_ether",
-    "sog_card": "",
     "title": "Gold Council"
   },
   {
@@ -1381,8 +1185,6 @@
     "extension": "",
     "name": "Jewel Dragons",
     "rarity": "Mythical",
-    "slug": "300_jewel_dragons",
-    "sog_card": "",
     "title": "Kingdom of Askarh"
   },
   {
@@ -1395,8 +1197,6 @@
     "extension": "Abethia",
     "name": "Circa, Queen of Abethia",
     "rarity": "Mythical",
-    "slug": "1300_circa,_queen_of_abethia",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -1409,8 +1209,6 @@
     "extension": "Abethia",
     "name": "Abethia",
     "rarity": "Rare",
-    "slug": "1301_abethia",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -1423,8 +1221,6 @@
     "extension": "Abethia",
     "name": "Scarab",
     "rarity": "",
-    "slug": "1302_beetle",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -1437,8 +1233,6 @@
     "extension": "Abethia",
     "name": "Giant Scarab",
     "rarity": "",
-    "slug": "1303_giant_beetle",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -1451,8 +1245,6 @@
     "extension": "Abethia",
     "name": "Viscula Scarab",
     "rarity": "",
-    "slug": "1304_viscula_beetle",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -1465,8 +1257,6 @@
     "extension": "Abethia",
     "name": "Mantis",
     "rarity": "",
-    "slug": "1305_mantis",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -1479,8 +1269,6 @@
     "extension": "Abethia",
     "name": "Giant Mantis",
     "rarity": "",
-    "slug": "1306_giant_mantis",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -1493,8 +1281,6 @@
     "extension": "Abethia",
     "name": "Viscula Mantis",
     "rarity": "",
-    "slug": "1307_viscula_mantis",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -1507,8 +1293,6 @@
     "extension": "Abethia",
     "name": "Dragonfly",
     "rarity": "",
-    "slug": "1308_dragonfly",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -1521,8 +1305,6 @@
     "extension": "Abethia",
     "name": "Giant Dragonfly",
     "rarity": "",
-    "slug": "1309_giant_dragonfly",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -1535,8 +1317,6 @@
     "extension": "Abethia",
     "name": "Viscula Dragonfly",
     "rarity": "",
-    "slug": "1310_viscula_dragonfly",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -1549,8 +1329,6 @@
     "extension": "Abethia",
     "name": "Abethia Palace's Guardian",
     "rarity": "",
-    "slug": "1311_abethia_palace_s_guardian",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -1563,8 +1341,6 @@
     "extension": "Abethia",
     "name": "Queen's Guard",
     "rarity": "",
-    "slug": "1312_queen_s_guard",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -1577,8 +1353,6 @@
     "extension": "Abethia",
     "name": "Virbulos Army",
     "rarity": "",
-    "slug": "1313_virbulos_army",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -1591,8 +1365,6 @@
     "extension": "Abethia",
     "name": "Virbulos Elite",
     "rarity": "",
-    "slug": "1314_virbulos_elite",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -1605,8 +1377,6 @@
     "extension": "Abethia",
     "name": "Trolls Hunter",
     "rarity": "",
-    "slug": "1315_trolls_hunter",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -1619,8 +1389,6 @@
     "extension": "Abethia",
     "name": "Trolls Slayer",
     "rarity": "",
-    "slug": "1316_trolls_slayer",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -1633,8 +1401,6 @@
     "extension": "Abethia",
     "name": "Ornegot",
     "rarity": "Common",
-    "slug": "1317_ornegot",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -1647,8 +1413,6 @@
     "extension": "Abethia",
     "name": "Ornegot Warrior",
     "rarity": "Uncommon",
-    "slug": "1318_ornegot_warrior",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -1661,8 +1425,6 @@
     "extension": "Abethia",
     "name": "Troll Army",
     "rarity": "",
-    "slug": "1319_trolls_army",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -1675,8 +1437,6 @@
     "extension": "Abethia",
     "name": "Troll Invasion",
     "rarity": "",
-    "slug": "1320_trolls_invasion",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -1689,8 +1449,6 @@
     "extension": "Abethia",
     "name": "Troll Warrior",
     "rarity": "",
-    "slug": "1321_troll_warrior",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -1703,8 +1461,6 @@
     "extension": "Abethia",
     "name": "Troll Berserker",
     "rarity": "",
-    "slug": "1322_troll_berserker",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -1717,8 +1473,6 @@
     "extension": "Abethia",
     "name": "Troll Mage",
     "rarity": "",
-    "slug": "1323_troll_mage",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -1731,8 +1485,6 @@
     "extension": "Abethia",
     "name": "Great Troll Mage",
     "rarity": "Rare",
-    "slug": "1324_great_troll_mage",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -1745,8 +1497,6 @@
     "extension": "Abethia",
     "name": "Scout Troll",
     "rarity": "Common",
-    "slug": "1325_scout_troll",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -1759,8 +1509,6 @@
     "extension": "Abethia",
     "name": "Troll from the Depths",
     "rarity": "",
-    "slug": "1326_troll_from_the_depths",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -1773,8 +1521,6 @@
     "extension": "Abethia",
     "name": "Blattigas",
     "rarity": "Common",
-    "slug": "1327_blattigas",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -1787,8 +1533,6 @@
     "extension": "Abethia",
     "name": "Scarigas",
     "rarity": "",
-    "slug": "1328_scarigas",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -1801,8 +1545,6 @@
     "extension": "Abethia",
     "name": "Papiigas",
     "rarity": "",
-    "slug": "1329_papiigas",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -1815,8 +1557,6 @@
     "extension": "Abethia",
     "name": "Cicadigas",
     "rarity": "",
-    "slug": "1330_cicadigas",
-    "sog_card": "",
     "title": ""
   },
   {
@@ -1829,8 +1569,6 @@
     "extension": "Abethia",
     "name": "Gravigas",
     "rarity": "",
-    "slug": "1331_gravigas",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -1843,8 +1581,6 @@
     "extension": "Abethia",
     "name": "Culigas",
     "rarity": "",
-    "slug": "1332_culigas",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -1857,8 +1593,6 @@
     "extension": "Abethia",
     "name": "Insects Infestation",
     "rarity": "Common",
-    "slug": "1333_insects_infestation",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -1871,8 +1605,6 @@
     "extension": "Abethia",
     "name": "Nest of Insects",
     "rarity": "Rare",
-    "slug": null,
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -1885,8 +1617,6 @@
     "extension": "Abethia",
     "name": "Monster from the Underground",
     "rarity": "Common",
-    "slug": "1335_monster_from_the_underground",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -1899,8 +1629,6 @@
     "extension": "Abethia",
     "name": "Monster from the Depths",
     "rarity": "",
-    "slug": "1336_monster_from_the_depths",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -1913,8 +1641,6 @@
     "extension": "Abethia",
     "name": "Abethia Mushroom",
     "rarity": "Common",
-    "slug": "1337_abethia_mushroom",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -1927,8 +1653,6 @@
     "extension": "Abethia",
     "name": "Trolls Club",
     "rarity": "Common",
-    "slug": "1338_trolls_club",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -1941,8 +1665,6 @@
     "extension": "Abethia",
     "name": "Crumbling",
     "rarity": "Rare",
-    "slug": "1339_crumbling",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -1955,8 +1677,6 @@
     "extension": "Abethia",
     "name": "Virbulo Rider",
     "rarity": "Uncommon",
-    "slug": null,
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -1969,8 +1689,6 @@
     "extension": "Abethia",
     "name": "Horde of Virbulos Riders",
     "rarity": "Rare",
-    "slug": null,
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -1983,8 +1701,6 @@
     "extension": "Abethia",
     "name": "Trolls Trap",
     "rarity": "Uncommon",
-    "slug": "1342_trolls_trap",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -1997,8 +1713,6 @@
     "extension": "Abethia",
     "name": "Stone of Regression",
     "rarity": "Rare",
-    "slug": "1343_stone_of_regression",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -2011,8 +1725,6 @@
     "extension": "Abethia",
     "name": "Ladybug",
     "rarity": "Common",
-    "slug": "1344_ladybug",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -2025,8 +1737,6 @@
     "extension": "Abethia",
     "name": "Giant Ladybug",
     "rarity": "Uncommon",
-    "slug": "1345_giant_ladybug",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -2039,8 +1749,6 @@
     "extension": "Abethia",
     "name": "Viscula Ladybug",
     "rarity": "",
-    "slug": "1346_viscula_ladybug",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -2053,8 +1761,6 @@
     "extension": "Abethia",
     "name": "Armour-clad Virbulo",
     "rarity": "",
-    "slug": "1347_armour-clad_virbulo",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -2067,8 +1773,6 @@
     "extension": "Abethia",
     "name": "Self-regenerating Virbulo",
     "rarity": "Rare",
-    "slug": "1348_self-regenerating_virbulo",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -2081,8 +1785,6 @@
     "extension": "Abethia",
     "name": "Heart Seeking Troll",
     "rarity": "Uncommon",
-    "slug": "1349_heart_seeking_troll",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -2095,8 +1797,6 @@
     "extension": "Abethia",
     "name": "Life Draining Troll",
     "rarity": "Rare",
-    "slug": "1350_life_draining_troll",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -2109,8 +1809,6 @@
     "extension": "Abethia",
     "name": "Sneaky Troll",
     "rarity": "Uncommon",
-    "slug": "1351_sneaky_troll",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -2123,8 +1821,6 @@
     "extension": "Abethia",
     "name": "Devastating Troll",
     "rarity": "",
-    "slug": "1352_devastating_troll",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -2137,8 +1833,6 @@
     "extension": "Abethia",
     "name": "Wild Power Troll",
     "rarity": "Common",
-    "slug": "1353_wild_power_troll",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -2151,8 +1845,6 @@
     "extension": "Abethia",
     "name": "Destroyer Troll",
     "rarity": "Uncommon",
-    "slug": null,
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -2165,8 +1857,6 @@
     "extension": "Abethia",
     "name": "Coccigas",
     "rarity": "Common",
-    "slug": "1355_coccigas",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -2179,8 +1869,6 @@
     "extension": "Abethia",
     "name": "Chalcosigas",
     "rarity": "",
-    "slug": "1356_chalcosigas",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -2193,8 +1881,6 @@
     "extension": "Abethia",
     "name": "Milcrusigas",
     "rarity": "Common",
-    "slug": "1357_milcrusigas",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -2207,8 +1893,6 @@
     "extension": "Abethia",
     "name": "Scolopigas",
     "rarity": "Common",
-    "slug": "1358_scolopigas",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -2221,8 +1905,6 @@
     "extension": "Abethia",
     "name": "Scorpigas",
     "rarity": "",
-    "slug": "1359_scorpigas",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -2235,8 +1917,6 @@
     "extension": "Abethia",
     "name": "Cavigas",
     "rarity": "Common",
-    "slug": "1360_cavigas",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -2249,8 +1929,6 @@
     "extension": "Abethia",
     "name": "Balrog",
     "rarity": "",
-    "slug": "1361_balrog",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -2263,8 +1941,6 @@
     "extension": "Abethia",
     "name": "Unleashed Balrog",
     "rarity": "",
-    "slug": "1362_unleashed_balrog",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -2277,8 +1953,6 @@
     "extension": "Abethia",
     "name": "Virbulo",
     "rarity": "Uncommon",
-    "slug": null,
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -2291,8 +1965,6 @@
     "extension": "Abethia",
     "name": "Virbulo Slayer",
     "rarity": "Rare",
-    "slug": null,
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -2305,8 +1977,6 @@
     "extension": "Abethia",
     "name": "Digger Troll",
     "rarity": "Uncommon",
-    "slug": null,
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -2319,8 +1989,6 @@
     "extension": "Abethia",
     "name": "Mining Troll",
     "rarity": "Rare",
-    "slug": null,
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -2333,8 +2001,6 @@
     "extension": "Abethia",
     "name": "Harvest Troll",
     "rarity": "Uncommon",
-    "slug": "1367_harvest_troll",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -2347,8 +2013,6 @@
     "extension": "Abethia",
     "name": "Assimilative Troll",
     "rarity": "Rare",
-    "slug": "1368_",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -2361,8 +2025,6 @@
     "extension": "Abethia",
     "name": "Centipede",
     "rarity": "",
-    "slug": "1369_centipede",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -2375,8 +2037,6 @@
     "extension": "Abethia",
     "name": "Giant Centipede",
     "rarity": "",
-    "slug": "1370_giant_centipede",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -2389,8 +2049,6 @@
     "extension": "Abethia",
     "name": "Viscula Centipede",
     "rarity": "",
-    "slug": "1371_viscula_centipede",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -2403,8 +2061,6 @@
     "extension": "Abethia",
     "name": "Tick",
     "rarity": "Common",
-    "slug": "1372_tick",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -2417,8 +2073,6 @@
     "extension": "Abethia",
     "name": "Giant Tick",
     "rarity": "Uncommon",
-    "slug": "1373_giant_tick",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -2431,8 +2085,6 @@
     "extension": "Abethia",
     "name": "Viscula Tick",
     "rarity": "",
-    "slug": "1374_viscula_tick",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -2445,8 +2097,6 @@
     "extension": "Abethia",
     "name": "Beetle",
     "rarity": "",
-    "slug": "1375_",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -2459,8 +2109,6 @@
     "extension": "Abethia",
     "name": "Giant Beetle",
     "rarity": "",
-    "slug": "1376_",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -2473,8 +2121,6 @@
     "extension": "Abethia",
     "name": "Viscula Beetle",
     "rarity": "",
-    "slug": "1377_",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -2487,8 +2133,6 @@
     "extension": "Abethia",
     "name": "Spider",
     "rarity": "Common",
-    "slug": "1378_",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -2501,8 +2145,6 @@
     "extension": "Abethia",
     "name": "Giant Spider",
     "rarity": "Uncommon",
-    "slug": "1379_",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -2515,8 +2157,6 @@
     "extension": "Abethia",
     "name": "Viscula Spider",
     "rarity": "",
-    "slug": "1380_",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -2529,8 +2169,6 @@
     "extension": "Abethia",
     "name": "Firefly",
     "rarity": "Common",
-    "slug": "1381_",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -2543,8 +2181,6 @@
     "extension": "Abethia",
     "name": "Giant Firefly",
     "rarity": "Uncommon",
-    "slug": "1382_",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -2557,8 +2193,6 @@
     "extension": "Abethia",
     "name": "Viscula Firefly",
     "rarity": "",
-    "slug": "1383_",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -2571,8 +2205,6 @@
     "extension": "Abethia",
     "name": "Fly",
     "rarity": "Common",
-    "slug": null,
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -2585,8 +2217,6 @@
     "extension": "Abethia",
     "name": "Giant Fly",
     "rarity": "Uncommon",
-    "slug": null,
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -2599,8 +2229,6 @@
     "extension": "Abethia",
     "name": "Viscula Fly",
     "rarity": "Rare",
-    "slug": null,
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -2613,8 +2241,6 @@
     "extension": "Abethia",
     "name": "Constigas",
     "rarity": "Common",
-    "slug": null,
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -2627,8 +2253,6 @@
     "extension": "Abethia",
     "name": "Lepidopigas",
     "rarity": "Common",
-    "slug": null,
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -2641,8 +2265,6 @@
     "extension": "Abethia",
     "name": "Apemigas",
     "rarity": "Common",
-    "slug": null,
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -2655,8 +2277,6 @@
     "extension": "Abethia",
     "name": "Neoptigas",
     "rarity": "Common",
-    "slug": null,
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -2669,8 +2289,6 @@
     "extension": "Abethia",
     "name": "Insect Bite",
     "rarity": "",
-    "slug": "1391_insect_bite",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -2683,8 +2301,6 @@
     "extension": "Abethia",
     "name": "Virbulo Shield",
     "rarity": "Uncommon",
-    "slug": null,
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -2697,8 +2313,6 @@
     "extension": "Abethia",
     "name": "Deluge",
     "rarity": "Uncommon",
-    "slug": "1393_",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -2711,8 +2325,6 @@
     "extension": "Abethia",
     "name": "Precipice",
     "rarity": "Rare",
-    "slug": null,
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -2725,8 +2337,6 @@
     "extension": "Abethia",
     "name": "Beetle Shell",
     "rarity": "",
-    "slug": null,
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -2739,8 +2349,6 @@
     "extension": "Abethia",
     "name": "Beehive",
     "rarity": "Rare",
-    "slug": null,
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -2753,8 +2361,6 @@
     "extension": "Abethia",
     "name": "Viscula Enchantment",
     "rarity": "Rare",
-    "slug": null,
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -2767,8 +2373,6 @@
     "extension": "Abethia",
     "name": "Escape",
     "rarity": "Rare",
-    "slug": "1398_",
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -2781,8 +2385,6 @@
     "extension": "Abethia",
     "name": "Duke Daphnis Nerii",
     "rarity": "Mythical",
-    "slug": "1399_duke_daphnis_nerii",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -2795,8 +2397,6 @@
     "extension": "Densara",
     "name": "Renegade Warrior",
     "rarity": "Rare",
-    "slug": "400_renegade_warrior",
-    "sog_card": "",
     "title": "Vils-naimas"
   },
   {
@@ -2809,8 +2409,6 @@
     "extension": "Densara",
     "name": "Warrior's Despair",
     "rarity": "Common",
-    "slug": "401_warrior_s_despair",
-    "sog_card": "",
     "title": "Vils-naimas"
   },
   {
@@ -2823,8 +2421,6 @@
     "extension": "Densara",
     "name": "Young Priestess",
     "rarity": "Uncommon",
-    "slug": "402_young_priestess",
-    "sog_card": "",
     "title": "Vils-naimas"
   },
   {
@@ -2837,8 +2433,6 @@
     "extension": "Densara",
     "name": "Tornado of Blows",
     "rarity": "Uncommon",
-    "slug": "403_tornado_of_blows",
-    "sog_card": "",
     "title": "Vils-naimas"
   },
   {
@@ -2851,8 +2445,6 @@
     "extension": "Densara",
     "name": "Crossing Sentinel",
     "rarity": "Common",
-    "slug": "404_crossing_sentinel",
-    "sog_card": "",
     "title": "Noras"
   },
   {
@@ -2865,8 +2457,6 @@
     "extension": "Densara",
     "name": "Massive Wild-Boar",
     "rarity": "Common",
-    "slug": "405_massive_wild-boar",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -2879,8 +2469,6 @@
     "extension": "Densara",
     "name": "Mistress of War",
     "rarity": "Rare",
-    "slug": "406_mistress_of_war",
-    "sog_card": "",
     "title": "Vils-naimas"
   },
   {
@@ -2893,8 +2481,6 @@
     "extension": "Densara",
     "name": "Forest Huntress",
     "rarity": "Common",
-    "slug": "407_forest_huntress",
-    "sog_card": "",
     "title": "Vils-naimas"
   },
   {
@@ -2907,8 +2493,6 @@
     "extension": "Densara",
     "name": "Dragons Hunter",
     "rarity": "Common",
-    "slug": "408_dragons_hunter",
-    "sog_card": "",
     "title": "Vils-naimas"
   },
   {
@@ -2921,8 +2505,6 @@
     "extension": "Densara",
     "name": "Hunter of the Lowlands",
     "rarity": "Common",
-    "slug": "409_hunter_of_the_lowlands",
-    "sog_card": "",
     "title": "Vils-naimas"
   },
   {
@@ -2935,8 +2517,6 @@
     "extension": "Densara",
     "name": "Queen of Huntresses",
     "rarity": "Rare",
-    "slug": "410_queen_of_huntresses",
-    "sog_card": "",
     "title": "Vils-naimas"
   },
   {
@@ -2949,8 +2529,6 @@
     "extension": "Densara",
     "name": "Elemental Alchemist",
     "rarity": "Uncommon",
-    "slug": "411_elemental_alchemist",
-    "sog_card": "",
     "title": "Vils-naimas"
   },
   {
@@ -2963,8 +2541,6 @@
     "extension": "Densara",
     "name": "Reckless Footsoldier",
     "rarity": "Common",
-    "slug": "412_reckless_footsoldier",
-    "sog_card": "FOOTSOLDIER",
     "title": "Noras"
   },
   {
@@ -2977,8 +2553,6 @@
     "extension": "Densara",
     "name": "Angelical Guardian",
     "rarity": "Common",
-    "slug": "413_angelical_guardian",
-    "sog_card": "",
     "title": "Noras"
   },
   {
@@ -2991,8 +2565,6 @@
     "extension": "Densara",
     "name": "Eternal Fire",
     "rarity": "Common",
-    "slug": "414_eternal_fire",
-    "sog_card": "",
     "title": ""
   },
   {
@@ -3005,8 +2577,6 @@
     "extension": "Densara",
     "name": "Master Animalier",
     "rarity": "Common",
-    "slug": "415_master_animalier",
-    "sog_card": "",
     "title": "Noras"
   },
   {
@@ -3019,8 +2589,6 @@
     "extension": "Densara",
     "name": "Nymph of the Lake",
     "rarity": "Common",
-    "slug": "416_nymph_of_the_lake",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -3033,8 +2601,6 @@
     "extension": "Densara",
     "name": "Cristalline Protection",
     "rarity": "Common",
-    "slug": "417_cristalline_protection",
-    "sog_card": "",
     "title": ""
   },
   {
@@ -3047,8 +2613,6 @@
     "extension": "Densara",
     "name": "Rocky Troll",
     "rarity": "Common",
-    "slug": "418_rocky_troll",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -3061,8 +2625,6 @@
     "extension": "Densara",
     "name": "The Warrior's Doubt",
     "rarity": "Uncommon",
-    "slug": "419_the_warrior_s_doubt",
-    "sog_card": "",
     "title": "Vils-naimas"
   },
   {
@@ -3075,8 +2637,6 @@
     "extension": "Densara",
     "name": "Concentration of Liquids",
     "rarity": "Rare",
-    "slug": "420_concentration_of_liquids",
-    "sog_card": "",
     "title": "Noras"
   },
   {
@@ -3089,8 +2649,6 @@
     "extension": "Densara",
     "name": "Sky Splitting",
     "rarity": "",
-    "slug": "421_sky_splitting",
-    "sog_card": "",
     "title": "Noras"
   },
   {
@@ -3103,8 +2661,6 @@
     "extension": "Densara",
     "name": "Enchanted Ink",
     "rarity": "Rare",
-    "slug": "422_enchanted_ink",
-    "sog_card": "",
     "title": "Vils-naimas"
   },
   {
@@ -3117,8 +2673,6 @@
     "extension": "Densara",
     "name": "Orca Enchantment",
     "rarity": "Common",
-    "slug": "423_orca_enchantment",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -3131,8 +2685,6 @@
     "extension": "Densara",
     "name": "Survivalist Brigadier",
     "rarity": "Uncommon",
-    "slug": "424_survivalist_brigadier",
-    "sog_card": "",
     "title": "Noras"
   },
   {
@@ -3145,8 +2697,6 @@
     "extension": "Densara",
     "name": "Wolf's Claw",
     "rarity": "Rare",
-    "slug": "425_wolf_s_claw",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -3159,8 +2709,6 @@
     "extension": "Densara",
     "name": "Warrior Monk",
     "rarity": "Rare",
-    "slug": "426_warrior_monk",
-    "sog_card": "",
     "title": "Noras"
   },
   {
@@ -3173,8 +2721,6 @@
     "extension": "Densara",
     "name": "Vulcanic Disturbance",
     "rarity": "Rare",
-    "slug": "427_vulcanic_disturbance",
-    "sog_card": "",
     "title": ""
   },
   {
@@ -3187,8 +2733,6 @@
     "extension": "Densara",
     "name": "Temple Protectors",
     "rarity": "uncommon",
-    "slug": "428_temple_protectors",
-    "sog_card": "",
     "title": "Noras"
   },
   {
@@ -3201,8 +2745,6 @@
     "extension": "Densara",
     "name": "Merchant of Relics",
     "rarity": "Uncommon",
-    "slug": "429_merchant_of_relics",
-    "sog_card": "",
     "title": "Vils-naimas"
   },
   {
@@ -3215,8 +2757,6 @@
     "extension": "Densara",
     "name": "Horde of Gobelins",
     "rarity": "Uncommon",
-    "slug": "430_horde_of_gobelins",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -3229,8 +2769,6 @@
     "extension": "Densara",
     "name": "Nasty Goblin",
     "rarity": "Common",
-    "slug": "431_nasty_goblin",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -3243,8 +2781,6 @@
     "extension": "Densara",
     "name": "Swarm of Scorpions",
     "rarity": "Uncommon",
-    "slug": "432_swarm_of_scorpions",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -3257,8 +2793,6 @@
     "extension": "Densara",
     "name": "Silvery Fox",
     "rarity": "Uncommon",
-    "slug": "433_silvery_fox",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -3271,8 +2805,6 @@
     "extension": "Densara",
     "name": "Night Ditcher",
     "rarity": "Rare",
-    "slug": "434_night_ditcher",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -3285,8 +2817,6 @@
     "extension": "Densara",
     "name": "Spark of Goodness",
     "rarity": "Rare",
-    "slug": "435_spark_of_goodness",
-    "sog_card": "",
     "title": "Noras"
   },
   {
@@ -3299,8 +2829,6 @@
     "extension": "Densara",
     "name": "Mirror of Suffering",
     "rarity": "Rare",
-    "slug": "436_mirror_of_suffering",
-    "sog_card": "",
     "title": ""
   },
   {
@@ -3313,8 +2841,6 @@
     "extension": "Densara",
     "name": "Sacred Griffin",
     "rarity": "Uncommon",
-    "slug": "437_sacred_griffin",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -3327,8 +2853,6 @@
     "extension": "Densara",
     "name": "Armoured Squadron",
     "rarity": "Uncommon",
-    "slug": "438_armoured_squadron",
-    "sog_card": "",
     "title": "Vils-naimas"
   },
   {
@@ -3341,8 +2865,6 @@
     "extension": "Densara",
     "name": "Pyromancer of Nattaga",
     "rarity": "Uncommon",
-    "slug": "439_pyromancer_of_nattaga",
-    "sog_card": "",
     "title": "Noras"
   },
   {
@@ -3355,8 +2877,6 @@
     "extension": "Densara",
     "name": "Necromancer of Nattaga",
     "rarity": "Uncommon",
-    "slug": "440_necromancer_of_nattaga",
-    "sog_card": "",
     "title": "Noras"
   },
   {
@@ -3369,8 +2889,6 @@
     "extension": "Densara",
     "name": "Sun Priestess",
     "rarity": "Rare",
-    "slug": "441_sun_priestess",
-    "sog_card": "",
     "title": "Vils-naimas"
   },
   {
@@ -3383,8 +2901,6 @@
     "extension": "Densara",
     "name": "Hoaxer of Nattaga",
     "rarity": "Uncommon",
-    "slug": "442_hoaxer_of_nattaga",
-    "sog_card": "",
     "title": "Noras"
   },
   {
@@ -3397,8 +2913,6 @@
     "extension": "Densara",
     "name": "Halo of Purity",
     "rarity": "Common",
-    "slug": "443_halo_of_purity",
-    "sog_card": "",
     "title": "Noras"
   },
   {
@@ -3411,8 +2925,6 @@
     "extension": "Densara",
     "name": "Throbbing Incitement",
     "rarity": "Uncommon",
-    "slug": "444_throbbing_incitement",
-    "sog_card": "",
     "title": "Vils-naimas"
   },
   {
@@ -3425,8 +2937,6 @@
     "extension": "Densara",
     "name": "Shapeshifting Goblin",
     "rarity": "Uncommon",
-    "slug": "445_shapeshifting_goblin",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -3439,8 +2949,6 @@
     "extension": "Densara",
     "name": "Ice Ghost",
     "rarity": "Common",
-    "slug": "446_ice_ghost",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -3453,8 +2961,6 @@
     "extension": "Densara",
     "name": "Predator's Curse",
     "rarity": "Rare",
-    "slug": "447_predator_s_curse",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -3467,8 +2973,6 @@
     "extension": "Densara",
     "name": "Ice Ondin",
     "rarity": "Uncommon",
-    "slug": "448_ice_ondin",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -3481,8 +2985,6 @@
     "extension": "Densara",
     "name": "Marauding Dragon",
     "rarity": "Common",
-    "slug": "449_marauding_dragon",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -3495,8 +2997,6 @@
     "extension": "Densara",
     "name": "Cryomancer of Nattaga",
     "rarity": "Uncommon",
-    "slug": "450_cryomancer_of_nattaga",
-    "sog_card": "",
     "title": "Noras"
   },
   {
@@ -3509,8 +3009,6 @@
     "extension": "Densara",
     "name": "Giant Eagle",
     "rarity": "Rare",
-    "slug": "451_giant_eagle",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -3523,8 +3021,6 @@
     "extension": "Densara",
     "name": "Fraternal Confrontation",
     "rarity": "Uncommon",
-    "slug": "452_fraternal_confrontation",
-    "sog_card": "",
     "title": ""
   },
   {
@@ -3537,8 +3033,6 @@
     "extension": "Densara",
     "name": "Magmatic Orc",
     "rarity": "Uncommon",
-    "slug": "453_magmatic_orc",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -3551,8 +3045,6 @@
     "extension": "Densara",
     "name": "Ambushed Marauder",
     "rarity": "Rare",
-    "slug": "454_ambushed_marauder",
-    "sog_card": "",
     "title": "Vils-naimas"
   },
   {
@@ -3565,8 +3057,6 @@
     "extension": "Densara",
     "name": "Unleashed Artilleryman",
     "rarity": "Rare",
-    "slug": "455_unleashed_artilleryman",
-    "sog_card": "",
     "title": "Vils-naimas"
   },
   {
@@ -3579,8 +3069,6 @@
     "extension": "Densara",
     "name": "Corruption of the Soul",
     "rarity": "Rare",
-    "slug": "456_corruption_of_the_soul",
-    "sog_card": "",
     "title": "Vils-naimas"
   },
   {
@@ -3593,8 +3081,6 @@
     "extension": "Densara",
     "name": "Vengeful Missionary",
     "rarity": "Common",
-    "slug": "457_vengeful_missionary",
-    "sog_card": "",
     "title": "Noras"
   },
   {
@@ -3607,8 +3093,6 @@
     "extension": "Densara",
     "name": "Weapons Expert",
     "rarity": "Uncommon",
-    "slug": "458_weapons_expert",
-    "sog_card": "",
     "title": "Vils-naimas"
   },
   {
@@ -3621,8 +3105,6 @@
     "extension": "Densara",
     "name": "Combustion of Mana",
     "rarity": "",
-    "slug": "459_combustion_of_mana",
-    "sog_card": "",
     "title": "Noras"
   },
   {
@@ -3635,8 +3117,6 @@
     "extension": "Densara",
     "name": "Shamanic Ascension",
     "rarity": "Rare",
-    "slug": "460_shamanic_ascension",
-    "sog_card": "",
     "title": "Noras"
   },
   {
@@ -3649,8 +3129,6 @@
     "extension": "Densara",
     "name": "Smith of Truth",
     "rarity": "Rare",
-    "slug": "461_smith_of_truth",
-    "sog_card": "",
     "title": "Vils-naimas"
   },
   {
@@ -3663,8 +3141,6 @@
     "extension": "Densara",
     "name": "Lucky-Charm Idol",
     "rarity": "Common",
-    "slug": "462_lucky-charm_idol",
-    "sog_card": "",
     "title": "Noras"
   },
   {
@@ -3677,8 +3153,6 @@
     "extension": "Densara",
     "name": "Life Robber",
     "rarity": "Common",
-    "slug": "463_life_robber",
-    "sog_card": "",
     "title": "Noras"
   },
   {
@@ -3691,8 +3165,6 @@
     "extension": "Densara",
     "name": "Blood Script",
     "rarity": "Uncommon",
-    "slug": "464_blood_script",
-    "sog_card": "",
     "title": "Noras"
   },
   {
@@ -3705,8 +3177,6 @@
     "extension": "Densara",
     "name": "Veteran Warrior",
     "rarity": "Uncommon",
-    "slug": "465_veteran_warrior",
-    "sog_card": "",
     "title": "Vils-naimas"
   },
   {
@@ -3719,8 +3189,6 @@
     "extension": "Densara",
     "name": "Goblin Killer",
     "rarity": "Common",
-    "slug": "466_goblin_killer",
-    "sog_card": "",
     "title": "Vils-naimas"
   },
   {
@@ -3733,8 +3201,6 @@
     "extension": "Densara",
     "name": "Spiritual Emanation",
     "rarity": "Rare",
-    "slug": "467_spiritual_emanation",
-    "sog_card": "",
     "title": "Noras"
   },
   {
@@ -3747,8 +3213,6 @@
     "extension": "Densara",
     "name": "Elite Vanguard",
     "rarity": "Uncommon",
-    "slug": "468_elite_vanguard",
-    "sog_card": "",
     "title": "Vils-naimas"
   },
   {
@@ -3761,8 +3225,6 @@
     "extension": "Densara",
     "name": "Ingenious looter",
     "rarity": "Common",
-    "slug": "469_ingenious_looter",
-    "sog_card": "",
     "title": "Vils-naimas"
   },
   {
@@ -3775,8 +3237,6 @@
     "extension": "Densara",
     "name": "Black Slayer",
     "rarity": "Rare",
-    "slug": "470_black_slayer",
-    "sog_card": "",
     "title": "Noras"
   },
   {
@@ -3789,8 +3249,6 @@
     "extension": "Densara",
     "name": "Relics Vandal",
     "rarity": "Rare",
-    "slug": "471_relics_vandal",
-    "sog_card": "",
     "title": "Vils-naimas"
   },
   {
@@ -3803,8 +3261,6 @@
     "extension": "Densara",
     "name": "Ghostly Infantry",
     "rarity": "Rare",
-    "slug": "472_ghostly_infantry",
-    "sog_card": "",
     "title": "Noras"
   },
   {
@@ -3817,8 +3273,6 @@
     "extension": "Densara",
     "name": "Protector of the Islands",
     "rarity": "Rare",
-    "slug": "473_protector_of_the_islands",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -3831,8 +3285,6 @@
     "extension": "Densara",
     "name": "Vils-naimas Infiltrator",
     "rarity": "Rare",
-    "slug": "474_vils-naimas_infiltrator",
-    "sog_card": "",
     "title": "Vils-naimas"
   },
   {
@@ -3845,8 +3297,6 @@
     "extension": "Densara",
     "name": "The Law of Balance",
     "rarity": "Common",
-    "slug": "475_the_law_of_balance",
-    "sog_card": "",
     "title": "Vils-naimas"
   },
   {
@@ -3859,8 +3309,6 @@
     "extension": "Densara",
     "name": "Gorilmoth Guardian",
     "rarity": "Rare",
-    "slug": "476_gorilmoth_guardian",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -3873,8 +3321,6 @@
     "extension": "Densara",
     "name": "Arboreal Monster",
     "rarity": "Common",
-    "slug": "477_arboreal_monster",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -3887,8 +3333,6 @@
     "extension": "Densara",
     "name": "Thirst of Power",
     "rarity": "Rare",
-    "slug": "478_thirst_of_power",
-    "sog_card": "",
     "title": "Vils-naimas"
   },
   {
@@ -3901,8 +3345,6 @@
     "extension": "Densara",
     "name": "Oracle of the Power",
     "rarity": "Uncommon",
-    "slug": "479_oracle_of_the_power",
-    "sog_card": "",
     "title": "Noras"
   },
   {
@@ -3915,8 +3357,6 @@
     "extension": "Densara",
     "name": "Guardian of the Flying Plains",
     "rarity": "Rare",
-    "slug": "480_guardian_of_the_flying_plains",
-    "sog_card": "",
     "title": "Noras"
   },
   {
@@ -3929,8 +3369,6 @@
     "extension": "Densara",
     "name": "Wind Priestess",
     "rarity": "Common",
-    "slug": "481_wind_priestess",
-    "sog_card": "",
     "title": "Noras"
   },
   {
@@ -3943,8 +3381,6 @@
     "extension": "Densara",
     "name": "Oracle of the Life",
     "rarity": "Common",
-    "slug": "482_oracle_of_the_life",
-    "sog_card": "",
     "title": "Noras"
   },
   {
@@ -3957,8 +3393,6 @@
     "extension": "Densara",
     "name": "Disruptive Noras",
     "rarity": "Uncommon",
-    "slug": "483_disruptive_noras",
-    "sog_card": "",
     "title": "Noras"
   },
   {
@@ -3971,8 +3405,6 @@
     "extension": "Densara",
     "name": "Defender of Noras Seas",
     "rarity": "Uncommon",
-    "slug": "484_defender_of_noras_seas",
-    "sog_card": "",
     "title": "Noras"
   },
   {
@@ -3985,8 +3417,6 @@
     "extension": "Densara",
     "name": "Controling Mist Mage",
     "rarity": "Common",
-    "slug": "485_controling_mist_mage",
-    "sog_card": "",
     "title": "Vils-naimas"
   },
   {
@@ -3999,8 +3429,6 @@
     "extension": "Densara",
     "name": "Vilseba, Chief of War",
     "rarity": "Mythical",
-    "slug": "486_vilseba,_chief_of_war",
-    "sog_card": "",
     "title": "Vils-naimas"
   },
   {
@@ -4013,8 +3441,6 @@
     "extension": "Densara",
     "name": "Oracle of the Fury",
     "rarity": "Common",
-    "slug": "487_oracle_of_the_fury",
-    "sog_card": "",
     "title": "Noras"
   },
   {
@@ -4027,8 +3453,6 @@
     "extension": "Densara",
     "name": "Spells Manipulator",
     "rarity": "Uncommon",
-    "slug": "488_spells_manipulator",
-    "sog_card": "",
     "title": "Vils-naimas"
   },
   {
@@ -4041,8 +3465,6 @@
     "extension": "Densara",
     "name": "Savage Beast of Ices",
     "rarity": "Common",
-    "slug": "489_savage_beast_of_ices",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -4055,8 +3477,6 @@
     "extension": "Densara",
     "name": "Blizzard Controller",
     "rarity": "Common",
-    "slug": "490_blizzard_controller",
-    "sog_card": "",
     "title": "Noras"
   },
   {
@@ -4069,8 +3489,6 @@
     "extension": "Densara",
     "name": "Icy Breeze",
     "rarity": "Common",
-    "slug": "491_icy_breeze",
-    "sog_card": "",
     "title": ""
   },
   {
@@ -4083,8 +3501,6 @@
     "extension": "Densara",
     "name": "Energy Drainer",
     "rarity": "Common",
-    "slug": "492_energy_drainer",
-    "sog_card": "",
     "title": "Noras"
   },
   {
@@ -4097,8 +3513,6 @@
     "extension": "Densara",
     "name": "Snow Monster",
     "rarity": "Common",
-    "slug": "493_snow_monster",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -4111,8 +3525,6 @@
     "extension": "Densara",
     "name": "Loner Beast of Ice",
     "rarity": "Common",
-    "slug": "494_loner_beast_of_ice",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -4125,8 +3537,6 @@
     "extension": "Densara",
     "name": "Oracle of the Wariness",
     "rarity": "Common",
-    "slug": "495_oracle_of_the_wariness",
-    "sog_card": "",
     "title": "Noras"
   },
   {
@@ -4139,8 +3549,6 @@
     "extension": "Densara",
     "name": "Norhilton, Warlord",
     "rarity": "Mythical",
-    "slug": "496_norhilton,_warlord",
-    "sog_card": "",
     "title": "Noras"
   },
   {
@@ -4153,8 +3561,6 @@
     "extension": "Densara",
     "name": "Sage of Noras Temple",
     "rarity": "Rare",
-    "slug": "497_sage_of_noras_temple",
-    "sog_card": "",
     "title": "Noras"
   },
   {
@@ -4167,8 +3573,6 @@
     "extension": "Densara",
     "name": "Oracle of Energies",
     "rarity": "Rare",
-    "slug": "498_oracle_of_energies",
-    "sog_card": "",
     "title": "Noras"
   },
   {
@@ -4181,8 +3585,6 @@
     "extension": "Densara",
     "name": "Wild Zeal",
     "rarity": "Rare",
-    "slug": "499_wild_zeal",
-    "sog_card": "",
     "title": "Noras"
   },
   {
@@ -4195,8 +3597,6 @@
     "extension": "DursTor",
     "name": "Sand Snake",
     "rarity": "Common",
-    "slug": "500_sand_snake",
-    "sog_card": "",
     "title": "Obscuras"
   },
   {
@@ -4209,8 +3609,6 @@
     "extension": "DursTor",
     "name": "Aquatic Observer",
     "rarity": "Common",
-    "slug": "501_aquatic_observer",
-    "sog_card": "",
     "title": "Luminatis"
   },
   {
@@ -4223,8 +3621,6 @@
     "extension": "DursTor",
     "name": "Flying Blaze",
     "rarity": "Common",
-    "slug": "502_flying_blaze",
-    "sog_card": "FLYINGBLAZE",
     "title": "Luminatis"
   },
   {
@@ -4237,8 +3633,6 @@
     "extension": "DursTor",
     "name": "Centaur Archer",
     "rarity": "Uncommon",
-    "slug": "503_centaur_archer",
-    "sog_card": "CENTAURARCHE",
     "title": "Luminatis"
   },
   {
@@ -4251,8 +3645,6 @@
     "extension": "DursTor",
     "name": "Black Shaman",
     "rarity": "Rare",
-    "slug": "504_black_shaman",
-    "sog_card": "YELLOWSHAMAN",
     "title": "Obscuras"
   },
   {
@@ -4265,8 +3657,6 @@
     "extension": "DursTor",
     "name": "Aodh the Light",
     "rarity": "Mythical",
-    "slug": "505_aodh_the_light",
-    "sog_card": "",
     "title": "Luminatis"
   },
   {
@@ -4279,8 +3669,6 @@
     "extension": "DursTor",
     "name": "Aodh the Dark",
     "rarity": "Mythical",
-    "slug": "506_aodh_the_dark",
-    "sog_card": "DARKAODH",
     "title": "Obscuras"
   },
   {
@@ -4293,8 +3681,6 @@
     "extension": "DursTor",
     "name": "Invasive Terror",
     "rarity": "Uncommon",
-    "slug": "507_invasive_terror",
-    "sog_card": "",
     "title": "Obscuras"
   },
   {
@@ -4307,8 +3693,6 @@
     "extension": "DursTor",
     "name": "Architect of the Soul",
     "rarity": "Uncommon",
-    "slug": "508_architect_of_the_soul",
-    "sog_card": "",
     "title": "Luminatis"
   },
   {
@@ -4321,8 +3705,6 @@
     "extension": "DursTor",
     "name": "Absolute Darkness",
     "rarity": "Uncommon",
-    "slug": "509_absolute_darkness",
-    "sog_card": "",
     "title": "Obscuras"
   },
   {
@@ -4335,8 +3717,6 @@
     "extension": "DursTor",
     "name": "Son of Chaos",
     "rarity": "Uncommon",
-    "slug": "510_son_of_chaos",
-    "sog_card": "",
     "title": "Obscuras"
   },
   {
@@ -4349,8 +3729,6 @@
     "extension": "DursTor",
     "name": "Brothers of the Night",
     "rarity": "Uncommon",
-    "slug": "511_brothers_of_the_night",
-    "sog_card": "",
     "title": "Obscuras"
   },
   {
@@ -4363,8 +3741,6 @@
     "extension": "DursTor",
     "name": "Wild Prigok",
     "rarity": "Common",
-    "slug": "512_wild_prigok",
-    "sog_card": "",
     "title": "Obscuras"
   },
   {
@@ -4377,8 +3753,6 @@
     "extension": "DursTor",
     "name": "Harbinger of Death",
     "rarity": "Rare",
-    "slug": "513_harbinger_of_death",
-    "sog_card": "HARBINGERDEA",
     "title": "Obscuras"
   },
   {
@@ -4391,8 +3765,6 @@
     "extension": "DursTor",
     "name": "Heavenly Shepherd",
     "rarity": "Uncommon",
-    "slug": "514_heavenly_shepherd",
-    "sog_card": "HEAVENLYSHEP",
     "title": "Luminatis"
   },
   {
@@ -4405,8 +3777,6 @@
     "extension": "DursTor",
     "name": "Centaur Master of War",
     "rarity": "Rare",
-    "slug": "515_centaur_master_of_war",
-    "sog_card": "",
     "title": "Luminatis"
   },
   {
@@ -4419,8 +3789,6 @@
     "extension": "DursTor",
     "name": "Damned Legion",
     "rarity": "Rare",
-    "slug": "516_damned_legion",
-    "sog_card": "",
     "title": "Obscuras"
   },
   {
@@ -4433,8 +3801,6 @@
     "extension": "DursTor",
     "name": "Illusion of Chimera",
     "rarity": "Uncommon",
-    "slug": "517_illusion_of_chimera",
-    "sog_card": "",
     "title": "Luminatis"
   },
   {
@@ -4447,8 +3813,6 @@
     "extension": "DursTor",
     "name": "Colossus of the Destruction",
     "rarity": "Common",
-    "slug": "518_colossus_of_the_destruction",
-    "sog_card": "",
     "title": "Obscuras"
   },
   {
@@ -4461,8 +3825,6 @@
     "extension": "DursTor",
     "name": "Original Terror",
     "rarity": "Uncommon",
-    "slug": "519_original_terror",
-    "sog_card": "",
     "title": "Obscuras"
   },
   {
@@ -4475,8 +3837,6 @@
     "extension": "DursTor",
     "name": "Lightning Rider",
     "rarity": "Uncommon",
-    "slug": "520_lightning_rider",
-    "sog_card": "REINFORCEMEN",
     "title": "Luminatis"
   },
   {
@@ -4489,8 +3849,6 @@
     "extension": "DursTor",
     "name": "Immortal Hero",
     "rarity": "Rare",
-    "slug": "521_immortal_hero",
-    "sog_card": "",
     "title": "Luminatis"
   },
   {
@@ -4503,8 +3861,6 @@
     "extension": "DursTor",
     "name": "Colossus of the Depths",
     "rarity": "Common",
-    "slug": "522_colossus_of_the_depths",
-    "sog_card": "",
     "title": "Obscuras"
   },
   {
@@ -4517,8 +3873,6 @@
     "extension": "DursTor",
     "name": "Duplicating Soldier",
     "rarity": "Rare",
-    "slug": "523_duplicating_soldier",
-    "sog_card": "",
     "title": "Luminatis"
   },
   {
@@ -4531,8 +3885,6 @@
     "extension": "DursTor",
     "name": "Aquylop Gaze",
     "rarity": "Uncommon",
-    "slug": "524_aquylop_gaze",
-    "sog_card": "",
     "title": "Luminatis"
   },
   {
@@ -4545,8 +3897,6 @@
     "extension": "DursTor",
     "name": "Demon Protector of the Darkness",
     "rarity": "Common",
-    "slug": "525_demon_protector_of_the_darkness",
-    "sog_card": "",
     "title": "Obscuras"
   },
   {
@@ -4559,8 +3909,6 @@
     "extension": "DursTor",
     "name": "Centaur Scout",
     "rarity": "Uncommon",
-    "slug": "526_centaur_scout",
-    "sog_card": "",
     "title": "Luminatis"
   },
   {
@@ -4573,8 +3921,6 @@
     "extension": "DursTor",
     "name": "Minotaur Berserker",
     "rarity": "Rare",
-    "slug": "527_minotaur_berserker",
-    "sog_card": "",
     "title": "Obscuras"
   },
   {
@@ -4587,8 +3933,6 @@
     "extension": "DursTor",
     "name": "Minotaur Archer",
     "rarity": "Uncommon",
-    "slug": "528_minotaur_archer",
-    "sog_card": "",
     "title": "Obscuras"
   },
   {
@@ -4601,8 +3945,6 @@
     "extension": "DursTor",
     "name": "Minotaur Shield Holder",
     "rarity": "Rare",
-    "slug": "529_minotaur_shield_holder",
-    "sog_card": "",
     "title": "Obscuras"
   },
   {
@@ -4615,8 +3957,6 @@
     "extension": "DursTor",
     "name": "Ornament of Dursa",
     "rarity": "Rare",
-    "slug": "530_ornament_of_dursa",
-    "sog_card": "",
     "title": "Obscuras"
   },
   {
@@ -4629,8 +3969,6 @@
     "extension": "DursTor",
     "name": "Ornament of Torrece",
     "rarity": "Rare",
-    "slug": "531_ornament_of_torrece",
-    "sog_card": "",
     "title": "Luminatis"
   },
   {
@@ -4643,8 +3981,6 @@
     "extension": "DursTor",
     "name": "Angel Protector of the Light",
     "rarity": "Common",
-    "slug": "532_angel_protector_of_the_light",
-    "sog_card": "",
     "title": "Luminatis"
   },
   {
@@ -4657,8 +3993,6 @@
     "extension": "DursTor",
     "name": "The Princess of Sands",
     "rarity": "Rare",
-    "slug": "533_the_princess_of_sands",
-    "sog_card": "",
     "title": "Luminatis"
   },
   {
@@ -4671,8 +4005,6 @@
     "extension": "DursTor",
     "name": "Absolute Light",
     "rarity": "Uncommon",
-    "slug": "534_absolute_light",
-    "sog_card": "",
     "title": "Luminatis"
   },
   {
@@ -4685,8 +4017,6 @@
     "extension": "DursTor",
     "name": "Colossus of the Desert",
     "rarity": "Common",
-    "slug": "535_colossus_of_the_desert",
-    "sog_card": "FROZENCOLOSS",
     "title": "Obscuras"
   },
   {
@@ -4699,8 +4029,6 @@
     "extension": "DursTor",
     "name": "Dukaï Devourer",
     "rarity": "Common",
-    "slug": "536_dukaï_devourer",
-    "sog_card": "",
     "title": "Obscuras"
   },
   {
@@ -4713,8 +4041,6 @@
     "extension": "DursTor",
     "name": "Nocturnal Thogila",
     "rarity": "Uncommon",
-    "slug": "537_nocturnal_thogila",
-    "sog_card": "",
     "title": "Obscuras"
   },
   {
@@ -4727,8 +4053,6 @@
     "extension": "DursTor",
     "name": "Summon of the Dark Aura",
     "rarity": "Rare",
-    "slug": "538_summon_of_the_dark_aura",
-    "sog_card": "",
     "title": "Obscuras"
   },
   {
@@ -4741,8 +4065,6 @@
     "extension": "DursTor",
     "name": "Flying Attack",
     "rarity": "Common",
-    "slug": "539_flying_attack",
-    "sog_card": "",
     "title": "Obscuras"
   },
   {
@@ -4755,8 +4077,6 @@
     "extension": "DursTor",
     "name": "Aquatic Colossus",
     "rarity": "Common",
-    "slug": "540_aquatic_colossus",
-    "sog_card": "",
     "title": "Obscuras"
   },
   {
@@ -4769,8 +4089,6 @@
     "extension": "DursTor",
     "name": "Flying Colossus",
     "rarity": "Rare",
-    "slug": "541_flying_colossus",
-    "sog_card": "",
     "title": "Obscuras"
   },
   {
@@ -4783,8 +4101,6 @@
     "extension": "DursTor",
     "name": "Agradol the Rock",
     "rarity": "Common",
-    "slug": "542_agradol_the_rock",
-    "sog_card": "",
     "title": "Luminatis"
   },
   {
@@ -4797,8 +4113,6 @@
     "extension": "DursTor",
     "name": "Agradol the Fire",
     "rarity": "Common",
-    "slug": "543_agradol_the_fire",
-    "sog_card": "",
     "title": "Luminatis"
   },
   {
@@ -4811,8 +4125,6 @@
     "extension": "DursTor",
     "name": "Agradol the Oasis",
     "rarity": "Common",
-    "slug": "544_agradol_the_oasis",
-    "sog_card": "",
     "title": "Luminatis"
   },
   {
@@ -4825,8 +4137,6 @@
     "extension": "DursTor",
     "name": "Agradol from Azure",
     "rarity": "Rare",
-    "slug": "545_agradol_from_azure",
-    "sog_card": "",
     "title": "Luminatis"
   },
   {
@@ -4839,8 +4149,6 @@
     "extension": "DursTor",
     "name": "Agradol the Ice",
     "rarity": "Common",
-    "slug": "546_agradol_the_ice",
-    "sog_card": "",
     "title": "Luminatis"
   },
   {
@@ -4853,8 +4161,6 @@
     "extension": "DursTor",
     "name": "Grip of the Aquatic Worm",
     "rarity": "Common",
-    "slug": "547_grip_of_the_aquatic_worm",
-    "sog_card": "",
     "title": "Luminatis"
   },
   {
@@ -4867,8 +4173,6 @@
     "extension": "DursTor",
     "name": "Concentration of Energy",
     "rarity": "Uncommon",
-    "slug": "548_concentration_of_energy",
-    "sog_card": "",
     "title": "Obscuras"
   },
   {
@@ -4881,8 +4185,6 @@
     "extension": "DursTor",
     "name": "Infection of Swampy Worms",
     "rarity": "Rare",
-    "slug": "549_infection_of_swampy_worms",
-    "sog_card": "",
     "title": "Obscuras"
   },
   {
@@ -4895,8 +4197,6 @@
     "extension": "DursTor",
     "name": "Devastating Minotaur",
     "rarity": "Uncommon",
-    "slug": "550_devastating_minotaur",
-    "sog_card": "DEVASTATINGM",
     "title": "Obscuras"
   },
   {
@@ -4909,8 +4209,6 @@
     "extension": "DursTor",
     "name": "Exterminator Minotaur",
     "rarity": "Rare",
-    "slug": "551_exterminator_minotaur",
-    "sog_card": "",
     "title": "Obscuras"
   },
   {
@@ -4923,8 +4221,6 @@
     "extension": "DursTor",
     "name": "Centaur Slicer",
     "rarity": "Rare",
-    "slug": "552_centaur_slicer",
-    "sog_card": "",
     "title": ""
   },
   {
@@ -4937,8 +4233,6 @@
     "extension": "DursTor",
     "name": "Centaur Raw Strengh",
     "rarity": "Uncommon",
-    "slug": "553_centaur_raw_strengh",
-    "sog_card": "",
     "title": "Luminatis"
   },
   {
@@ -4951,8 +4245,6 @@
     "extension": "DursTor",
     "name": "Dream of Greatness",
     "rarity": "Rare",
-    "slug": "554_dream_of_greatness",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -4965,8 +4257,6 @@
     "extension": "DursTor",
     "name": "Scholar Angel",
     "rarity": "Common",
-    "slug": "555_scholar_angel",
-    "sog_card": "",
     "title": "Luminatis"
   },
   {
@@ -4979,8 +4269,6 @@
     "extension": "DursTor",
     "name": "Fleeing Angel",
     "rarity": "Common",
-    "slug": "556_fleeing_angel",
-    "sog_card": "",
     "title": "Luminatis"
   },
   {
@@ -4993,8 +4281,6 @@
     "extension": "DursTor",
     "name": "Warrior Angel",
     "rarity": "Rare",
-    "slug": "557_warrior_angel",
-    "sog_card": "WARRIORLUMIN",
     "title": "Luminatis"
   },
   {
@@ -5007,8 +4293,6 @@
     "extension": "DursTor",
     "name": "Dog of Darkness",
     "rarity": "Common",
-    "slug": "558_dog_of_darkness",
-    "sog_card": "",
     "title": "Obscuras"
   },
   {
@@ -5021,8 +4305,6 @@
     "extension": "DursTor",
     "name": "Protector of Ornaments",
     "rarity": "Rare",
-    "slug": "559_protector_of_ornaments",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -5035,8 +4317,6 @@
     "extension": "DursTor",
     "name": "Dark Knight",
     "rarity": "Uncommon",
-    "slug": "560_dark_knight",
-    "sog_card": "",
     "title": "Obscuras"
   },
   {
@@ -5049,8 +4329,6 @@
     "extension": "DursTor",
     "name": "Bright Knight",
     "rarity": "Uncommon",
-    "slug": "561_bright_knight",
-    "sog_card": "",
     "title": "Luminatis"
   },
   {
@@ -5063,8 +4341,6 @@
     "extension": "DursTor",
     "name": "Silver Compass",
     "rarity": "Rare",
-    "slug": "562_silver_compass",
-    "sog_card": "",
     "title": ""
   },
   {
@@ -5077,8 +4353,6 @@
     "extension": "DursTor",
     "name": "Uncertain Future",
     "rarity": "Common",
-    "slug": "563_uncertain_future",
-    "sog_card": "",
     "title": "Luminatis / Obscuras"
   },
   {
@@ -5091,8 +4365,6 @@
     "extension": "DursTor",
     "name": "Tissue of Ages",
     "rarity": "Uncommon",
-    "slug": "564_tissue_of_ages",
-    "sog_card": "",
     "title": ""
   },
   {
@@ -5105,8 +4377,6 @@
     "extension": "DursTor",
     "name": "Guardian of the Bright Elite",
     "rarity": "Rare",
-    "slug": "565_guardian_of_the_bright_elite",
-    "sog_card": "",
     "title": "Luminatis"
   },
   {
@@ -5119,8 +4389,6 @@
     "extension": "DursTor",
     "name": "Enraged Exterminator",
     "rarity": "Rare",
-    "slug": "566_enraged_exterminator",
-    "sog_card": "",
     "title": "Obscuras"
   },
   {
@@ -5133,8 +4401,6 @@
     "extension": "DursTor",
     "name": "Spectre of Swamps",
     "rarity": "Rare",
-    "slug": "567_spectre_of_swamps",
-    "sog_card": "",
     "title": "Obscuras"
   },
   {
@@ -5147,8 +4413,6 @@
     "extension": "DursTor",
     "name": "Milial Vitalist",
     "rarity": "",
-    "slug": "568_milial_vitalist",
-    "sog_card": "",
     "title": "Luminatis"
   },
   {
@@ -5161,8 +4425,6 @@
     "extension": "DursTor",
     "name": "Sunktar Vitalist",
     "rarity": "",
-    "slug": "569_sunktar_vitalist",
-    "sog_card": "",
     "title": "Obscuras"
   },
   {
@@ -5175,8 +4437,6 @@
     "extension": "DursTor",
     "name": "Manducare",
     "rarity": "Rare",
-    "slug": "570_manducare",
-    "sog_card": "",
     "title": "Obscuras"
   },
   {
@@ -5189,8 +4449,6 @@
     "extension": "DursTor",
     "name": "Guardian of the Obscure Elite",
     "rarity": "Rare",
-    "slug": "571_guardian_of_the_obscure_elite",
-    "sog_card": "",
     "title": "Obscuras"
   },
   {
@@ -5203,8 +4461,6 @@
     "extension": "DursTor",
     "name": "Incandescent Sun",
     "rarity": "Common",
-    "slug": "572_incandescent_sun",
-    "sog_card": "",
     "title": ""
   },
   {
@@ -5217,8 +4473,6 @@
     "extension": "DursTor",
     "name": "Burn Life Larva",
     "rarity": "Common",
-    "slug": "573_burn_life_larva",
-    "sog_card": "",
     "title": "Obscuras"
   },
   {
@@ -5231,8 +4485,6 @@
     "extension": "DursTor",
     "name": "Flying Ray",
     "rarity": "Common",
-    "slug": "574_flying_ray",
-    "sog_card": "",
     "title": "Luminatis"
   },
   {
@@ -5245,8 +4497,6 @@
     "extension": "DursTor",
     "name": "Ice Snake",
     "rarity": "Common",
-    "slug": "575_ice_snake",
-    "sog_card": "",
     "title": "Luminatis"
   },
   {
@@ -5259,8 +4509,6 @@
     "extension": "DursTor",
     "name": "Controlling Strengh Mage",
     "rarity": "Uncommon",
-    "slug": "576_controlling_strengh_mage",
-    "sog_card": "",
     "title": "Luminatis"
   },
   {
@@ -5273,8 +4521,6 @@
     "extension": "DursTor",
     "name": "Beast Aura's Mage",
     "rarity": "Uncommon",
-    "slug": "577_beast_aura_s_mage",
-    "sog_card": "",
     "title": "Obscuras"
   },
   {
@@ -5287,8 +4533,6 @@
     "extension": "DursTor",
     "name": "Demon Sentinel",
     "rarity": "Common",
-    "slug": "578_demon_sentinel",
-    "sog_card": "",
     "title": "Obscuras"
   },
   {
@@ -5301,8 +4545,6 @@
     "extension": "DursTor",
     "name": "Flying Demon",
     "rarity": "Common",
-    "slug": "579_flying_demon",
-    "sog_card": "",
     "title": "Obscuras"
   },
   {
@@ -5315,8 +4557,6 @@
     "extension": "DursTor",
     "name": "Demon Warrior",
     "rarity": "Rare",
-    "slug": "580_demon_warrior",
-    "sog_card": "WARRIOROBSCU",
     "title": "Obscuras"
   },
   {
@@ -5329,8 +4569,6 @@
     "extension": "DursTor",
     "name": "Scorpion Eating Life",
     "rarity": "Common",
-    "slug": "581_scorpion_eating_life",
-    "sog_card": "",
     "title": "Obscuras"
   },
   {
@@ -5343,8 +4581,6 @@
     "extension": "DursTor",
     "name": "Rock's Grip",
     "rarity": "Common",
-    "slug": "582_rock_s_grip",
-    "sog_card": "",
     "title": "Obscuras"
   },
   {
@@ -5357,8 +4593,6 @@
     "extension": "DursTor",
     "name": "Lanna's Attack",
     "rarity": "Rare",
-    "slug": "583_lanna_s_attack",
-    "sog_card": "",
     "title": "Realm of Water"
   },
   {
@@ -5371,8 +4605,6 @@
     "extension": "DursTor",
     "name": "Declan's Attack",
     "rarity": "Rare",
-    "slug": "584_declan_s_attack",
-    "sog_card": "",
     "title": "Shadow's Knights"
   },
   {
@@ -5385,8 +4617,6 @@
     "extension": "DursTor",
     "name": "Giant Worm of Swamp",
     "rarity": "Common",
-    "slug": "585_giant_worm_of_swamp",
-    "sog_card": "",
     "title": "Obscuras"
   },
   {
@@ -5399,8 +4629,6 @@
     "extension": "DursTor",
     "name": "Obscur Monster",
     "rarity": "Common",
-    "slug": "586_obscur_monster",
-    "sog_card": "",
     "title": "Obscuras"
   },
   {
@@ -5413,8 +4641,6 @@
     "extension": "DursTor",
     "name": "Shadow's Army",
     "rarity": "Uncommon",
-    "slug": "587_shadow_s_army",
-    "sog_card": "",
     "title": "Obscuras"
   },
   {
@@ -5427,8 +4653,6 @@
     "extension": "DursTor",
     "name": "Paralyzing Grip",
     "rarity": "Uncommon",
-    "slug": "588_paralyzing_grip",
-    "sog_card": "",
     "title": "Luminatis"
   },
   {
@@ -5441,8 +4665,6 @@
     "extension": "DursTor",
     "name": "Rockbreaker Bear",
     "rarity": "Common",
-    "slug": "589_rockbreaker_bear",
-    "sog_card": "",
     "title": "Obscuras"
   },
   {
@@ -5455,8 +4677,6 @@
     "extension": "DursTor",
     "name": "Breathing Insect",
     "rarity": "Common",
-    "slug": "590_breathing_insect",
-    "sog_card": "",
     "title": "Luminatis"
   },
   {
@@ -5469,8 +4689,6 @@
     "extension": "DursTor",
     "name": "Icy Golem",
     "rarity": "Common",
-    "slug": "591_icy_golem",
-    "sog_card": "",
     "title": "Luminatis"
   },
   {
@@ -5483,8 +4701,6 @@
     "extension": "DursTor",
     "name": "Armoured Beast",
     "rarity": "Common",
-    "slug": "592_armoured_beast",
-    "sog_card": "",
     "title": "Obscuras"
   },
   {
@@ -5497,8 +4713,6 @@
     "extension": "DursTor",
     "name": "Reinforcements Army",
     "rarity": "Rare",
-    "slug": "593_reinforcements_army",
-    "sog_card": "",
     "title": "Luminatis"
   },
   {
@@ -5511,8 +4725,6 @@
     "extension": "DursTor",
     "name": "Hundred Blades Warrior",
     "rarity": "Uncommon",
-    "slug": "594_hundred_blades_warrior",
-    "sog_card": "",
     "title": "Luminatis"
   },
   {
@@ -5525,8 +4737,6 @@
     "extension": "DursTor",
     "name": "Shield of Meditation",
     "rarity": "Uncommon",
-    "slug": "595_shield_of_meditation",
-    "sog_card": "",
     "title": "Luminatis"
   },
   {
@@ -5539,8 +4749,6 @@
     "extension": "DursTor",
     "name": "Sword of Light's Fighter",
     "rarity": "Uncommon",
-    "slug": "596_sword_of_light_s_fighter",
-    "sog_card": "",
     "title": "Luminatis"
   },
   {
@@ -5553,8 +4761,6 @@
     "extension": "DursTor",
     "name": "Lord of Mercifully",
     "rarity": "Uncommon",
-    "slug": "597_lord_of_mercifully",
-    "sog_card": "",
     "title": "Luminatis"
   },
   {
@@ -5567,8 +4773,6 @@
     "extension": "DursTor",
     "name": "Lord of Terror",
     "rarity": "Uncommon",
-    "slug": "598_lord_of_terror",
-    "sog_card": "",
     "title": "Obscuras"
   },
   {
@@ -5581,8 +4785,6 @@
     "extension": "DursTor",
     "name": "Manipulator of Darkness",
     "rarity": "Rare",
-    "slug": "599_manipulator_of_darkness",
-    "sog_card": "",
     "title": "Manipulateur de l'obscurité"
   },
   {
@@ -5595,8 +4797,6 @@
     "extension": "Lanna",
     "name": "Mylena, Queen of the Kingdom of Waters",
     "rarity": "Mythical",
-    "slug": "1200_mylena,_queen_of_the_kingdom_of_waters",
-    "sog_card": "TRIDENTQUEEN",
     "title": "Kingdom of Waters"
   },
   {
@@ -5609,8 +4809,6 @@
     "extension": "Lanna",
     "name": "Water Elf Warrior",
     "rarity": "Common",
-    "slug": "1201_water_elf_warrior",
-    "sog_card": "",
     "title": "Kingdom of Waters"
   },
   {
@@ -5623,8 +4821,6 @@
     "extension": "Lanna",
     "name": "Vigilant Water Elf",
     "rarity": "Uncommon",
-    "slug": "1202_vigilant_water_elf",
-    "sog_card": "VIGILANTWATE",
     "title": "Kingdom of Waters"
   },
   {
@@ -5637,8 +4833,6 @@
     "extension": "Lanna",
     "name": "Water Elf Queen's Guard",
     "rarity": "Uncommon",
-    "slug": "1203_water_elf_queen_s_guard",
-    "sog_card": "",
     "title": "Kingdom of Waters"
   },
   {
@@ -5651,8 +4845,6 @@
     "extension": "Lanna",
     "name": "Water Elf Palace's Guardian",
     "rarity": "Rare",
-    "slug": "1204_water_elf_palace_s_guardian",
-    "sog_card": "",
     "title": "Kingdom of Waters"
   },
   {
@@ -5665,8 +4857,6 @@
     "extension": "Lanna",
     "name": "Water Elf Healer",
     "rarity": "Uncommon",
-    "slug": "1205_water_elf_healer",
-    "sog_card": "",
     "title": "Kingdom of Waters"
   },
   {
@@ -5679,8 +4869,6 @@
     "extension": "Lanna",
     "name": "Water Elf Life Healer",
     "rarity": "Rare",
-    "slug": "1206_water_elf_life_healer",
-    "sog_card": "QUEENSHEALER",
     "title": "Kingdom of Waters"
   },
   {
@@ -5693,8 +4881,6 @@
     "extension": "Lanna",
     "name": "Warrior Spears Blacksmith",
     "rarity": "Common",
-    "slug": "1207_warrior_spears_blacksmith",
-    "sog_card": "",
     "title": "Kingdom of Waters"
   },
   {
@@ -5707,8 +4893,6 @@
     "extension": "Lanna",
     "name": "Warrior Spears Enchantress",
     "rarity": "Uncommon",
-    "slug": "1208_warrior_spears_enchantress",
-    "sog_card": "",
     "title": "Kingdom of Waters"
   },
   {
@@ -5721,8 +4905,6 @@
     "extension": "Lanna",
     "name": "Merman Sea Monsters Hunter",
     "rarity": "Common",
-    "slug": "1209_merman_sea_monsters_hunter",
-    "sog_card": "",
     "title": "Kingdom of Waters"
   },
   {
@@ -5735,8 +4917,6 @@
     "extension": "Lanna",
     "name": "Merman Amphibious Dragons Hunter",
     "rarity": "Uncommon",
-    "slug": "1210_merman_amphibious_dragons_hunter",
-    "sog_card": "",
     "title": "Kingdom of Waters"
   },
   {
@@ -5749,8 +4929,6 @@
     "extension": "Lanna",
     "name": "Merman Warrior",
     "rarity": "Uncommon",
-    "slug": "1211_merman_warrior",
-    "sog_card": "",
     "title": "Kingdom of Waters"
   },
   {
@@ -5763,8 +4941,6 @@
     "extension": "Lanna",
     "name": "Merman Elite Warrior",
     "rarity": "Rare",
-    "slug": "1212_merman_elite_warrior",
-    "sog_card": "",
     "title": "Kingdom of Waters"
   },
   {
@@ -5777,8 +4953,6 @@
     "extension": "Lanna",
     "name": "Leviathan",
     "rarity": "Common",
-    "slug": "1213_leviathan",
-    "sog_card": "",
     "title": "Kingdom of Waters"
   },
   {
@@ -5791,8 +4965,6 @@
     "extension": "Lanna",
     "name": "Coral Leviathan",
     "rarity": "Uncommon",
-    "slug": "1214_coral_leviathan",
-    "sog_card": "",
     "title": "Kingdom of Waters"
   },
   {
@@ -5805,8 +4977,6 @@
     "extension": "Lanna",
     "name": "Orcandos",
     "rarity": "Common",
-    "slug": "1215_orcandos",
-    "sog_card": "",
     "title": "Kingdom of Waters"
   },
   {
@@ -5819,8 +4989,6 @@
     "extension": "Lanna",
     "name": "Reinforced Orcandos",
     "rarity": "Uncommon",
-    "slug": "1216_reinforced_orcandos",
-    "sog_card": "REINFORCEDOC",
     "title": "Kingdom of Waters"
   },
   {
@@ -5833,8 +5001,6 @@
     "extension": "Lanna",
     "name": "Frozen Plains Golem",
     "rarity": "Common",
-    "slug": "1217_frozen_plains_golem",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -5847,8 +5013,6 @@
     "extension": "Lanna",
     "name": "Runic Golem",
     "rarity": "Uncommon",
-    "slug": "1218_runic_golem",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -5861,8 +5025,6 @@
     "extension": "Lanna",
     "name": "Crystal Golem",
     "rarity": "Common",
-    "slug": "1219_crystal_golem",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -5875,8 +5037,6 @@
     "extension": "Lanna",
     "name": "Enraged Crystal Golem",
     "rarity": "Uncommon",
-    "slug": "1220_enraged_crystal_golem",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -5889,8 +5049,6 @@
     "extension": "Lanna",
     "name": "Sormal",
     "rarity": "Uncommon",
-    "slug": "1221_sormal",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -5903,8 +5061,6 @@
     "extension": "Lanna",
     "name": "Infected Sormal",
     "rarity": "Rare",
-    "slug": "1222_infected_sormal",
-    "sog_card": "INFECTEDSORM",
     "title": "Loner"
   },
   {
@@ -5917,8 +5073,6 @@
     "extension": "Lanna",
     "name": "Knight of Shadows",
     "rarity": "Common",
-    "slug": "1223_knight_of_shadows",
-    "sog_card": "",
     "title": "Knight of Shadows"
   },
   {
@@ -5931,8 +5085,6 @@
     "extension": "Lanna",
     "name": "Transcendental Knight of Shadows",
     "rarity": "Rare",
-    "slug": "1224_transcendental_knight_of_shadows",
-    "sog_card": "TRANSCENDEN",
     "title": "Knight of Shadows"
   },
   {
@@ -5945,8 +5097,6 @@
     "extension": "Lanna",
     "name": "Ice Itlan Warrior",
     "rarity": "Common",
-    "slug": "1225_ice_itlan_warrior",
-    "sog_card": "",
     "title": "Alliance of Marnordir"
   },
   {
@@ -5959,8 +5109,6 @@
     "extension": "Lanna",
     "name": "Fire Itlan Warrior",
     "rarity": "Rare",
-    "slug": "1226_fire_itlan_warrior",
-    "sog_card": "",
     "title": "Alliance of Marnordir"
   },
   {
@@ -5973,8 +5121,6 @@
     "extension": "Lanna",
     "name": "Earth Elf Dogs Hunter",
     "rarity": "Common",
-    "slug": "1227_earth_elf_dogs_hunter",
-    "sog_card": "",
     "title": "Alliance of Marnordir"
   },
   {
@@ -5987,8 +5133,6 @@
     "extension": "Lanna",
     "name": "Earth Elf Monsters Killer",
     "rarity": "Rare",
-    "slug": "1228_earth_elf_monsters_killer",
-    "sog_card": "ELFMONSTERKI",
     "title": "Alliance of Marnordir"
   },
   {
@@ -6001,8 +5145,6 @@
     "extension": "Lanna",
     "name": "Crystal Miner",
     "rarity": "Uncommon",
-    "slug": "1229_crystal_miner",
-    "sog_card": "",
     "title": "Alliance of Marnordir"
   },
   {
@@ -6015,8 +5157,6 @@
     "extension": "Lanna",
     "name": "Crystal Processor",
     "rarity": "Rare",
-    "slug": "1230_crystal_processor",
-    "sog_card": "CRYSTALREFIN",
     "title": "Alliance of Marnordir"
   },
   {
@@ -6029,8 +5169,6 @@
     "extension": "Lanna",
     "name": "Water Elf Rider",
     "rarity": "Rare",
-    "slug": "1231_water_elf_rider",
-    "sog_card": "",
     "title": "Kingdom of Waters"
   },
   {
@@ -6043,8 +5181,6 @@
     "extension": "Lanna",
     "name": "Merman's Trident",
     "rarity": "Common",
-    "slug": "1232_merman_s_trident",
-    "sog_card": "",
     "title": "Kingdom of Waters"
   },
   {
@@ -6057,8 +5193,6 @@
     "extension": "Lanna",
     "name": "Maritime Disruption",
     "rarity": "Common",
-    "slug": "1233_maritime_disruption",
-    "sog_card": "",
     "title": ""
   },
   {
@@ -6071,8 +5205,6 @@
     "extension": "Lanna",
     "name": "Itlan Axe",
     "rarity": "Common",
-    "slug": "1234_itlan_axe",
-    "sog_card": "",
     "title": "Alliance of Marnordir "
   },
   {
@@ -6085,8 +5217,6 @@
     "extension": "Lanna",
     "name": "Throne of King Gar'Awall",
     "rarity": "Uncommon",
-    "slug": "1235_throne_of_king_gar_awall",
-    "sog_card": "",
     "title": "Alliance of Marnordir"
   },
   {
@@ -6099,8 +5229,6 @@
     "extension": "Lanna",
     "name": "Charge of the Elite Rider",
     "rarity": "",
-    "slug": "1236_charge_of_the_elite_rider",
-    "sog_card": "",
     "title": "Kingdom of Waters"
   },
   {
@@ -6113,8 +5241,6 @@
     "extension": "Lanna",
     "name": "Royal Trident",
     "rarity": "Rare",
-    "slug": "1237_royal_trident",
-    "sog_card": "",
     "title": "Kingdom of Waters"
   },
   {
@@ -6127,8 +5253,6 @@
     "extension": "Lanna",
     "name": "Kingdom of Waters Palace",
     "rarity": "Rare",
-    "slug": "1238_kingdom_of_waters_palace",
-    "sog_card": "",
     "title": "Kingdom of Waters"
   },
   {
@@ -6141,8 +5265,6 @@
     "extension": "Lanna",
     "name": "Itlan Kingdom Castle",
     "rarity": "Rare",
-    "slug": "1239_itlan_kingdom_castle",
-    "sog_card": "",
     "title": "Alliance of Marnordir"
   },
   {
@@ -6155,8 +5277,6 @@
     "extension": "Lanna",
     "name": "Lanna",
     "rarity": "Uncommon",
-    "slug": "1240_lanna",
-    "sog_card": "",
     "title": "Kingdom of Waters"
   },
   {
@@ -6169,8 +5289,6 @@
     "extension": "Lanna",
     "name": "Declan",
     "rarity": "Uncommon",
-    "slug": "1241_declan",
-    "sog_card": "",
     "title": "Knight of Shadows"
   },
   {
@@ -6183,8 +5301,6 @@
     "extension": "Lanna",
     "name": "Elf Master of Water",
     "rarity": "Common",
-    "slug": "1242_elf_master_of_water",
-    "sog_card": "",
     "title": "Kingdom of Waters"
   },
   {
@@ -6197,8 +5313,6 @@
     "extension": "Lanna",
     "name": "Leviathan",
     "rarity": "Common",
-    "slug": "1243_leviathan",
-    "sog_card": "",
     "title": "Kingdom of Waters"
   },
   {
@@ -6211,8 +5325,6 @@
     "extension": "Lanna",
     "name": "Kingdom of Waters Court",
     "rarity": "Rare",
-    "slug": "1244_kingdom_of_waters_court",
-    "sog_card": "",
     "title": ""
   },
   {
@@ -6225,8 +5337,6 @@
     "extension": "Lanna",
     "name": "War Dog",
     "rarity": "Common",
-    "slug": "1245_war_dog",
-    "sog_card": "",
     "title": "Alliance of Marnordir"
   },
   {
@@ -6239,8 +5349,6 @@
     "extension": "Lanna",
     "name": "Itlan Sailor",
     "rarity": "Rare",
-    "slug": "1246_itlan_sailor",
-    "sog_card": "",
     "title": "Alliance of Marnordir "
   },
   {
@@ -6253,8 +5361,6 @@
     "extension": "Lanna",
     "name": "Dogs Tamer",
     "rarity": "Common",
-    "slug": "1247_dogs_tamer",
-    "sog_card": "",
     "title": "Alliance of Marnordir "
   },
   {
@@ -6267,8 +5373,6 @@
     "extension": "Lanna",
     "name": "Shipbuilder",
     "rarity": "Rare",
-    "slug": "1248_shipbuilder",
-    "sog_card": "",
     "title": ""
   },
   {
@@ -6281,8 +5385,6 @@
     "extension": "Lanna",
     "name": "Itlan Boat",
     "rarity": "Uncommon",
-    "slug": "1249_itlan_boat",
-    "sog_card": "",
     "title": "Alliance of Marnordir "
   },
   {
@@ -6295,8 +5397,6 @@
     "extension": "Lanna",
     "name": "Amphibious Dragon",
     "rarity": "Common",
-    "slug": "1250_amphibious_dragon",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -6309,8 +5409,6 @@
     "extension": "Lanna",
     "name": "Hungry Amphibious Dragon",
     "rarity": "Rare",
-    "slug": "1251_hungry_amphibious_dragon",
-    "sog_card": "HUNGRYAMPHIB",
     "title": "Loner"
   },
   {
@@ -6323,8 +5421,6 @@
     "extension": "Lanna",
     "name": "Ice Dragon",
     "rarity": "Common",
-    "slug": "1252_ice_dragon",
-    "sog_card": "ICEGOLEM",
     "title": "Loner"
   },
   {
@@ -6337,8 +5433,6 @@
     "extension": "Lanna",
     "name": "Crystal Dragon",
     "rarity": "Uncommon",
-    "slug": "1253_crystal_dragon",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -6351,8 +5445,6 @@
     "extension": "Lanna",
     "name": "Spirit of Life",
     "rarity": "Rare",
-    "slug": "1254_spirit_of_life",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -6365,8 +5457,6 @@
     "extension": "Lanna",
     "name": "Spirit of the Frozen Death",
     "rarity": "Rare",
-    "slug": "1255_spirit_of_the_frozen_death",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -6379,8 +5469,6 @@
     "extension": "Lanna",
     "name": "Coal Golem",
     "rarity": "Common",
-    "slug": "1256_coal_golem",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -6393,8 +5481,6 @@
     "extension": "Lanna",
     "name": "Magmatic Coal Golem",
     "rarity": "Uncommon",
-    "slug": "1257_magmatic_coal_golem",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -6407,8 +5493,6 @@
     "extension": "Lanna",
     "name": "Snow Storm",
     "rarity": "Uncommon",
-    "slug": "1258_snow_storm",
-    "sog_card": "",
     "title": ""
   },
   {
@@ -6421,8 +5505,6 @@
     "extension": "Lanna",
     "name": "Rage of the Knight of Shadows",
     "rarity": "Rare",
-    "slug": "1259_rage_of_the_knight_of_shadows",
-    "sog_card": "",
     "title": "Knight of Shadows"
   },
   {
@@ -6435,8 +5517,6 @@
     "extension": "Lanna",
     "name": "Fighting Lanna",
     "rarity": "Rare",
-    "slug": "1260_fighting_lanna",
-    "sog_card": "",
     "title": "Kingdom of Waters"
   },
   {
@@ -6449,8 +5529,6 @@
     "extension": "Lanna",
     "name": "Unleashed Declan",
     "rarity": "Rare",
-    "slug": "1261_unleashed_declan",
-    "sog_card": "",
     "title": "Knight of Shadows"
   },
   {
@@ -6463,8 +5541,6 @@
     "extension": "Lanna",
     "name": "Water Elf General",
     "rarity": "Rare",
-    "slug": "1262_water_elf_general",
-    "sog_card": "WATERELFADMI",
     "title": "Kingdom of Waters"
   },
   {
@@ -6477,8 +5553,6 @@
     "extension": "Lanna",
     "name": "Defense Breaker Knight of Shadows",
     "rarity": "Uncommon",
-    "slug": "1263_defense_breaker_knight_of_shadows",
-    "sog_card": "",
     "title": "Knight of Shadows"
   },
   {
@@ -6491,8 +5565,6 @@
     "extension": "Lanna",
     "name": "Leviathans Group",
     "rarity": "Common",
-    "slug": "1264_leviathans_group",
-    "sog_card": "",
     "title": "Kingdom of Waters"
   },
   {
@@ -6505,8 +5577,6 @@
     "extension": "Lanna",
     "name": "Ultimate War Dog",
     "rarity": "Rare",
-    "slug": "1265_ultimate_war_dog",
-    "sog_card": "OUTRAGIOUSWA",
     "title": "Alliance of Marnordir"
   },
   {
@@ -6519,8 +5589,6 @@
     "extension": "Lanna",
     "name": "Itlan Dog Handler",
     "rarity": "Uncommon",
-    "slug": "1266_itlan_dog_handler",
-    "sog_card": "",
     "title": "Alliance of Marnordir"
   },
   {
@@ -6533,8 +5601,6 @@
     "extension": "Lanna",
     "name": "Itlan Expert Dog Handler",
     "rarity": "Rare",
-    "slug": "1267_itlan_expert_dog_handler",
-    "sog_card": "ITLANEXPERTD",
     "title": "Alliance of Marnordir"
   },
   {
@@ -6547,8 +5613,6 @@
     "extension": "Lanna",
     "name": "Earth Elf Warrior",
     "rarity": "Common",
-    "slug": "1268_earth_elf_warrior",
-    "sog_card": "",
     "title": "Alliance of Marnordir "
   },
   {
@@ -6561,8 +5625,6 @@
     "extension": "Lanna",
     "name": "Itlan Boats Fleet",
     "rarity": "Common",
-    "slug": "1269_itlan_boats_fleet",
-    "sog_card": "",
     "title": "Alliance of Marnordir"
   },
   {
@@ -6575,8 +5637,6 @@
     "extension": "Lanna",
     "name": "Oconcha",
     "rarity": "Common",
-    "slug": "1270_oconcha",
-    "sog_card": "",
     "title": "Kingdom of Waters"
   },
   {
@@ -6589,8 +5649,6 @@
     "extension": "Lanna",
     "name": "Oconcha Devourer",
     "rarity": "Uncommon",
-    "slug": "1271_oconcha_devourer",
-    "sog_card": "",
     "title": "Kingdom of Waters"
   },
   {
@@ -6603,8 +5661,6 @@
     "extension": "Lanna",
     "name": "Dogs Enhancer",
     "rarity": "Uncommon",
-    "slug": "1272_dogs_enhancer",
-    "sog_card": "DOGENHANCER",
     "title": "Alliance of Marnordir"
   },
   {
@@ -6617,8 +5673,6 @@
     "extension": "Lanna",
     "name": "Warrior Spirit of the Frozen Death",
     "rarity": "Rare",
-    "slug": "1273_warrior_spirit_of_the_frozen_death",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -6631,8 +5685,6 @@
     "extension": "Lanna",
     "name": "Charge of Itlan Sailor",
     "rarity": "Uncommon",
-    "slug": "1274_charge_of_itlan_sailor",
-    "sog_card": "",
     "title": "Alliance of Marnordir"
   },
   {
@@ -6645,8 +5697,6 @@
     "extension": "Lanna",
     "name": "Fire Knight of Shadows",
     "rarity": "Common",
-    "slug": "1275_fire_knight_of_shadows",
-    "sog_card": "",
     "title": "Knight of Shadows"
   },
   {
@@ -6659,8 +5709,6 @@
     "extension": "Lanna",
     "name": "Ultimate Fire Knight of Shadows",
     "rarity": "Uncommon",
-    "slug": "1276_ultimate_fire_knight_of_shadows",
-    "sog_card": "",
     "title": "Knight of Shadows"
   },
   {
@@ -6673,8 +5721,6 @@
     "extension": "Lanna",
     "name": "Itlan Boats Enchanter",
     "rarity": "Uncommon",
-    "slug": "1277_itlan_boats_enchanter",
-    "sog_card": "",
     "title": "Alliance of Marnordir"
   },
   {
@@ -6687,8 +5733,6 @@
     "extension": "Lanna",
     "name": "Warrior Spirit of Life",
     "rarity": "Rare",
-    "slug": "1278_warrior_spirit_of_life",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -6701,8 +5745,6 @@
     "extension": "Lanna",
     "name": "Elf Berserker's Attack",
     "rarity": "Rare",
-    "slug": "1279_elf_berserker_s_attack",
-    "sog_card": "",
     "title": "Alliance of Marnordir"
   },
   {
@@ -6715,8 +5757,6 @@
     "extension": "Lanna",
     "name": "Queen's Adviser",
     "rarity": "Common",
-    "slug": "1280_queen_s_adviser",
-    "sog_card": "",
     "title": "Kingdom of Waters"
   },
   {
@@ -6729,8 +5769,6 @@
     "extension": "Lanna",
     "name": "Eraurk",
     "rarity": "Uncommon",
-    "slug": "1281_eraurk",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -6743,8 +5781,6 @@
     "extension": "Lanna",
     "name": "Faceless Rider",
     "rarity": "Rare",
-    "slug": "1282_faceless_rider",
-    "sog_card": "",
     "title": "Kingdom of Waters"
   },
   {
@@ -6757,8 +5793,6 @@
     "extension": "Lanna",
     "name": "Meditating Earth Elf",
     "rarity": "Common",
-    "slug": "1283_meditating_earth_elf",
-    "sog_card": "",
     "title": "Alliance of Marnordir "
   },
   {
@@ -6771,8 +5805,6 @@
     "extension": "Lanna",
     "name": "Turtle of the Ages",
     "rarity": "Rare",
-    "slug": "1284_turtle_of_the_ages",
-    "sog_card": "",
     "title": "Kingdom of Waters"
   },
   {
@@ -6785,8 +5817,6 @@
     "extension": "Lanna",
     "name": "Queen's Military Adviser",
     "rarity": "Uncommon",
-    "slug": "1285_queen_s_military_adviser",
-    "sog_card": "",
     "title": "Kingdom of Waters"
   },
   {
@@ -6799,8 +5829,6 @@
     "extension": "Lanna",
     "name": "Knight of Shadows Duelist",
     "rarity": "Common",
-    "slug": "1286_knight_of_shadows_duelist",
-    "sog_card": "",
     "title": "Knight of Shadows"
   },
   {
@@ -6813,8 +5841,6 @@
     "extension": "Lanna",
     "name": "Knight of Shadows Killer",
     "rarity": "Uncommon",
-    "slug": "1287_knight_of_shadows_killer",
-    "sog_card": "",
     "title": "Knight of Shadows"
   },
   {
@@ -6827,8 +5853,6 @@
     "extension": "Lanna",
     "name": "Earth Elf Sage",
     "rarity": "Uncommon",
-    "slug": "1288_earth_elf_sage",
-    "sog_card": "ELFSAGE",
     "title": "Alliance of Marnordir "
   },
   {
@@ -6841,8 +5865,6 @@
     "extension": "Lanna",
     "name": "Eraol",
     "rarity": "Common",
-    "slug": "1289_eraol",
-    "sog_card": "ERAOL",
     "title": "Kingdom of Waters"
   },
   {
@@ -6855,8 +5877,6 @@
     "extension": "Lanna",
     "name": "Fighting Water Elf",
     "rarity": "Common",
-    "slug": "1290_fighting_water_elf",
-    "sog_card": "WATERSPEARFI",
     "title": "Kingdom of Waters"
   },
   {
@@ -6869,8 +5889,6 @@
     "extension": "Lanna",
     "name": "Pearls Elf Farmer",
     "rarity": "Common",
-    "slug": "1291_pearls_elf_farmer",
-    "sog_card": "",
     "title": "Kingdom of Waters"
   },
   {
@@ -6883,8 +5901,6 @@
     "extension": "Lanna",
     "name": "Sormals Manipulator",
     "rarity": "Common",
-    "slug": "1292_sormals_manipulator",
-    "sog_card": "",
     "title": "Kingdom of Waters"
   },
   {
@@ -6897,8 +5913,6 @@
     "extension": "Lanna",
     "name": "Hordes of Piranha Manipulator",
     "rarity": "Rare",
-    "slug": "1293_hordes_of_piranha_manipulator",
-    "sog_card": "PIRANHAMANIP",
     "title": "Kingdom of Waters"
   },
   {
@@ -6911,8 +5925,6 @@
     "extension": "Lanna",
     "name": "Enraged Eraol",
     "rarity": "Rare",
-    "slug": "1294_enraged_eraol",
-    "sog_card": "",
     "title": "Kingdom of Waters"
   },
   {
@@ -6925,8 +5937,6 @@
     "extension": "Lanna",
     "name": "Armored Ice Elf",
     "rarity": "Uncommon",
-    "slug": "1295_armored_ice_elf",
-    "sog_card": "",
     "title": "Kingdom of Waters"
   },
   {
@@ -6939,8 +5949,6 @@
     "extension": "Lanna",
     "name": "Pearls Elf Enchanter",
     "rarity": "Uncommon",
-    "slug": "1296_pearls_elf_enchanter",
-    "sog_card": "",
     "title": "Kingdom of Waters"
   },
   {
@@ -6953,8 +5961,6 @@
     "extension": "Lanna",
     "name": "Destructive Merman",
     "rarity": "Uncommon",
-    "slug": "1297_destructive_merman",
-    "sog_card": "",
     "title": "Kingdom of Waters"
   },
   {
@@ -6967,8 +5973,6 @@
     "extension": "Lanna",
     "name": "Mermans Scream",
     "rarity": "Uncommon",
-    "slug": "1298_mermans_scream",
-    "sog_card": "",
     "title": "Kingdom of Waters"
   },
   {
@@ -6981,8 +5985,6 @@
     "extension": "Lanna",
     "name": "King Gar'Awall, Protector of Itlan",
     "rarity": "Mythical",
-    "slug": "1299_king_gar_awall,_protector_of_itlan",
-    "sog_card": "ITLANKINGGAR",
     "title": "Alliance of Marnordir"
   },
   {
@@ -6995,8 +5997,6 @@
     "extension": "Lymronia",
     "name": "Carniath Creator of Fire",
     "rarity": "Rare",
-    "slug": "700_carniath_creator_of_fire",
-    "sog_card": "CARNIATHCREA",
     "title": "County of Summer"
   },
   {
@@ -7009,8 +6009,6 @@
     "extension": "Lymronia",
     "name": "Carniath Healer of Flames",
     "rarity": "Uncommon",
-    "slug": "701_carniath_healer_of_flames",
-    "sog_card": "",
     "title": "County of Summer"
   },
   {
@@ -7023,8 +6021,6 @@
     "extension": "Lymronia",
     "name": "Fire Serpents Fisherman",
     "rarity": "Rare",
-    "slug": "702_fire_serpents_fisherman",
-    "sog_card": "",
     "title": "County of Summer"
   },
   {
@@ -7037,8 +6033,6 @@
     "extension": "Lymronia",
     "name": "Carniath Potions Seller",
     "rarity": "Uncommon",
-    "slug": "703_carniath_potions_seller",
-    "sog_card": "",
     "title": "County of Summer"
   },
   {
@@ -7051,8 +6045,6 @@
     "extension": "Lymronia",
     "name": "Three-Horned Rhino",
     "rarity": "Common",
-    "slug": "704_three-horned_rhino",
-    "sog_card": "",
     "title": "County of Summer"
   },
   {
@@ -7065,8 +6057,6 @@
     "extension": "Lymronia",
     "name": "Swift Cheetah",
     "rarity": "Uncommon",
-    "slug": "705_swift_cheetah",
-    "sog_card": "",
     "title": "County of Summer"
   },
   {
@@ -7079,8 +6069,6 @@
     "extension": "Lymronia",
     "name": "Celebration of Summer",
     "rarity": "Common",
-    "slug": "706_celebration_of_summer",
-    "sog_card": "",
     "title": "County of Summer"
   },
   {
@@ -7093,8 +6081,6 @@
     "extension": "Lymronia",
     "name": "Rulvar",
     "rarity": "Rare",
-    "slug": "707_rulvar",
-    "sog_card": "",
     "title": "County of Summer"
   },
   {
@@ -7107,8 +6093,6 @@
     "extension": "Lymronia",
     "name": "Carnivorous Rulvar",
     "rarity": "Uncommon",
-    "slug": "708_carnivorous_rulvar",
-    "sog_card": "",
     "title": "County of Summer"
   },
   {
@@ -7121,8 +6105,6 @@
     "extension": "Lymronia",
     "name": "Herd of Wildebeest",
     "rarity": "Common",
-    "slug": "709_herd_of_wildebeest",
-    "sog_card": "",
     "title": "County of Summer"
   },
   {
@@ -7135,8 +6117,6 @@
     "extension": "Lymronia",
     "name": "Bone Breaking Crocodile",
     "rarity": "Common",
-    "slug": "710_bone_breaker_crocodile",
-    "sog_card": "",
     "title": "County of Summer"
   },
   {
@@ -7149,8 +6129,6 @@
     "extension": "Lymronia",
     "name": "Potion of Carniath",
     "rarity": "Rare",
-    "slug": "711_potion_of_carniath",
-    "sog_card": "",
     "title": "County of Summer"
   },
   {
@@ -7163,8 +6141,6 @@
     "extension": "Lymronia",
     "name": "Thral",
     "rarity": "Uncommon",
-    "slug": "712_thral",
-    "sog_card": "",
     "title": "County of Spring"
   },
   {
@@ -7177,8 +6153,6 @@
     "extension": "Lymronia",
     "name": "Energy Drainer Thral",
     "rarity": "Rare",
-    "slug": "713_energy_drainer_thral",
-    "sog_card": "",
     "title": "County of Spring"
   },
   {
@@ -7191,8 +6165,6 @@
     "extension": "Lymronia",
     "name": "Life Fruits Grower",
     "rarity": "Uncommon",
-    "slug": "714_life_fruits_grower",
-    "sog_card": "",
     "title": "County of Spring"
   },
   {
@@ -7205,8 +6177,6 @@
     "extension": "Lymronia",
     "name": "Griffin Tamer",
     "rarity": "Rare",
-    "slug": "715_griffin_tamer",
-    "sog_card": "",
     "title": "County of Spring"
   },
   {
@@ -7219,8 +6189,6 @@
     "extension": "Lymronia",
     "name": "Self-Regenerating Peacock",
     "rarity": "Uncommon",
-    "slug": "716_self-regenerating_peacock",
-    "sog_card": "",
     "title": "County of Spring"
   },
   {
@@ -7233,8 +6201,6 @@
     "extension": "Lymronia",
     "name": "Flock of Birds",
     "rarity": "Common",
-    "slug": "717_flock_of_birds",
-    "sog_card": "",
     "title": "County of Spring"
   },
   {
@@ -7247,8 +6213,6 @@
     "extension": "Lymronia",
     "name": "Celebration of Spring",
     "rarity": "Common",
-    "slug": "718_celebration_of_spring",
-    "sog_card": "",
     "title": "County of Spring"
   },
   {
@@ -7261,8 +6225,6 @@
     "extension": "Lymronia",
     "name": "Armor-Piercing Griffin",
     "rarity": "Rare",
-    "slug": "719_armor-piercing_griffin",
-    "sog_card": "",
     "title": "County of Spring"
   },
   {
@@ -7275,8 +6237,6 @@
     "extension": "Lymronia",
     "name": "Griffin Scout",
     "rarity": "Uncommon",
-    "slug": "720_griffin_scout",
-    "sog_card": "",
     "title": "County of Spring"
   },
   {
@@ -7289,8 +6249,6 @@
     "extension": "Lymronia",
     "name": "Replicator Parrot",
     "rarity": "Common",
-    "slug": "721_replicator_parrot",
-    "sog_card": "",
     "title": "County of Spring"
   },
   {
@@ -7303,8 +6261,6 @@
     "extension": "Lymronia",
     "name": "Giant Butterfly",
     "rarity": "Common",
-    "slug": "722_giant_butterfly",
-    "sog_card": "",
     "title": "County of Spring"
   },
   {
@@ -7317,8 +6273,6 @@
     "extension": "Lymronia",
     "name": "Thral's Sapling",
     "rarity": "Rare",
-    "slug": "723_thral_s_sapling",
-    "sog_card": "",
     "title": "County of Spring"
   },
   {
@@ -7331,8 +6285,6 @@
     "extension": "Lymronia",
     "name": "Howling Crirawin",
     "rarity": "Rare",
-    "slug": "724_howling_crirawin",
-    "sog_card": "",
     "title": "County of Winter"
   },
   {
@@ -7345,8 +6297,6 @@
     "extension": "Lymronia",
     "name": "Slashing Crirawin",
     "rarity": "Uncommon",
-    "slug": "725_slashing_crirawin",
-    "sog_card": "SLASHINGCRIR",
     "title": "County of Winter"
   },
   {
@@ -7359,8 +6309,6 @@
     "extension": "Lymronia",
     "name": "Tall Pines Lumberjack",
     "rarity": "Uncommon",
-    "slug": "726_tall_pines_lumberjack",
-    "sog_card": "",
     "title": "County of Winter"
   },
   {
@@ -7373,8 +6321,6 @@
     "extension": "Lymronia",
     "name": "Gravedigger of White Death",
     "rarity": "Rare",
-    "slug": "727_gravedigger_of_white_death",
-    "sog_card": "",
     "title": "County of Winter"
   },
   {
@@ -7387,8 +6333,6 @@
     "extension": "Lymronia",
     "name": "Wild Big Bear",
     "rarity": "Common",
-    "slug": "728_wild_big_bear",
-    "sog_card": "",
     "title": "County of Winter"
   },
   {
@@ -7401,8 +6345,6 @@
     "extension": "Lymronia",
     "name": "Stealthy White Lynx",
     "rarity": "Common",
-    "slug": "729_stealthy_white_lynx",
-    "sog_card": "",
     "title": "County of Winter"
   },
   {
@@ -7415,8 +6357,6 @@
     "extension": "Lymronia",
     "name": "Celebration of Winter",
     "rarity": "Common",
-    "slug": "730_celebration_of_winter",
-    "sog_card": "",
     "title": "County of Winter"
   },
   {
@@ -7429,8 +6369,6 @@
     "extension": "Lymronia",
     "name": "Bear-Killing Unicorn",
     "rarity": "Rare",
-    "slug": "731_bear-killing_unicorn",
-    "sog_card": "",
     "title": "County of Winter"
   },
   {
@@ -7443,8 +6381,6 @@
     "extension": "Lymronia",
     "name": "Plains Unicorn",
     "rarity": "Uncommon",
-    "slug": "732_plains_unicorn",
-    "sog_card": "",
     "title": "County of Winter"
   },
   {
@@ -7457,8 +6393,6 @@
     "extension": "Lymronia",
     "name": "Cloud of Weasels",
     "rarity": "Common",
-    "slug": "733_cloud_of_weasels",
-    "sog_card": "",
     "title": "County of Winter"
   },
   {
@@ -7471,8 +6405,6 @@
     "extension": "Lymronia",
     "name": "Mystical White Tiger",
     "rarity": "Uncommon",
-    "slug": "734_mystical_white_tiger",
-    "sog_card": "",
     "title": "County of Winter"
   },
   {
@@ -7485,8 +6417,6 @@
     "extension": "Lymronia",
     "name": "Necklace of Teeth from Crirawin",
     "rarity": "Rare",
-    "slug": "735_necklace_of_teeth_from_crirawin",
-    "sog_card": "",
     "title": "County of Winter"
   },
   {
@@ -7499,8 +6429,6 @@
     "extension": "Lymronia",
     "name": "Weanara Digger",
     "rarity": "Rare",
-    "slug": "736_weanara_digger",
-    "sog_card": "",
     "title": "County of Autumn"
   },
   {
@@ -7513,8 +6441,6 @@
     "extension": "Lymronia",
     "name": "Weanara Thief",
     "rarity": "Uncommon",
-    "slug": "737_weanara_thief",
-    "sog_card": "",
     "title": "County of Autumn"
   },
   {
@@ -7527,8 +6453,6 @@
     "extension": "Lymronia",
     "name": "Weaver of Relics of Energy",
     "rarity": "Rare",
-    "slug": "738_weaver_of_relics_of_energy",
-    "sog_card": "",
     "title": "County of Autumn"
   },
   {
@@ -7541,8 +6465,6 @@
     "extension": "Lymronia",
     "name": "Musician of the Magic Flute",
     "rarity": "Uncommon",
-    "slug": "739_musician_of_the_magic_flute",
-    "sog_card": "",
     "title": "County of Autumn"
   },
   {
@@ -7555,8 +6477,6 @@
     "extension": "Lymronia",
     "name": "Enraged Boar",
     "rarity": "Uncommon",
-    "slug": "740_enraged_boar",
-    "sog_card": "",
     "title": "County of Autumn"
   },
   {
@@ -7569,8 +6489,6 @@
     "extension": "Lymronia",
     "name": "Poisonous Hedgehog",
     "rarity": "Common",
-    "slug": "741_poisoner_hedgehog",
-    "sog_card": "",
     "title": "County of Autumn"
   },
   {
@@ -7583,8 +6501,6 @@
     "extension": "Lymronia",
     "name": "Celebration of Autumn",
     "rarity": "Common",
-    "slug": "742_celebration_of_autumn",
-    "sog_card": "",
     "title": "County of Autumn "
   },
   {
@@ -7597,8 +6513,6 @@
     "extension": "Lymronia",
     "name": "Royal Deer",
     "rarity": "Rare",
-    "slug": "743_royal_deer",
-    "sog_card": "",
     "title": "County of Autumn"
   },
   {
@@ -7611,8 +6525,6 @@
     "extension": "Lymronia",
     "name": "Protector Royal Deer",
     "rarity": "Uncommon",
-    "slug": "744_protector_royal_deer",
-    "sog_card": "",
     "title": "County of Autumn"
   },
   {
@@ -7625,8 +6537,6 @@
     "extension": "Lymronia",
     "name": "Hunting Fox",
     "rarity": "Common",
-    "slug": "745_hunting_fox",
-    "sog_card": "",
     "title": "County of Autumn"
   },
   {
@@ -7639,8 +6549,6 @@
     "extension": "Lymronia",
     "name": "Fierce Rabbit",
     "rarity": "Common",
-    "slug": "746_fierce_rabbit",
-    "sog_card": "",
     "title": "County of Autumn"
   },
   {
@@ -7653,8 +6561,6 @@
     "extension": "Lymronia",
     "name": "Weanara Purse",
     "rarity": "Rare",
-    "slug": "747_weanara_purse",
-    "sog_card": "",
     "title": "County of Autumn"
   },
   {
@@ -7667,8 +6573,6 @@
     "extension": "Lymronia",
     "name": "Tree of the Four Seasons",
     "rarity": "Rare",
-    "slug": "748_tree_of_the_four_seasons",
-    "sog_card": "",
     "title": "Lymronia"
   },
   {
@@ -7681,8 +6585,6 @@
     "extension": "Lymronia",
     "name": "Mayal Queen of Lymronia",
     "rarity": "Mythical",
-    "slug": "749_mayal_queen_of_lymronia",
-    "sog_card": "MAYALCARD",
     "title": "Lymronia"
   },
   {
@@ -7695,8 +6597,6 @@
     "extension": "Lymronia",
     "name": "Guardian of Summer",
     "rarity": "Common",
-    "slug": "750_guardian_of_summer",
-    "sog_card": "",
     "title": "County of Summer"
   },
   {
@@ -7709,8 +6609,6 @@
     "extension": "Lymronia",
     "name": "Knight of Summer",
     "rarity": "Common",
-    "slug": "751_knight_of_summer",
-    "sog_card": "",
     "title": "County of Summer"
   },
   {
@@ -7723,8 +6621,6 @@
     "extension": "Lymronia",
     "name": "Elementalist of Summer",
     "rarity": "Uncommon",
-    "slug": "752_elementalist_of_summer",
-    "sog_card": "",
     "title": "County of Summer"
   },
   {
@@ -7737,8 +6633,6 @@
     "extension": "Lymronia",
     "name": "Mayli, Princess of Summer",
     "rarity": "Rare",
-    "slug": "753_mayli,_princess_of_summer",
-    "sog_card": "PRINCESSSUMM",
     "title": "County of Summer"
   },
   {
@@ -7751,8 +6645,6 @@
     "extension": "Lymronia",
     "name": "Castle of Summer",
     "rarity": "Uncommon",
-    "slug": "754_castle_of_summer",
-    "sog_card": "",
     "title": "County of Summer"
   },
   {
@@ -7765,8 +6657,6 @@
     "extension": "Lymronia",
     "name": "Group of Rulvars",
     "rarity": "Rare",
-    "slug": "755_group_of_rulvars",
-    "sog_card": "",
     "title": "County of Summer"
   },
   {
@@ -7779,8 +6669,6 @@
     "extension": "Lymronia",
     "name": "Guardian of Spring",
     "rarity": "Common",
-    "slug": "756_guardian_of_spring",
-    "sog_card": "",
     "title": "County of Spring"
   },
   {
@@ -7793,8 +6681,6 @@
     "extension": "Lymronia",
     "name": "Knight of Spring",
     "rarity": "Common",
-    "slug": "757_knight_of_spring",
-    "sog_card": "",
     "title": "County of Spring"
   },
   {
@@ -7807,8 +6693,6 @@
     "extension": "Lymronia",
     "name": "Elementalist of Spring",
     "rarity": "Uncommon",
-    "slug": "758_elementalist_of_spring",
-    "sog_card": "",
     "title": "County of Spring"
   },
   {
@@ -7821,8 +6705,6 @@
     "extension": "Lymronia",
     "name": "Feodora, Princess of Spring",
     "rarity": "Rare",
-    "slug": "759_feodora,_princess_of_spring",
-    "sog_card": "PRINCESSSPRI",
     "title": "County of Spring"
   },
   {
@@ -7835,8 +6717,6 @@
     "extension": "Lymronia",
     "name": "Castle of Spring",
     "rarity": "Uncommon",
-    "slug": "760_castle_of_spring",
-    "sog_card": "",
     "title": "County of Spring"
   },
   {
@@ -7849,8 +6729,6 @@
     "extension": "Lymronia",
     "name": "Group of Griffins",
     "rarity": "Rare",
-    "slug": "761_group_of_griffins",
-    "sog_card": "",
     "title": "County of Spring"
   },
   {
@@ -7863,8 +6741,6 @@
     "extension": "Lymronia",
     "name": "Guardian of Winter",
     "rarity": "Common",
-    "slug": "762_guardian_of_winter",
-    "sog_card": "PRINCEOFWINT",
     "title": "County of Winter"
   },
   {
@@ -7877,8 +6753,6 @@
     "extension": "Lymronia",
     "name": "Knight of Winter",
     "rarity": "Common",
-    "slug": "763_knight_of_winter",
-    "sog_card": "",
     "title": "County of Winter"
   },
   {
@@ -7891,8 +6765,6 @@
     "extension": "Lymronia",
     "name": "Elementalist of Winter",
     "rarity": "Uncommon",
-    "slug": "764_elementalist_of_winter",
-    "sog_card": "",
     "title": "County of Winter"
   },
   {
@@ -7905,8 +6777,6 @@
     "extension": "Lymronia",
     "name": "Guenievre, Princess of Winter",
     "rarity": "Rare",
-    "slug": "765_guenievre,_princess_of_winter",
-    "sog_card": "",
     "title": "County of Winter"
   },
   {
@@ -7919,8 +6789,6 @@
     "extension": "Lymronia",
     "name": "Castle of Winter",
     "rarity": "Uncommon",
-    "slug": "766_castle_of_winter",
-    "sog_card": "",
     "title": "County of Winter"
   },
   {
@@ -7933,8 +6801,6 @@
     "extension": "Lymronia",
     "name": "Group of Unicorns",
     "rarity": "Rare",
-    "slug": "767_group_of_unicorns",
-    "sog_card": "",
     "title": "County of Winter"
   },
   {
@@ -7947,8 +6813,6 @@
     "extension": "Lymronia",
     "name": "Guardian of Autumn",
     "rarity": "Common",
-    "slug": "768_guardian_of_autumn",
-    "sog_card": "",
     "title": "County of Autumn"
   },
   {
@@ -7961,8 +6825,6 @@
     "extension": "Lymronia",
     "name": "Knight of Autumn",
     "rarity": "Common",
-    "slug": "769_knight_of_autumn",
-    "sog_card": "",
     "title": "County of Autumn"
   },
   {
@@ -7975,8 +6837,6 @@
     "extension": "Lymronia",
     "name": "Elementalist of Autumn",
     "rarity": "Uncommon",
-    "slug": "770_elementalist_of_autumn",
-    "sog_card": "PRINCEAUTUMN",
     "title": "County of Autumn"
   },
   {
@@ -7989,8 +6849,6 @@
     "extension": "Lymronia",
     "name": "Vera, Princess of Autumn",
     "rarity": "Rare",
-    "slug": "771_vera,_princess_of_autumn",
-    "sog_card": "",
     "title": "County of Autumn"
   },
   {
@@ -8003,8 +6861,6 @@
     "extension": "Lymronia",
     "name": "Castle of Autumn",
     "rarity": "Uncommon",
-    "slug": "772_castle_of_autumn",
-    "sog_card": "",
     "title": "County of Autumn"
   },
   {
@@ -8017,8 +6873,6 @@
     "extension": "Lymronia",
     "name": "Group of Royal Deers",
     "rarity": "Rare",
-    "slug": "773_group_of_royal_deers",
-    "sog_card": "",
     "title": "County of Autumn"
   },
   {
@@ -8031,8 +6885,6 @@
     "extension": "Lymronia",
     "name": "Chessboard of Discord",
     "rarity": "Rare",
-    "slug": "774_chessboard_of_discord",
-    "sog_card": "",
     "title": "Lymronia"
   },
   {
@@ -8045,8 +6897,6 @@
     "extension": "Lymronia",
     "name": "Rulvar, Possessor of the Flame",
     "rarity": "",
-    "slug": "775_rulvar,_possessor_of_the_flame",
-    "sog_card": "PROSSESSORFL",
     "title": "County of Summer"
   },
   {
@@ -8059,8 +6909,6 @@
     "extension": "Lymronia",
     "name": "Fire Scout Apprentice",
     "rarity": "Common",
-    "slug": "776_fire_scout_apprentice",
-    "sog_card": "",
     "title": "County of Summer"
   },
   {
@@ -8073,8 +6921,6 @@
     "extension": "Lymronia",
     "name": "Flaming Acrobat",
     "rarity": "Uncommon",
-    "slug": "777_flaming_acrobat",
-    "sog_card": "",
     "title": "County of Summer"
   },
   {
@@ -8087,8 +6933,6 @@
     "extension": "Lymronia",
     "name": "Carniath Master",
     "rarity": "Rare",
-    "slug": "778_carniath_master",
-    "sog_card": "",
     "title": "County of Summer"
   },
   {
@@ -8101,8 +6945,6 @@
     "extension": "Lymronia",
     "name": "Stoneforge Carniath",
     "rarity": "Common",
-    "slug": "779_stoneforge_carniath",
-    "sog_card": "",
     "title": "County of Summer"
   },
   {
@@ -8115,8 +6957,6 @@
     "extension": "Lymronia",
     "name": "Power of the Elementalist of Fire",
     "rarity": "Uncommon",
-    "slug": "780_power_of_the_elementalist_of_fire",
-    "sog_card": "",
     "title": "County of Summer"
   },
   {
@@ -8129,8 +6969,6 @@
     "extension": "Lymronia",
     "name": "Griffin, Master of Water",
     "rarity": "Rare",
-    "slug": "781_griffin,_master_of_water",
-    "sog_card": "GRIFFINMASTE",
     "title": "County of Spring"
   },
   {
@@ -8143,8 +6981,6 @@
     "extension": "Lymronia",
     "name": "Guardian of the Source of Life",
     "rarity": "Uncommon",
-    "slug": "782_guardian_of_the_source_of_life",
-    "sog_card": "GUARDIANSOUR",
     "title": "County of Spring"
   },
   {
@@ -8157,8 +6993,6 @@
     "extension": "Lymronia",
     "name": "Birds Manipulator",
     "rarity": "Common",
-    "slug": "783_birds_manipulator",
-    "sog_card": "",
     "title": "County of Spring"
   },
   {
@@ -8171,8 +7005,6 @@
     "extension": "Lymronia",
     "name": "Intrusive Thral",
     "rarity": "Rare",
-    "slug": "784_intrusive_thral",
-    "sog_card": "",
     "title": "County of Spring"
   },
   {
@@ -8185,8 +7017,6 @@
     "extension": "Lymronia",
     "name": "Wise Thral",
     "rarity": "Common",
-    "slug": "785_wise_thral",
-    "sog_card": "WISETHRAL",
     "title": "County of Spring"
   },
   {
@@ -8199,8 +7029,6 @@
     "extension": "Lymronia",
     "name": "Power of the Elementalist of Water",
     "rarity": "Uncommon",
-    "slug": "786_power_of_the_elementalist_of_water",
-    "sog_card": "",
     "title": "County of Spring"
   },
   {
@@ -8213,8 +7041,6 @@
     "extension": "Lymronia",
     "name": "Unicorn, Creator of Ice",
     "rarity": "Rare",
-    "slug": "787_unicorn,_creator_of_ice",
-    "sog_card": "ICEUNICORN",
     "title": "County of Winter"
   },
   {
@@ -8227,8 +7053,6 @@
     "extension": "Lymronia",
     "name": "Crirawins Hunter",
     "rarity": "Common",
-    "slug": "788_crirawins_hunter",
-    "sog_card": "",
     "title": "County of Winter"
   },
   {
@@ -8241,8 +7065,6 @@
     "extension": "Lymronia",
     "name": "Reckless Warrior",
     "rarity": "Uncommon",
-    "slug": "789_reckless_warrior",
-    "sog_card": "",
     "title": "County of Winter"
   },
   {
@@ -8255,8 +7077,6 @@
     "extension": "Lymronia",
     "name": "Fast Crirawin",
     "rarity": "Rare",
-    "slug": "790_fast_crirawin",
-    "sog_card": "",
     "title": "County of Winter"
   },
   {
@@ -8269,8 +7089,6 @@
     "extension": "Lymronia",
     "name": "Crirawin",
     "rarity": "Common",
-    "slug": "791_crirawin",
-    "sog_card": "",
     "title": "County of Winter"
   },
   {
@@ -8283,8 +7101,6 @@
     "extension": "Lymronia",
     "name": "Power of the Elementalist of Ice",
     "rarity": "Uncommon",
-    "slug": "792_power_of_the_elementalist_of_ice",
-    "sog_card": "",
     "title": "County of Winter"
   },
   {
@@ -8297,8 +7113,6 @@
     "extension": "Lymronia",
     "name": "Royal Deer, Master of Earth",
     "rarity": "Rare",
-    "slug": "793_royal_deer,_master_of_earth",
-    "sog_card": "ROYALDEER",
     "title": "County of Autumn"
   },
   {
@@ -8311,8 +7125,6 @@
     "extension": "Lymronia",
     "name": "Fairy Tales Poet",
     "rarity": "Common",
-    "slug": "794_fairy_tales_poet",
-    "sog_card": "",
     "title": "County of Autumn"
   },
   {
@@ -8325,8 +7137,6 @@
     "extension": "Lymronia",
     "name": "Moody Wine Grower",
     "rarity": "Uncommon",
-    "slug": "795_moody_wine_grower",
-    "sog_card": "",
     "title": "County of Autumn"
   },
   {
@@ -8339,8 +7149,6 @@
     "extension": "Lymronia",
     "name": "Weanara",
     "rarity": "Rare",
-    "slug": "796_weanara",
-    "sog_card": "",
     "title": "County of Autumn"
   },
   {
@@ -8353,8 +7161,6 @@
     "extension": "Lymronia",
     "name": "Assassin Weanara",
     "rarity": "Common",
-    "slug": "797_assassin_weanara",
-    "sog_card": "WEANARAASSAS",
     "title": "County of Autumn"
   },
   {
@@ -8367,8 +7173,6 @@
     "extension": "Lymronia",
     "name": "Power of the Elementalist of Earth",
     "rarity": "Uncommon",
-    "slug": "798_power_of_the_elementalist_of_earth",
-    "sog_card": "",
     "title": "County of Autumn"
   },
   {
@@ -8381,8 +7185,6 @@
     "extension": "Lymronia",
     "name": "Messenger of the Empire",
     "rarity": "Mythical",
-    "slug": "799_messenger_of_the_empire",
-    "sog_card": "",
     "title": "Empire of Sayosia"
   },
   {
@@ -8395,8 +7197,6 @@
     "extension": "",
     "name": "Eternal Peace",
     "rarity": "Rare",
-    "slug": "1000_eternal_peace",
-    "sog_card": "",
     "title": "Clan of the Enchanted Lake"
   },
   {
@@ -8409,8 +7209,6 @@
     "extension": "",
     "name": "Xul'noc King",
     "rarity": "Rare",
-    "slug": "1001_xul'noc_king",
-    "sog_card": "",
     "title": "Xul'noc Kingdom"
   },
   {
@@ -8423,8 +7221,6 @@
     "extension": "",
     "name": "Chilling Sky",
     "rarity": "Common",
-    "slug": "1002_chilling_sky",
-    "sog_card": "",
     "title": "Kingdom of Askarh"
   },
   {
@@ -8437,8 +7233,6 @@
     "extension": "",
     "name": "Possessed Golem",
     "rarity": "Rare",
-    "slug": "1003_possessed_golem",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -8451,8 +7245,6 @@
     "extension": "",
     "name": "Psychic Extraction",
     "rarity": "Rare",
-    "slug": "1004_psychic_extraction",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -8465,8 +7257,6 @@
     "extension": "",
     "name": "Roaring",
     "rarity": "Rare",
-    "slug": "1005_roaring",
-    "sog_card": "",
     "title": "Alliance of Marnordir"
   },
   {
@@ -8479,8 +7269,6 @@
     "extension": "",
     "name": "Oceandisorder Leviathan",
     "rarity": "",
-    "slug": "1006_oceandisorder_leviathan",
-    "sog_card": "",
     "title": "Kingdom of Waters"
   },
   {
@@ -8493,8 +7281,6 @@
     "extension": "",
     "name": "Elvish Huntress",
     "rarity": "Common",
-    "slug": "1007_elvish_huntress",
-    "sog_card": "",
     "title": "Gold Council"
   },
   {
@@ -8507,8 +7293,6 @@
     "extension": "",
     "name": "Kilam-Jul Sovereign",
     "rarity": "Uncommon",
-    "slug": "1008_kilam-jul_sovereign",
-    "sog_card": "",
     "title": "Kingdom of Kilam-Jûl"
   },
   {
@@ -8521,8 +7305,6 @@
     "extension": "",
     "name": "Spirit of the Enchanted Lake",
     "rarity": "Rare",
-    "slug": "1009_spirit_of_the_enchanted_lake",
-    "sog_card": "",
     "title": "Clan of the Enchanted Lake"
   },
   {
@@ -8535,8 +7317,6 @@
     "extension": "",
     "name": "Lord of the Darkfire",
     "rarity": "Uncommon",
-    "slug": "1010_lord_of_the_darkfire",
-    "sog_card": "",
     "title": "Tanabria"
   },
   {
@@ -8549,8 +7329,6 @@
     "extension": "",
     "name": "Desert Tyran",
     "rarity": "Uncommon",
-    "slug": "1011_desert_tyran",
-    "sog_card": "",
     "title": "Tanabria"
   },
   {
@@ -8563,8 +7341,6 @@
     "extension": "",
     "name": "Warrior's Despair",
     "rarity": "Common",
-    "slug": "1012_warrior_s_despair",
-    "sog_card": "",
     "title": "Vils-naimas"
   },
   {
@@ -8577,8 +7353,6 @@
     "extension": "",
     "name": "Young Priestess",
     "rarity": "Uncommon",
-    "slug": "1013_young_priestess",
-    "sog_card": "",
     "title": "Vils-naimas"
   },
   {
@@ -8591,8 +7365,6 @@
     "extension": "",
     "name": "Massive Wild-Boar",
     "rarity": "Common",
-    "slug": "1014_massive_wild-boar",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -8605,8 +7377,6 @@
     "extension": "",
     "name": "Elemental Alchemist",
     "rarity": "Uncommon",
-    "slug": "1015_elemental_alchemist",
-    "sog_card": "",
     "title": "Vils-naimas"
   },
   {
@@ -8619,8 +7389,6 @@
     "extension": "",
     "name": "Reckless Footsoldier",
     "rarity": "Common",
-    "slug": "1016_reckless_footsoldier",
-    "sog_card": "",
     "title": "Noras"
   },
   {
@@ -8633,8 +7401,6 @@
     "extension": "",
     "name": "Angelical Guardian",
     "rarity": "Common",
-    "slug": "1017_angelical_guardian",
-    "sog_card": "",
     "title": "Noras"
   },
   {
@@ -8647,8 +7413,6 @@
     "extension": "",
     "name": "Master Animalier",
     "rarity": "Common",
-    "slug": "1018_master_animalier",
-    "sog_card": "",
     "title": "Noras"
   },
   {
@@ -8661,8 +7425,6 @@
     "extension": "",
     "name": "Nymph of the Lake",
     "rarity": "Common",
-    "slug": "1019_nymph_of_the_lake",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -8675,8 +7437,6 @@
     "extension": "",
     "name": "Sky Splitting",
     "rarity": "Uncommon",
-    "slug": "1020_sky_splitting",
-    "sog_card": "",
     "title": "Noras"
   },
   {
@@ -8689,8 +7449,6 @@
     "extension": "",
     "name": "Orca Enchantment",
     "rarity": "Common",
-    "slug": "1021_orca_enchantment",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -8703,8 +7461,6 @@
     "extension": "",
     "name": "Wolf's Claw",
     "rarity": "Rare",
-    "slug": "1022_wolf_s_claw",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -8717,8 +7473,6 @@
     "extension": "",
     "name": "Vulcanic Disturbance",
     "rarity": "Rare",
-    "slug": "1023_vulcanic_disturbance",
-    "sog_card": "",
     "title": ""
   },
   {
@@ -8731,8 +7485,6 @@
     "extension": "",
     "name": "Swarm of Scorpions",
     "rarity": "Uncommon",
-    "slug": "1024_swarm_of_scorpions",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -8745,8 +7497,6 @@
     "extension": "",
     "name": "Night Ditcher",
     "rarity": "Rare",
-    "slug": "1025_night_ditcher",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -8759,8 +7509,6 @@
     "extension": "",
     "name": "Sacred Griffin",
     "rarity": "Uncommon",
-    "slug": "1026_sacred_griffin",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -8773,8 +7521,6 @@
     "extension": "",
     "name": "Hoaxer of Nattaga",
     "rarity": "Uncommon",
-    "slug": "1027_hoaxer_of_nattaga",
-    "sog_card": "",
     "title": "Noras"
   },
   {
@@ -8787,8 +7533,6 @@
     "extension": "",
     "name": "Halo of Purity",
     "rarity": "Common",
-    "slug": "1028_halo_of_purity",
-    "sog_card": "",
     "title": "Noras"
   },
   {
@@ -8801,8 +7545,6 @@
     "extension": "",
     "name": "Shapeshifting Goblin",
     "rarity": "Uncommon",
-    "slug": "1029_shapeshifting_goblin",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -8815,8 +7557,6 @@
     "extension": "",
     "name": "Weapons Expert",
     "rarity": "Uncommon",
-    "slug": "1030_weapons_expert",
-    "sog_card": "",
     "title": "Vils-naimas"
   },
   {
@@ -8829,8 +7569,6 @@
     "extension": "",
     "name": "Smith of Truth",
     "rarity": "Rare",
-    "slug": "1031_smith_of_truth",
-    "sog_card": "",
     "title": "Vils-naimas"
   },
   {
@@ -8843,8 +7581,6 @@
     "extension": "",
     "name": "Lucky-Charm Idol",
     "rarity": "Common",
-    "slug": "1032_lucky-charm_idol",
-    "sog_card": "",
     "title": "Noras"
   },
   {
@@ -8857,8 +7593,6 @@
     "extension": "",
     "name": "Spiritual Emanation",
     "rarity": "Rare",
-    "slug": "1033_spiritual_emanation",
-    "sog_card": "",
     "title": "Noras"
   },
   {
@@ -8871,8 +7605,6 @@
     "extension": "",
     "name": "Black Slayer",
     "rarity": "Rare",
-    "slug": "1034_black_slayer",
-    "sog_card": "",
     "title": "Noras"
   },
   {
@@ -8885,8 +7617,6 @@
     "extension": "",
     "name": "Protector of the Islands",
     "rarity": "",
-    "slug": "1035_protector_of_the_islands",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -8899,8 +7629,6 @@
     "extension": "",
     "name": "Vils-naimas Infiltrator",
     "rarity": "Rare",
-    "slug": "1036_vils-naimas_infiltrator",
-    "sog_card": "",
     "title": "Vils-naimas"
   },
   {
@@ -8913,8 +7641,6 @@
     "extension": "",
     "name": "Oracle of the Power",
     "rarity": "Uncommon",
-    "slug": "1037_oracle_of_the_power",
-    "sog_card": "",
     "title": "Noras"
   },
   {
@@ -8927,8 +7653,6 @@
     "extension": "",
     "name": "Oracle of the Fury",
     "rarity": "Common",
-    "slug": "1038_oracle_of_the_fury",
-    "sog_card": "",
     "title": "Noras"
   },
   {
@@ -8941,8 +7665,6 @@
     "extension": "",
     "name": "Oracle of the Wariness",
     "rarity": "Common",
-    "slug": "1039_oracle_of_the_wariness",
-    "sog_card": "",
     "title": "Noras"
   },
   {
@@ -8955,8 +7677,6 @@
     "extension": "",
     "name": "Sage of Noras Temple",
     "rarity": "Rare",
-    "slug": "1040_sage_of_noras_temple",
-    "sog_card": "",
     "title": "Noras"
   },
   {
@@ -8969,8 +7689,6 @@
     "extension": "",
     "name": "Centaur Master of War",
     "rarity": "Rare",
-    "slug": "1041_centaur_master_of_war",
-    "sog_card": "",
     "title": "Luminatis"
   },
   {
@@ -8983,8 +7701,6 @@
     "extension": "",
     "name": "Immortal Hero",
     "rarity": "Rare",
-    "slug": "1042_immortal_hero",
-    "sog_card": "",
     "title": "Luminatis"
   },
   {
@@ -8997,8 +7713,6 @@
     "extension": "",
     "name": "Demon Protector of the Darkness",
     "rarity": "Common",
-    "slug": "1043_demon_protector_of_the_darkness",
-    "sog_card": "",
     "title": "Obscuras"
   },
   {
@@ -9011,8 +7725,6 @@
     "extension": "",
     "name": "Centaur Scout",
     "rarity": "Uncommon",
-    "slug": "1044_centaur_scout",
-    "sog_card": "",
     "title": "Luminatis"
   },
   {
@@ -9025,8 +7737,6 @@
     "extension": "",
     "name": "Minotaur Berserker",
     "rarity": "Rare",
-    "slug": "1045_minotaur_berserker",
-    "sog_card": "",
     "title": "Obscuras"
   },
   {
@@ -9039,8 +7749,6 @@
     "extension": "",
     "name": "Minotaur Shield Holder",
     "rarity": "Uncommon",
-    "slug": "1046_minotaur_shield_holder",
-    "sog_card": "",
     "title": "Obscuras"
   },
   {
@@ -9053,8 +7761,6 @@
     "extension": "",
     "name": "The Princess of Sands",
     "rarity": "Rare",
-    "slug": "1047_the_princess_of_sands",
-    "sog_card": "",
     "title": "Luminatis"
   },
   {
@@ -9067,8 +7773,6 @@
     "extension": "",
     "name": "Nocturnal Thogila",
     "rarity": "Uncommon",
-    "slug": "1048_nocturnal_thogila",
-    "sog_card": "",
     "title": "Obscuras"
   },
   {
@@ -9081,8 +7785,6 @@
     "extension": "",
     "name": "Aquatic Colossus",
     "rarity": "Common",
-    "slug": "1049_aquatic_colossus",
-    "sog_card": "",
     "title": "Obscuras"
   },
   {
@@ -9095,8 +7797,6 @@
     "extension": "",
     "name": "Agradol the Rock",
     "rarity": "Common",
-    "slug": "1050_agradol_the_rock",
-    "sog_card": "",
     "title": "Luminatis"
   },
   {
@@ -9109,8 +7809,6 @@
     "extension": "",
     "name": "Agradol the Fire",
     "rarity": "Common",
-    "slug": "1051_agradol_the_fire",
-    "sog_card": "",
     "title": "Luminatis"
   },
   {
@@ -9123,8 +7821,6 @@
     "extension": "",
     "name": "Agradol from Azure",
     "rarity": "Rare",
-    "slug": "1052_agradol_from_azure",
-    "sog_card": "",
     "title": "Luminatis"
   },
   {
@@ -9137,8 +7833,6 @@
     "extension": "",
     "name": "Agradol the Ice",
     "rarity": "Common",
-    "slug": "1053_agradol_the_ice",
-    "sog_card": "",
     "title": "Luminatis"
   },
   {
@@ -9151,8 +7845,6 @@
     "extension": "",
     "name": "Devastating Minotaur",
     "rarity": "Uncommon",
-    "slug": "1054_devastating_minotaur",
-    "sog_card": "",
     "title": "Obscuras"
   },
   {
@@ -9165,8 +7857,6 @@
     "extension": "",
     "name": "Exterminator Minotaur",
     "rarity": "Rare",
-    "slug": "1055_exterminator_minotaur",
-    "sog_card": "",
     "title": "Obscuras"
   },
   {
@@ -9179,8 +7869,6 @@
     "extension": "",
     "name": "Centaur Slicer",
     "rarity": "Rare",
-    "slug": "1056_centaur_slicer",
-    "sog_card": "",
     "title": ""
   },
   {
@@ -9193,8 +7881,6 @@
     "extension": "",
     "name": "Centaure Raw Strengh",
     "rarity": "Uncommon",
-    "slug": "1057_centaure_raw_strengh",
-    "sog_card": "",
     "title": "Luminatis"
   },
   {
@@ -9207,8 +7893,6 @@
     "extension": "",
     "name": "Scholar Angel",
     "rarity": "Common",
-    "slug": "1058_scholar_angel",
-    "sog_card": "",
     "title": "Luminatis"
   },
   {
@@ -9221,8 +7905,6 @@
     "extension": "",
     "name": "Fleeing Angel",
     "rarity": "Common",
-    "slug": "1059_fleeing_angel",
-    "sog_card": "",
     "title": "Luminatis"
   },
   {
@@ -9235,8 +7917,6 @@
     "extension": "",
     "name": "Warrior Angel",
     "rarity": "Rare",
-    "slug": "1060_warrior_angel",
-    "sog_card": "",
     "title": "Luminatis"
   },
   {
@@ -9249,8 +7929,6 @@
     "extension": "",
     "name": "Dark Knight",
     "rarity": "Uncommon",
-    "slug": "1061_dark_knight",
-    "sog_card": "",
     "title": "Obscuras"
   },
   {
@@ -9263,8 +7941,6 @@
     "extension": "",
     "name": "Bright Knight",
     "rarity": "Uncommon",
-    "slug": "1062_bright_knight",
-    "sog_card": "",
     "title": "Luminatis"
   },
   {
@@ -9277,8 +7953,6 @@
     "extension": "",
     "name": "Spectre of Swamps",
     "rarity": "Rare",
-    "slug": "1063_spectre_of_swamps",
-    "sog_card": "",
     "title": "Obscuras"
   },
   {
@@ -9291,8 +7965,6 @@
     "extension": "",
     "name": "Incandescent Sun",
     "rarity": "Common",
-    "slug": "1064_incandescent_sun",
-    "sog_card": "",
     "title": ""
   },
   {
@@ -9305,8 +7977,6 @@
     "extension": "",
     "name": "Demon Sentinel",
     "rarity": "Common",
-    "slug": "1065_demon_sentinel",
-    "sog_card": "",
     "title": "Obscuras"
   },
   {
@@ -9319,8 +7989,6 @@
     "extension": "",
     "name": "Flying Demon",
     "rarity": "Common",
-    "slug": "1066_flying_demon",
-    "sog_card": "",
     "title": "Obscuras"
   },
   {
@@ -9333,8 +8001,6 @@
     "extension": "",
     "name": "Demon Warrior",
     "rarity": "Rare",
-    "slug": "1067_demon_warrior",
-    "sog_card": "",
     "title": "Obscuras"
   },
   {
@@ -9347,8 +8013,6 @@
     "extension": "",
     "name": "Shield of Meditation",
     "rarity": "Uncommon",
-    "slug": "1068_shield_of_meditation",
-    "sog_card": "",
     "title": "Luminatis"
   },
   {
@@ -9361,8 +8025,6 @@
     "extension": "",
     "name": "Lord of Mercifully",
     "rarity": "Uncommon",
-    "slug": "1069_lord_of_mercifully",
-    "sog_card": "",
     "title": "Luminatis"
   },
   {
@@ -9375,8 +8037,6 @@
     "extension": "",
     "name": "Lord of Terror",
     "rarity": "Uncommon",
-    "slug": "1070_lord_of_terror",
-    "sog_card": "",
     "title": "Obscuras"
   },
   {
@@ -9389,8 +8049,6 @@
     "extension": "",
     "name": "Carniath Creator of Fire",
     "rarity": "Rare",
-    "slug": "1071_carniath_creator_of_fire",
-    "sog_card": "",
     "title": "County of Summer"
   },
   {
@@ -9403,8 +8061,6 @@
     "extension": "",
     "name": "Carniath Healer of Flames",
     "rarity": "Uncommon",
-    "slug": "1072_carniath_healer_of_flames",
-    "sog_card": "",
     "title": "County of Summer"
   },
   {
@@ -9417,8 +8073,6 @@
     "extension": "",
     "name": "Carniath Potion Seller",
     "rarity": "Uncommon",
-    "slug": "1073_carniath_potions_seller",
-    "sog_card": "",
     "title": "County of Summer"
   },
   {
@@ -9431,8 +8085,6 @@
     "extension": "",
     "name": "Swift Cheetah",
     "rarity": "Uncommon",
-    "slug": "1074_swift_cheetah",
-    "sog_card": "",
     "title": "County of Summer"
   },
   {
@@ -9445,8 +8097,6 @@
     "extension": "",
     "name": "Celebration of Summer",
     "rarity": "Common",
-    "slug": "1075_celebration_of_summer",
-    "sog_card": "",
     "title": "County of Summer"
   },
   {
@@ -9459,8 +8109,6 @@
     "extension": "",
     "name": "Life Fruits Grower",
     "rarity": "Uncommon",
-    "slug": "1076_life_fruits_grower",
-    "sog_card": "",
     "title": "County of Spring"
   },
   {
@@ -9473,8 +8121,6 @@
     "extension": "",
     "name": "Celebration of Spring",
     "rarity": "Common",
-    "slug": "1077_celebration_of_spring",
-    "sog_card": "",
     "title": "County of Spring"
   },
   {
@@ -9487,8 +8133,6 @@
     "extension": "",
     "name": "Howling Crirawin",
     "rarity": "Rare",
-    "slug": "1078_howling_crirawin",
-    "sog_card": "",
     "title": "County of Winter"
   },
   {
@@ -9501,8 +8145,6 @@
     "extension": "",
     "name": "Slashing Crirawin",
     "rarity": "Uncommon",
-    "slug": "1079_slashing_crirawin",
-    "sog_card": "SLASHINGCRIR",
     "title": "County of Winter"
   },
   {
@@ -9515,8 +8157,6 @@
     "extension": "",
     "name": "Tall Pines Lumberjack",
     "rarity": "Uncommon",
-    "slug": "1080_tall_pines_lumberjack",
-    "sog_card": "",
     "title": "County of Winter"
   },
   {
@@ -9529,8 +8169,6 @@
     "extension": "",
     "name": "Stealthy White Lynx",
     "rarity": "Common",
-    "slug": "1081_stealthy_white_lynx",
-    "sog_card": "",
     "title": "County of Winter"
   },
   {
@@ -9543,8 +8181,6 @@
     "extension": "",
     "name": "Celebration of Winter",
     "rarity": "Common",
-    "slug": "1082_celebration_of_winter",
-    "sog_card": "",
     "title": "County of Winter"
   },
   {
@@ -9557,8 +8193,6 @@
     "extension": "",
     "name": "Mystical White Tiger",
     "rarity": "Uncommon",
-    "slug": "1083_mystical_white_tiger",
-    "sog_card": "",
     "title": "County of Winter"
   },
   {
@@ -9571,8 +8205,6 @@
     "extension": "",
     "name": "Necklace of Teeth from Crirawin",
     "rarity": "Rare",
-    "slug": "1084_necklace_of_teeth_from_crirawin",
-    "sog_card": "",
     "title": "County of Winter"
   },
   {
@@ -9585,8 +8217,6 @@
     "extension": "",
     "name": "Musician of the Magic Flute",
     "rarity": "Uncommon",
-    "slug": "1085_musician_of_the_magic_flute",
-    "sog_card": "",
     "title": "County of Autumn"
   },
   {
@@ -9599,8 +8229,6 @@
     "extension": "",
     "name": "Celebration of Autumn",
     "rarity": "Common",
-    "slug": "1086_celebration_of_autumn",
-    "sog_card": "",
     "title": "County of Autumn "
   },
   {
@@ -9613,8 +8241,6 @@
     "extension": "",
     "name": "Protector Royal Deer",
     "rarity": "Uncommon",
-    "slug": "1087_protector_royal_deer",
-    "sog_card": "",
     "title": "County of Autumn"
   },
   {
@@ -9627,8 +8253,6 @@
     "extension": "",
     "name": "Weanara Purse",
     "rarity": "Rare",
-    "slug": "1088_weanara_purse",
-    "sog_card": "",
     "title": "County of Autumn"
   },
   {
@@ -9641,8 +8265,6 @@
     "extension": "",
     "name": "Tree of the Four Seasons",
     "rarity": "Rare",
-    "slug": "1089_tree_of_the_four_seasons",
-    "sog_card": "",
     "title": "Lymronia"
   },
   {
@@ -9655,8 +8277,6 @@
     "extension": "",
     "name": "Mayli, Princess of Summer",
     "rarity": "Rare",
-    "slug": "1090_mayli,_princess_of_summer",
-    "sog_card": "",
     "title": "County of Summer"
   },
   {
@@ -9669,8 +8289,6 @@
     "extension": "",
     "name": "Feodora, Princess of Spring",
     "rarity": "Rare",
-    "slug": "1091_feodora,_princess_of_spring",
-    "sog_card": "",
     "title": "County of Spring"
   },
   {
@@ -9683,8 +8301,6 @@
     "extension": "",
     "name": "Knight of Winter",
     "rarity": "Common",
-    "slug": "1092_knight_of_winter",
-    "sog_card": "",
     "title": "County of Winter"
   },
   {
@@ -9697,8 +8313,6 @@
     "extension": "",
     "name": "Guenievre, Princess of Winter",
     "rarity": "Rare",
-    "slug": "1093_guenievre,_princess_of_winter",
-    "sog_card": "",
     "title": "County of Winter"
   },
   {
@@ -9711,8 +8325,6 @@
     "extension": "",
     "name": "Knight of Autumn",
     "rarity": "Common",
-    "slug": "1094_knight_of_autumn",
-    "sog_card": "",
     "title": "County of Autumn"
   },
   {
@@ -9725,8 +8337,6 @@
     "extension": "",
     "name": "Vera, Princess of Autumn",
     "rarity": "Rare",
-    "slug": "1095_vera,_princess_of_autumn",
-    "sog_card": "",
     "title": "County of Autumn"
   },
   {
@@ -9739,8 +8349,6 @@
     "extension": "",
     "name": "Castle of Autumn",
     "rarity": "Uncommon",
-    "slug": "1096_castle_of_autumn",
-    "sog_card": "",
     "title": "County of Autumn"
   },
   {
@@ -9753,8 +8361,6 @@
     "extension": "",
     "name": "Chessboard of Discord",
     "rarity": "Rare",
-    "slug": "1097_chessboard_of_discord",
-    "sog_card": "",
     "title": "Lymronia"
   },
   {
@@ -9767,8 +8373,6 @@
     "extension": "",
     "name": "Birds Manipulator",
     "rarity": "Common",
-    "slug": "1098_birds_manipulator",
-    "sog_card": "",
     "title": "County of Spring"
   },
   {
@@ -9781,8 +8385,6 @@
     "extension": "",
     "name": "Wise Thral",
     "rarity": "Common",
-    "slug": "1099_wise_thral",
-    "sog_card": "",
     "title": "County of Spring"
   },
   {
@@ -9795,8 +8397,6 @@
     "extension": "",
     "name": "Goblin Army",
     "rarity": "Common",
-    "slug": "1100_goblins_army",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -9809,8 +8409,6 @@
     "extension": "",
     "name": "Unleashed Knight of Shadows",
     "rarity": "Mythical",
-    "slug": "1101_unleashed_knight_of_shadows",
-    "sog_card": "",
     "title": "Knight of Shadows"
   },
   {
@@ -9823,8 +8421,6 @@
     "extension": "",
     "name": "Dragon's Bite",
     "rarity": "Uncommon",
-    "slug": "1102_dragon_s_bite",
-    "sog_card": "",
     "title": "Kingdom of Askarh"
   },
   {
@@ -9837,8 +8433,6 @@
     "extension": "",
     "name": "Sayosian Soldier",
     "rarity": "Common",
-    "slug": "1103_sayosien_s_soldier",
-    "sog_card": "",
     "title": "Empire of Sayosia"
   },
   {
@@ -9851,8 +8445,6 @@
     "extension": "",
     "name": "Recruiter of the Alliance of Marnordir",
     "rarity": "Uncommon",
-    "slug": "1104_recruiter_of_the_alliance_of_marnordir",
-    "sog_card": "",
     "title": "Alliance of Marnordir"
   },
   {
@@ -9865,8 +8457,6 @@
     "extension": "",
     "name": "Spells Corruptor",
     "rarity": "Mythical",
-    "slug": "1105_spells_corruptor",
-    "sog_card": "",
     "title": "Tanabria"
   },
   {
@@ -9879,8 +8469,6 @@
     "extension": "",
     "name": "Spirit of the Hill",
     "rarity": "Uncommon",
-    "slug": "1106_spirit_of_the_hill",
-    "sog_card": "",
     "title": "Empire of Sayosia"
   },
   {
@@ -9893,8 +8481,6 @@
     "extension": "",
     "name": "Juzil's Fighter",
     "rarity": "Common",
-    "slug": "1107_juzil_s_fighter",
-    "sog_card": "",
     "title": "Alliance of Marnordir"
   },
   {
@@ -9907,8 +8493,6 @@
     "extension": "",
     "name": "Creature from the Kingdom of Waters",
     "rarity": "Uncommon",
-    "slug": "1108_creature_from_the_kingdom_of_waters",
-    "sog_card": "",
     "title": "Kingdom of Waters"
   },
   {
@@ -9921,8 +8505,6 @@
     "extension": "",
     "name": "Golem Relic",
     "rarity": "Rare",
-    "slug": "1109_golem_relic",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -9935,8 +8517,6 @@
     "extension": "",
     "name": "Overarmed Dwarf",
     "rarity": "Rare",
-    "slug": "1110_overarmed_dwarf",
-    "sog_card": "OVERARMEDDWA",
     "title": "Kingdom of Askarh"
   },
   {
@@ -9949,8 +8529,6 @@
     "extension": "",
     "name": "Mountains Colossus",
     "rarity": "Uncommon",
-    "slug": "1111_mountains_colossus",
-    "sog_card": "",
     "title": "Loner"
   },
   {
@@ -9963,8 +8541,6 @@
     "extension": "",
     "name": "Mermaid from the Kingdom of Waters",
     "rarity": "Common",
-    "slug": "1112_mermaid_from_the_kingdom_of_waters",
-    "sog_card": "",
     "title": "Kingdom of Waters"
   },
   {
@@ -9977,8 +8553,6 @@
     "extension": "",
     "name": "Manuscript of Marnordir",
     "rarity": "Common",
-    "slug": "1113_manuscript_of_marnordir",
-    "sog_card": "",
     "title": "Alliance of Marnordir"
   },
   {
@@ -9991,8 +8565,6 @@
     "extension": "",
     "name": "Great Black Plague",
     "rarity": "Uncommon",
-    "slug": "1114_great_black_plague",
-    "sog_card": "",
     "title": ""
   },
   {
@@ -10005,8 +8577,6 @@
     "extension": "",
     "name": "Ghost Handler Mage",
     "rarity": "Common",
-    "slug": "1115_ghost_handler_mage",
-    "sog_card": "",
     "title": "Tanabria"
   },
   {
@@ -10019,8 +8589,6 @@
     "extension": "",
     "name": "Dragon Warrior",
     "rarity": "Rare",
-    "slug": "1116_dragon_warrior",
-    "sog_card": "",
     "title": "Empire of Sayosia"
   },
   {
@@ -10033,8 +8601,6 @@
     "extension": "",
     "name": "Mage of Transformation",
     "rarity": "Uncommon",
-    "slug": "1117_mage_of_transformation",
-    "sog_card": "",
     "title": "Alliance of Marnordir"
   },
   {
@@ -10047,8 +8613,6 @@
     "extension": "",
     "name": "Indomitable Leviathan",
     "rarity": "Rare",
-    "slug": "1118_indomitable_leviathan",
-    "sog_card": "",
     "title": "Kingdom of Waters"
   },
   {
@@ -10061,8 +8625,6 @@
     "extension": "",
     "name": "Bone-Breaking Troll",
     "rarity": "Common",
-    "slug": "1119_bones_breaking_troll",
-    "sog_card": "",
     "title": "Kingdom of Kilam-Jûl"
   },
   {
@@ -10074,9 +8636,7 @@
     "design_link": "",
     "extension": "Special Issue",
     "name": "Astral Priestess",
-    "rarity": "",
-    "slug": "600_astral_priestess",
-    "sog_card": "",
+    "rarity": "Mythical",
     "title": ""
   },
   {
@@ -10088,9 +8648,7 @@
     "design_link": "",
     "extension": "Special Issue",
     "name": "Dark Attack",
-    "rarity": "",
-    "slug": "601_dark_attack",
-    "sog_card": "",
+    "rarity": "Mythical",
     "title": "Obscuras"
   },
   {
@@ -10102,9 +8660,7 @@
     "design_link": "",
     "extension": "Special Issue",
     "name": "Light Attack",
-    "rarity": "",
-    "slug": "602_light_attack",
-    "sog_card": "",
+    "rarity": "Mythical",
     "title": "Luminatis"
   },
   {
@@ -10116,9 +8672,7 @@
     "design_link": "",
     "extension": "Special Issue",
     "name": "Minotaur Archer 1",
-    "rarity": "",
-    "slug": "603_minotaur_archer",
-    "sog_card": "",
+    "rarity": "Mythical",
     "title": "Obscuras"
   },
   {
@@ -10130,9 +8684,7 @@
     "design_link": "",
     "extension": "Special Issue",
     "name": "Demon Warrior",
-    "rarity": "",
-    "slug": "604_demon_warrior",
-    "sog_card": "",
+    "rarity": "Mythical",
     "title": "Obscuras"
   },
   {
@@ -10144,9 +8696,7 @@
     "design_link": "",
     "extension": "Special Issue",
     "name": "Scholar Angel",
-    "rarity": "",
-    "slug": "605_scholar_angel",
-    "sog_card": "",
+    "rarity": "Mythical",
     "title": "Luminatis"
   },
   {
@@ -10158,9 +8708,7 @@
     "design_link": "",
     "extension": "Special Issue",
     "name": "Centaur Slicer",
-    "rarity": "",
-    "slug": "606_centaur_slicer",
-    "sog_card": "",
+    "rarity": "Mythical",
     "title": "Luminatis"
   },
   {
@@ -10172,9 +8720,7 @@
     "design_link": "",
     "extension": "Special Issue",
     "name": "Minotaur Archer 2",
-    "rarity": "",
-    "slug": "607_minotaur_archer",
-    "sog_card": "",
+    "rarity": "Mythical",
     "title": "Obscuras"
   },
   {
@@ -10186,9 +8732,7 @@
     "design_link": "",
     "extension": "Special Issue",
     "name": "Reinforcements Army",
-    "rarity": "",
-    "slug": "608_reinforcements_army",
-    "sog_card": "",
+    "rarity": "Mythical",
     "title": "Luminatis"
   },
   {
@@ -10200,9 +8744,7 @@
     "design_link": "",
     "extension": "Special Issue",
     "name": "Unicorn Rider",
-    "rarity": "",
-    "slug": "609_unicorn_rider",
-    "sog_card": "",
+    "rarity": "Mythical",
     "title": "County of Winter"
   },
   {
@@ -10214,9 +8756,7 @@
     "design_link": "",
     "extension": "Special Issue",
     "name": "Griffins Warrior",
-    "rarity": "",
-    "slug": "610_griffins_warrior",
-    "sog_card": "",
+    "rarity": "Mythical",
     "title": "County of Spring"
   },
   {
@@ -10228,9 +8768,7 @@
     "design_link": "",
     "extension": "Special Issue",
     "name": "Rulvars Tamer",
-    "rarity": "",
-    "slug": "611_rulvars_tamer",
-    "sog_card": "",
+    "rarity": "Mythical",
     "title": "County of Summer"
   },
   {
@@ -10242,9 +8780,7 @@
     "design_link": "",
     "extension": "Special Issue",
     "name": "Royal Deer Rider",
-    "rarity": "",
-    "slug": "612_royal_deer_rider",
-    "sog_card": "",
+    "rarity": "Mythical",
     "title": "County of Autumn"
   },
   {
@@ -10256,9 +8792,7 @@
     "design_link": "",
     "extension": "Special Issue",
     "name": "Gravedigger of White Death",
-    "rarity": "",
-    "slug": "613_gravedigger_of_white_death",
-    "sog_card": "",
+    "rarity": "Mythical",
     "title": "County of Winter"
   },
   {
@@ -10270,9 +8804,7 @@
     "design_link": "",
     "extension": "Special Issue",
     "name": "Howling Crirawin",
-    "rarity": "",
-    "slug": "614_howling_crirawin",
-    "sog_card": "",
+    "rarity": "Mythical",
     "title": "County of Winter"
   },
   {
@@ -10284,9 +8816,7 @@
     "design_link": "",
     "extension": "Special Issue",
     "name": "Mayli, Princess of Summer",
-    "rarity": "",
-    "slug": "615_mayli,_princess_of_summer",
-    "sog_card": "",
+    "rarity": "Mythical",
     "title": "County of Summer"
   },
   {
@@ -10298,9 +8828,7 @@
     "design_link": "",
     "extension": "Special Issue",
     "name": "Group of Unicorns",
-    "rarity": "",
-    "slug": "616_group_of_unicorns",
-    "sog_card": "",
+    "rarity": "Mythical",
     "title": "County of Winter"
   },
   {
@@ -10312,9 +8840,7 @@
     "design_link": "",
     "extension": "Special Issue",
     "name": "Throne of King Gar'Awall",
-    "rarity": "",
-    "slug": "617_throne_of_king_gar_awall",
-    "sog_card": "",
+    "rarity": "Mythical",
     "title": "Alliance of Marnordir"
   },
   {
@@ -10326,9 +8852,7 @@
     "design_link": "",
     "extension": "Special Issue",
     "name": "Oconcha Devourer",
-    "rarity": "",
-    "slug": "618_oconcha_devourer",
-    "sog_card": "",
+    "rarity": "Mythical",
     "title": "Kingdom of Waters"
   },
   {
@@ -10340,9 +8864,7 @@
     "design_link": "",
     "extension": "Special Issue",
     "name": "Vera, Princess of Autumn",
-    "rarity": "",
-    "slug": null,
-    "sog_card": "",
+    "rarity": "Mythical",
     "title": "County of Autumn"
   },
   {
@@ -10354,9 +8876,7 @@
     "design_link": "",
     "extension": "Special Issue",
     "name": "Sadi",
-    "rarity": "",
-    "slug": null,
-    "sog_card": "",
+    "rarity": "Mythical",
     "title": "La tisseuse des ages"
   },
   {
@@ -10368,9 +8888,7 @@
     "design_link": "",
     "extension": "Special Issue",
     "name": "Viix Moon Huntress",
-    "rarity": "",
-    "slug": null,
-    "sog_card": "",
+    "rarity": "Mythical",
     "title": "Carte crée par le joueur Jeff-D"
   },
   {
@@ -10382,9 +8900,7 @@
     "design_link": "",
     "extension": "Special Issue",
     "name": "Stix the slicer",
-    "rarity": "",
-    "slug": null,
-    "sog_card": "",
+    "rarity": "Mythical",
     "title": "Jeff-D player's player card"
   },
   {
@@ -10396,9 +8912,7 @@
     "design_link": "",
     "extension": "Special Issue",
     "name": "Dragon's Invoker",
-    "rarity": "",
-    "slug": null,
-    "sog_card": "",
+    "rarity": "Mythical",
     "title": "Jeff-D player's player card"
   },
   {
@@ -10410,9 +8924,7 @@
     "design_link": "",
     "extension": "Special Issue",
     "name": "Enraged Claw",
-    "rarity": "",
-    "slug": null,
-    "sog_card": "",
+    "rarity": "Mythical",
     "title": "Jeff-D player's card"
   },
   {
@@ -10424,9 +8936,7 @@
     "design_link": "",
     "extension": "Special Issue",
     "name": "Mayal Queen of Lymronia",
-    "rarity": "",
-    "slug": null,
-    "sog_card": "",
+    "rarity": "Mythical",
     "title": "Lymronia"
   },
   {
@@ -10438,9 +8948,7 @@
     "design_link": "",
     "extension": "Special Issue",
     "name": "Wonderful Egg",
-    "rarity": "",
-    "slug": null,
-    "sog_card": "",
+    "rarity": "Mythical",
     "title": "Egg"
   },
   {
@@ -10452,9 +8960,7 @@
     "design_link": "",
     "extension": "Special Issue",
     "name": "Boouus egg",
-    "rarity": "",
-    "slug": null,
-    "sog_card": "BOOUUSEGG",
+    "rarity": "Mythical",
     "title": "card by boouus"
   },
   {
@@ -10467,8 +8973,6 @@
     "extension": "Victory",
     "name": "Burning Ice Itlan Warrior",
     "rarity": "Uncommon",
-    "slug": null,
-    "sog_card": "",
     "title": "Alliance of Marnordir"
   },
   {
@@ -10481,8 +8985,6 @@
     "extension": "Victory",
     "name": "Horde of dogs",
     "rarity": "Rare",
-    "slug": null,
-    "sog_card": "",
     "title": "Marnordir Alliance"
   },
   {
@@ -10495,8 +8997,6 @@
     "extension": "Victory",
     "name": "Leaf Fall",
     "rarity": "Uncommon",
-    "slug": null,
-    "sog_card": "",
     "title": ""
   },
   {
@@ -10509,8 +9009,6 @@
     "extension": "Victory",
     "name": "Victuals Champion",
     "rarity": "Rare",
-    "slug": null,
-    "sog_card": "",
     "title": "Obscuras"
   },
   {
@@ -10523,8 +9021,6 @@
     "extension": "Victory",
     "name": "Aodh Twilight",
     "rarity": "Mythical",
-    "slug": null,
-    "sog_card": "",
     "title": ""
   },
   {
@@ -10537,8 +9033,6 @@
     "extension": "Victory",
     "name": "Twilight Alliance",
     "rarity": "Rare",
-    "slug": null,
-    "sog_card": "",
     "title": "Obscuras and Luminatis"
   },
   {
@@ -10551,8 +9045,6 @@
     "extension": "Victory",
     "name": "Suffering of the Goblin",
     "rarity": "Common",
-    "slug": null,
-    "sog_card": "",
     "title": ""
   },
   {
@@ -10565,8 +9057,6 @@
     "extension": "Victory",
     "name": "Resurgence of Aodh",
     "rarity": "Rare",
-    "slug": null,
-    "sog_card": "",
     "title": "Obscuras"
   },
   {
@@ -10579,8 +9069,6 @@
     "extension": "Victory",
     "name": "Leader of the land of Itlan",
     "rarity": "Rare",
-    "slug": null,
-    "sog_card": "",
     "title": "Marnordir Alliance"
   },
   {
@@ -10593,8 +9081,6 @@
     "extension": "Victory",
     "name": "Gems of disaster",
     "rarity": "Common",
-    "slug": null,
-    "sog_card": "",
     "title": "Kingdom of Askarh"
   },
   {
@@ -10607,8 +9093,6 @@
     "extension": "Victory",
     "name": "Accomplice Minotaures",
     "rarity": "Rare",
-    "slug": null,
-    "sog_card": "",
     "title": "Obscure"
   },
   {
@@ -10621,8 +9105,6 @@
     "extension": "Victory",
     "name": "Mushroom Pile",
     "rarity": "Rare",
-    "slug": null,
-    "sog_card": "",
     "title": "Kingdom of Askarh"
   },
   {
@@ -10635,8 +9117,6 @@
     "extension": "Victory",
     "name": "Fortune of Sayosia",
     "rarity": "Uncommon",
-    "slug": null,
-    "sog_card": "",
     "title": ""
   },
   {
@@ -10649,8 +9129,6 @@
     "extension": "Victory",
     "name": "Potions of the students from Carniath",
     "rarity": "Rare",
-    "slug": null,
-    "sog_card": "",
     "title": ""
   },
   {
@@ -10663,8 +9141,6 @@
     "extension": "Victory",
     "name": "rabid Leviathan",
     "rarity": "Common",
-    "slug": null,
-    "sog_card": "",
     "title": "United Water"
   },
   {
@@ -10677,8 +9153,6 @@
     "extension": "Victory",
     "name": "1715",
     "rarity": "Rare",
-    "slug": null,
-    "sog_card": "",
     "title": ""
   },
   {
@@ -10691,8 +9165,6 @@
     "extension": "Victory",
     "name": "Gwohadus the destructor",
     "rarity": "Uncommon",
-    "slug": null,
-    "sog_card": "",
     "title": ""
   },
   {
@@ -10705,8 +9177,6 @@
     "extension": "Victory",
     "name": "Tsunami Wave",
     "rarity": "Rare",
-    "slug": null,
-    "sog_card": "",
     "title": ""
   },
   {
@@ -10719,8 +9189,6 @@
     "extension": "Victory",
     "name": "Blessed Warrior Angel",
     "rarity": "Common",
-    "slug": null,
-    "sog_card": "",
     "title": "Luminatis"
   },
   {
@@ -10733,8 +9201,6 @@
     "extension": "Victory",
     "name": "Furious Dwarf",
     "rarity": "Rare",
-    "slug": null,
-    "sog_card": "",
     "title": "Kingdom of Askarh"
   },
   {
@@ -10747,8 +9213,6 @@
     "extension": "Victory",
     "name": "Water elf healer of the soul",
     "rarity": "Uncommon",
-    "slug": null,
-    "sog_card": "",
     "title": "United Water"
   },
   {
@@ -10761,8 +9225,6 @@
     "extension": "Victory",
     "name": "Sparkling eternal peace",
     "rarity": "Rare",
-    "slug": null,
-    "sog_card": "",
     "title": "Clan of the Enchanted Lake"
   },
   {
@@ -10775,8 +9237,6 @@
     "extension": "Victory",
     "name": "Green Lepidopigas",
     "rarity": "Common",
-    "slug": null,
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -10789,8 +9249,6 @@
     "extension": "Victory",
     "name": "Rebel Griffins",
     "rarity": "Common",
-    "slug": null,
-    "sog_card": "",
     "title": "Principality of Spring"
   },
   {
@@ -10803,8 +9261,6 @@
     "extension": "Victory",
     "name": "Alternate recruiter of Marnordir",
     "rarity": "Uncommon",
-    "slug": null,
-    "sog_card": "",
     "title": "Marnordir Alliance"
   },
   {
@@ -10817,8 +9273,6 @@
     "extension": "Victory",
     "name": "Fabric seasons",
     "rarity": "Uncommon",
-    "slug": null,
-    "sog_card": "",
     "title": ""
   },
   {
@@ -10831,8 +9285,6 @@
     "extension": "Victory",
     "name": "Larva Omnivore",
     "rarity": "Common",
-    "slug": null,
-    "sog_card": "",
     "title": "larva"
   },
   {
@@ -10845,8 +9297,6 @@
     "extension": "Victory",
     "name": "The Light Absorbing Warrior",
     "rarity": "Uncommon",
-    "slug": null,
-    "sog_card": "",
     "title": "Durstor"
   },
   {
@@ -10859,8 +9309,6 @@
     "extension": "Victory",
     "name": "Poisonous Mantis",
     "rarity": "Common",
-    "slug": null,
-    "sog_card": "",
     "title": "Kingdom of Abethia"
   },
   {
@@ -10873,8 +9321,6 @@
     "extension": "Victory",
     "name": "Fury",
     "rarity": "Common",
-    "slug": null,
-    "sog_card": "",
     "title": "Goblin"
   },
   {
@@ -10887,8 +9333,6 @@
     "extension": "Victory",
     "name": "Imaginary Servant",
     "rarity": "Rare",
-    "slug": null,
-    "sog_card": "",
     "title": ""
   },
   {
@@ -10901,8 +9345,6 @@
     "extension": "Victory",
     "name": "Spirit of Kylivan",
     "rarity": "",
-    "slug": null,
-    "sog_card": "",
     "title": ""
   }
 ]
