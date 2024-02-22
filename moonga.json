@@ -144,7 +144,7 @@
     "title": "Clan of the Enchanted Lake"
   },
   {
-    "artist": "",
+    "artist": "Gaëlle Gioria",
     "card_id": 213,
     "core_set": "Rebirth",
     "description": "Your opponent cannot invest more than 2pp  \n\nEach player gains 2pp",
@@ -156,7 +156,7 @@
     "title": "Xul'noc Kingdom"
   },
   {
-    "artist": "",
+    "artist": "Gaëlle Gioria",
     "card_id": 214,
     "core_set": "Rebirth",
     "description": "Your opponent cannot invest more than 2pp ",
@@ -168,7 +168,7 @@
     "title": "Xul'noc Kingdom"
   },
   {
-    "artist": "",
+    "artist": "Gaëlle Gioria",
     "card_id": 215,
     "core_set": "Rebirth",
     "description": "Your opponent cannot invest more than 2pp ",
@@ -180,7 +180,7 @@
     "title": "Xul'noc Kingdom"
   },
   {
-    "artist": "",
+    "artist": "Gaëlle Gioria",
     "card_id": 216,
     "core_set": "Rebirth",
     "description": "Your opponent cannot invest more than 2pp ",
@@ -192,7 +192,7 @@
     "title": "Xul'noc Kingdom"
   },
   {
-    "artist": "",
+    "artist": "Gaëlle Gioria",
     "card_id": 217,
     "core_set": "Rebirth",
     "description": "Your opponent cannot invest more than 2pp\n",
@@ -612,7 +612,7 @@
     "title": "Loner"
   },
   {
-    "artist": "",
+    "artist": "Andrius Matijosius",
     "card_id": 252,
     "core_set": "Rebirth",
     "description": "4 direct damage are dealt to each player.\n\nYou gain 3pp",
@@ -2436,7 +2436,7 @@
     "title": "Vils-naimas"
   },
   {
-    "artist": "",
+    "artist": "Dai Chian Jin",
     "card_id": 404,
     "core_set": "",
     "description": "If your opponent plays his Support Spell this round, 2 damage points dealt to you are prevented.",
@@ -3420,7 +3420,7 @@
     "title": "Vils-naimas"
   },
   {
-    "artist": "",
+    "artist": "Eimi Otsuka",
     "card_id": 486,
     "core_set": "",
     "description": "If the initial patk of your opponent's Attack Spell are equal or superior to 4, your \noponent's Attack Spell gains patk-1 pdef-1 pdd-1",
@@ -3576,7 +3576,7 @@
     "title": "Noras"
   },
   {
-    "artist": "",
+    "artist": "magiking",
     "card_id": 499,
     "core_set": "",
     "description": "You and your opponent invest 3pp ",
@@ -4404,7 +4404,7 @@
     "title": "Obscuras"
   },
   {
-    "artist": "",
+    "artist": "Hélène Alonso",
     "card_id": 568,
     "core_set": "",
     "description": "If your opponent's Attack Spell is :light: type, you gain 1pv\n\n\nYou gain 1pp\n",
@@ -4416,7 +4416,7 @@
     "title": "Luminatis"
   },
   {
-    "artist": "",
+    "artist": "Hélène Alonso",
     "card_id": 569,
     "core_set": "",
     "description": "If your opponent's Attack Spell is :dark: type, you gain 1pp\n\nYou gain 1pp\n",
@@ -8628,7 +8628,7 @@
     "title": "Kingdom of Kilam-Jûl"
   },
   {
-    "artist": "",
+    "artist": "Eimi Otsuka",
     "card_id": 600,
     "core_set": "",
     "description": "2 damage dealt to you are prevented.\n\nThe opponent can not play his Support Spell.",
