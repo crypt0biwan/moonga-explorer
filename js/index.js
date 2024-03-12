@@ -1049,6 +1049,7 @@ const setup_modal = () => {
                     html += `<tr><td>Rarity</td><td>${rarity} (${get_rarity_color(rarity)}, see logo top right)</td></tr>`
                     
                     if(sog_card) {
+                        html += `<tr><td>SoG Name</td><td>${sog_card.contracts.counterparty.id}</td></tr>`
                         html += `<tr><td>SoG Rarity</td><td>${sog_card.rarity}</td></tr>`
                     }
 
