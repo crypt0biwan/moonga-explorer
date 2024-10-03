@@ -1188,6 +1188,90 @@
     "title": "Kingdom of Askarh"
   },
   {
+    "artist": "Sandara Tang",
+    "card_id": 301,
+    "core_set": "Rebirth",
+    "description": "If your opponent invests less than 2pp this round, Infernal Trackers deals 2 direct damage to him.",
+    "design_date": "",
+    "design_link": "",
+    "extension": "",
+    "name": "Infernal Trackers",
+    "rarity": "Common",
+    "title": "Tanabria"
+  },
+  {
+    "artist": "Sandara Tang",
+    "card_id": 302,
+    "core_set": "Rebirth",
+    "description": "",
+    "design_date": "",
+    "design_link": "",
+    "extension": "",
+    "name": "Desert Tyran",
+    "rarity": "Uncommon",
+    "title": "Tanabria"
+  },
+  {
+    "artist": "Sandara Tang",
+    "card_id": 303,
+    "core_set": "Rebirth",
+    "description": "",
+    "design_date": "",
+    "design_link": "",
+    "extension": "",
+    "name": "Desert Demon",
+    "rarity": "Uncommon",
+    "title": "Tanabria"
+  },
+  {
+    "artist": "Sandara Tang",
+    "card_id": 304,
+    "core_set": "Rebirth",
+    "description": "If your opponent invests 2pp this round, Terrorsower of the Fields makes you lose 3pv (These damage cannot be prevented)",
+    "design_date": "",
+    "design_link": "",
+    "extension": "",
+    "name": "Terrorsower of the Fields",
+    "rarity": "Rare",
+    "title": "Loner"
+  },
+  {
+    "artist": "Sandara Tang",
+    "card_id": 305,
+    "core_set": "Rebirth",
+    "description": "If both players play their Support Spell, you gain 2pp",
+    "design_date": "",
+    "design_link": "",
+    "extension": "",
+    "name": "Wood Enchanter",
+    "rarity": "Uncommon",
+    "title": "Alliance of Marnordir"
+  },
+  {
+    "artist": "Sandara Tang",
+    "card_id": 306,
+    "core_set": "Rebirth",
+    "description": "If you play Watcher of the Enchanted Lake at the last round and if you also play your Support Spell, you gain 2pv",
+    "design_date": "",
+    "design_link": "",
+    "extension": "",
+    "name": "Watcher of the Enchanted Lake",
+    "rarity": "Rare",
+    "title": "Clan of the Enchanted Lake"
+  },
+  {
+    "artist": "Sandara Tang",
+    "card_id": 307,
+    "core_set": "Rebirth",
+    "description": "Your Attack Spell and your opponent's Attack Spell become :water: type.\n\nYou gain 2pp",
+    "design_date": "",
+    "design_link": "",
+    "extension": "",
+    "name": "Dream World",
+    "rarity": "Uncommon",
+    "title": "Clan of the Enchanted Lake"
+  },
+  {
     "artist": "Herckeim",
     "card_id": 1300,
     "core_set": "",
@@ -1220,7 +1304,7 @@
     "design_link": "https://www.deviantart.com/moonga/art/Moonga-Beetle-367744085",
     "extension": "Abethia",
     "name": "Scarab",
-    "rarity": "",
+    "rarity": "Comon",
     "title": "Kingdom of Abethia"
   },
   {
@@ -1232,7 +1316,7 @@
     "design_link": "https://www.deviantart.com/moonga/art/Moonga-Giant-Beetle-367744465",
     "extension": "Abethia",
     "name": "Giant Scarab",
-    "rarity": "",
+    "rarity": "Uncommon",
     "title": "Kingdom of Abethia"
   },
   {
@@ -1244,7 +1328,7 @@
     "design_link": "",
     "extension": "Abethia",
     "name": "Viscula Scarab",
-    "rarity": "",
+    "rarity": "Rare",
     "title": "Kingdom of Abethia"
   },
   {
@@ -4412,7 +4496,7 @@
     "design_link": "",
     "extension": "DursTor",
     "name": "Milial Vitalist",
-    "rarity": "",
+    "rarity": "Uncommon",
     "title": "Luminatis"
   },
   {
@@ -4424,7 +4508,7 @@
     "design_link": "",
     "extension": "DursTor",
     "name": "Sunktar Vitalist",
-    "rarity": "",
+    "rarity": "Uncommon",
     "title": "Obscuras"
   },
   {
@@ -6896,7 +6980,7 @@
     "design_link": "https://www.deviantart.com/moonga/art/Moonga-Ruval-Possessor-of-the-Flame-332672014",
     "extension": "Lymronia",
     "name": "Rulvar, Possessor of the Flame",
-    "rarity": "",
+    "rarity": "Rare",
     "title": "County of Summer"
   },
   {
@@ -7268,7 +7352,7 @@
     "design_link": "https://www.deviantart.com/moonga/art/Ocean-Dragon-153447878",
     "extension": "",
     "name": "Oceandisorder Leviathan",
-    "rarity": "",
+    "rarity": "Uncommon",
     "title": "Kingdom of Waters"
   },
   {
@@ -8928,6 +9012,18 @@
     "title": "Jeff-D player's card"
   },
   {
+    "artist": "Adrien Amilhat",
+    "card_id": 626,
+    "core_set": "",
+    "description": "Hello",
+    "design_date": "",
+    "design_link": "",
+    "extension": "Special Issue",
+    "name": "Eternal Peace",
+    "rarity": "Mythical",
+    "title": "Joy and Joy"
+  },
+  {
     "artist": "Sandara Tang",
     "card_id": 627,
     "core_set": "",
@@ -9192,6 +9288,42 @@
     "title": "Luminatis"
   },
   {
+    "artist": "",
+    "card_id": 1719,
+    "core_set": "",
+    "description": "Yearly Celebration acts according to the cards you have in your deck.\nFor a :fire: card, Yearly Celebration deals 1 direct damage.\nFor a :water: card, you earn 1pv\nFor an :ice: card, your Spell gains pdef+1\nFor an :earth: card, 1 damage is prevented",
+    "design_date": "",
+    "design_link": "",
+    "extension": "Victory",
+    "name": "Yearly Celebration",
+    "rarity": "",
+    "title": ""
+  },
+  {
+    "artist": "Pablo Fernandez",
+    "card_id": 1720,
+    "core_set": "",
+    "description": "Chevalier des Ombres transcendantal doré inflige 2 pts de dégâts direct et gagne patk-0 pdef-1 pdd-1\n\nSi l'ennemi n'est pas du type :fire: Chevalier des Ombres transcendantal doré inflige 1 point de dégât direct.",
+    "design_date": "",
+    "design_link": "",
+    "extension": "Victory",
+    "name": "Chevalier des Ombres transcendantal doré",
+    "rarity": "",
+    "title": ""
+  },
+  {
+    "artist": "Herckeim",
+    "card_id": 1721,
+    "core_set": "",
+    "description": "4 pts de dégâts sont prévenus.\n\n:ly.if: Guenièvre princesse de l'Hiver gagne patk+2",
+    "design_date": "",
+    "design_link": "",
+    "extension": "Victory",
+    "name": "Guenievre princesse de l'Hiver éternel",
+    "rarity": "",
+    "title": "Principauté de l'Hiver"
+  },  
+  {
     "artist": "Jerome Jacinto",
     "card_id": 1722,
     "core_set": "",
@@ -9301,6 +9433,18 @@
   },
   {
     "artist": "Herckeim",
+    "card_id": 1732,
+    "core_set": "",
+    "description": "fgsg g tg htzghrth j",
+    "design_date": "",
+    "design_link": "",
+    "extension": "Victory",
+    "name": "li",
+    "rarity": "Common",
+    "title": ""
+  },
+  {
+    "artist": "Herckeim",
     "card_id": 1733,
     "core_set": "",
     "description": "The poisonous mantis gain patk--1 pdef-4\n\nThe mantis deals 4 damage points directly to your opponent.\n\nIf no damage point to your opponent at the end of the round you gain 5pv.",
@@ -9324,6 +9468,42 @@
     "title": "Goblin"
   },
   {
+    "artist": "Nicolas Vallée",
+    "card_id": 1735,
+    "core_set": "",
+    "description": "If another Troll attack spell is in your deck, Troll Legion gains patk+1 pdef+1 pdd+1",
+    "design_date": "",
+    "design_link": "",
+    "extension": "Victory",
+    "name": "Troll Legion",
+    "rarity": "Uncommon",
+    "title": ""
+  },  
+  {
+    "artist": "Herckeim",
+    "card_id": 1736,
+    "core_set": "",
+    "description": "If X'aria, Pretender to the Throne is played during turn 2, she gains patk+1 pdef-1 pdd+1\nIf she is played turn 3, she gains patk+3 pdef-3 pdd+3\nIf she is played turn 4, she gains patk+5 pdef-5 pdd+5",
+    "design_date": "",
+    "design_link": "",
+    "extension": "Victory",
+    "name": "X'aria, Pretender to the Throne",
+    "rarity": "Mythical",
+    "title": ""
+  },    
+  {
+    "artist": "ALA1N-J",
+    "card_id": 1737,
+    "core_set": "",
+    "description": "Each player earns 2pp\nIf you do not play your Support Spell, you earn 2pv",
+    "design_date": "",
+    "design_link": "",
+    "extension": "Victory",
+    "name": "Wood Bowman",
+    "rarity": "",
+    "title": ""
+  },  
+  {
     "artist": "Jerome Jacinto",
     "card_id": 1738,
     "core_set": "",
@@ -9335,6 +9515,42 @@
     "rarity": "Rare",
     "title": ""
   },
+  {
+    "artist": "Nicolas Vallée",
+    "card_id": 1739,
+    "core_set": "",
+    "description": "You lose 1pv\nUnfortunate Storm gains  patk+2 pdef+0 pdd+2",
+    "design_date": "",
+    "design_link": "",
+    "extension": "Victory",
+    "name": "Unfortunate Storm",
+    "rarity": "",
+    "title": ""
+  },
+  {
+    "artist": "Edli Akoli",
+    "card_id": 1740,
+    "core_set": "",
+    "description": "Soul Eater inflicts 2 direct damage to your opponentinflige 1 point de dégâts directs à l'adversaire.\nFor every 2 damage prevented, your opponent loses 1pp",
+    "design_date": "",
+    "design_link": "",
+    "extension": "Victory",
+    "name": "Soul Eater",
+    "rarity": "Rare",
+    "title": ""
+  },
+  {
+    "artist": "Edli Akoli",
+    "card_id": 1741,
+    "core_set": "",
+    "description": "The Lord of Darkness comes from the outer lands beyond Askian. He feeds on terror and despair, and is feared by all. Only the purest magic can stop him, swords and axes are useless.",
+    "design_date": "",
+    "design_link": "",
+    "extension": "Victory",
+    "name": "Lord of Darkness",
+    "rarity": "",
+    "title": ""
+  },  
   {
     "artist": "Edli Akoli",
     "card_id": 1742,

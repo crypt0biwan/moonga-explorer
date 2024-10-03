@@ -906,13 +906,13 @@ const render_set = (set, cards = [], render_set_name = true) => {
                 <div class="card-body text-center">
                     <h5 class="card-title">${name}</h5>
                     
-                    <div class="mb-2">${rarity ? `(${rarity})` : ''}</div>
+                    <div class="mb-2">${`#${card_id}`} ${rarity ? `(${rarity})` : ``}</div>
                     <div class="mb-2">${artist ? `Artist: ${artist}` : ''}</div>
 
                     <div class="d-grid gap-2">
                         <button class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#moongaModal" data-card-id="${card_id}">INFO</button>
 
-                        ${sog_card ? `<a href="https://xchain.io/asset/${sog_card.contracts.counterparty.id}" target="_blank" class="btn btn-light">View SoG card on Xchain</a>` : ''}
+                        ${sog_card ? `<a href="https://tokenscan.io/asset/${sog_card.contracts.counterparty.id}" target="_blank" class="btn btn-light">View SoG card on tokenscan</a>` : ''}
                     </div>
                 </div>
             </div>
@@ -962,6 +962,8 @@ const render_description = description => {
     html = html.replace(/:ly.ef:/g, `<span class="icon_text" title="Ether-Fire affinity"><img class="icon" src="./icons/ether-fire.png" /></span>`)
     html = html.replace(/:ly.ei:/g, `<span class="icon_text" title="Ether-Ice affinity"><img class="icon" src="./icons/ether-ice.png" /></span>`)
     html = html.replace(/:ly.ew:/g, `<span class="icon_text" title="Ether-Water affinity"><img class="icon" src="./icons/ether-water.png" /></span>`)
+
+    html = html.replace(/:ly.if:/g, `<span class="icon_text" title="Ice-Fire affinity"><img class="icon" src="./icons/winter.png" /></span>`)
 
     html = html.replace(/[ ]?patk(.\d+)?[ ]?/g, `<span class="icon_text" title="$1 attack point(s)"><img class="icon" src="./icons/atk.png" /><span class="text">$1</span></span>`)
     html = html.replace(/[ ]?pdef(.\d+)?[ ]?/g, `<span class="icon_text" title="$1 defense point(s)"><img class="icon" src="./icons/def.png" /><span class="text">$1</span></span>`)
@@ -1046,7 +1048,7 @@ const setup_modal = () => {
                     html += `<tr><td>Artist</td><td>${artist}</td></tr>`
                     html += `<tr><td>Title</td><td>${title ? title : 'n/a'}</td></tr>`
                     html += `<tr><td>Description</td><td>${description ? render_description(description) : 'n/a'}</td></tr>`
-                    html += `<tr><td>Rarity</td><td>${rarity} (${get_rarity_color(rarity)}, see logo top right)</td></tr>`
+                    html += `<tr><td>Rarity</td><td>${rarity} ${rarity ? `(${get_rarity_color(rarity)}, see logo top right)` : 'n/a'}</td></tr>`
                     
                     if(sog_card) {
                         html += `<tr><td>SoG Name</td><td>${sog_card.contracts.counterparty.id}</td></tr>`
@@ -1065,7 +1067,7 @@ const setup_modal = () => {
 
                         html += '<div class="d-grid gap-2 pt-3">'
                         html += `<a href="https://spellsofgenesis.com/cards/${sog_card.unid}" target="_blank" class="btn btn-primary">View on SoG.com</a>`
-                        html += `<a href="https://xchain.io/asset/${sog_card.contracts.counterparty.id}" target="_blank" class="btn btn-primary">View on Xchain</a>`
+                        html += `<a href="https://tokenscan.io/asset/${sog_card.contracts.counterparty.id}" target="_blank" class="btn btn-primary">View on tokenscan</a>`
                         html += '</div>'
                         html += '</div>'
                     }
